@@ -29,66 +29,65 @@
 
 ```text
 project/
-├─ data/                      # 데이터 단계별 관리(원본/중간/최종)
-│  ├─ 00_raw/
-│  ├─ 01_interim/
-│  └─ 02_processed/
+├─ 00_data/                   # 데이터 저장소(원본→중간→최종).
+│  ├─ 00_raw/                 # 원본 데이터(절대 수정 금지). 수집/다운로드 받은 그대로 보관
+│  ├─ 01_interim/             # 중간 산출물(전처리). 병합/정제/필터링 등 단계별 결과
+│  └─ 02_processed/           # 최종 학습/추론용 데이터. 모델 입력으로 바로 쓰는 형태(스키마 고정 권장)
 │
-├─ notebooks/                 # 개인 실험/탐색용(재현 로직은 src로 이전 권장)
-│  ├─ 00_ingestion/
-│  ├─ 01_preprocessing/
-│  ├─ 02_features/
-│  ├─ 03_models/
-│  ├─ 04_training/
-│  └─ 99_sandbox/
+├─ 01_notebooks/              # 개인 실험/탐색용 노트북(EDA/가설검증). 재현 필요 로직은 src/로 이전
+│  ├─ 00_ingestion/           # 데이터 불러오기/확인(원천 로드, 컬럼 파악, 기초 검증)
+│  ├─ 01_preprocessing/       # 전처리 실험(결측/이상치/인코딩/스케일링/분할 전략 탐색)
+│  ├─ 02_features/            # 피처 엔지니어링 실험(파생변수, 집계, feature selection 아이디어)
+│  ├─ 03_models/              # 모델 후보 비교(베이스라인, 알고리즘 비교, 대략 튜닝)
+│  ├─ 04_training/            # 학습 고도화(교차검증, 튜닝, 임계값, 평가 리포트, 재현성 점검)
+│  └─ 99_sandbox/             # 임시 실험/메모/코드조각(버려도 되는 작업 공간)
 │
-├─ src/                       # 팀 공용 핵심 로직(테스트/재사용/재현 가능한 코드)
-│  ├─ common/                 # 경로/seed/logger/config 로더 등 공통
-│  ├─ data/                   # [대분류] 데이터
-│  │  ├─ ingestion/           # 수집/적재
-│  │  ├─ preprocessing/       # 전처리/분할/피쳐
-│  │  └─ io/                  # read/write, 포맷 핸들링
-│  ├─ model/                  # [대분류] 모델
-│  │  ├─ architectures/       # 모델 정의
-│  │  ├─ training/            # 학습/평가/튜닝
-│  │  ├─ inference/           # 추론/후처리
-│  │  └─ registry/            # save/load, 버전/아티팩트 관리
-│  └─ front/                  # [대분류] 프론트(Streamlit 전용)
-│     ├─ ui/                  # 공용 UI 컴포넌트(사이드바/폼 등)
-│     ├─ views/               # 화면 단위 렌더 함수(페이지가 호출)
-│     ├─ state/               # session_state 관리
-│     └─ viz/                 # 시각화 래퍼
-│     
+├─ 02_src/                    # 팀 공용 "재현 가능한" 핵심 코드(모듈화/테스트/재사용 대상)
+│  ├─ 00_common/                 # 공통 유틸(경로관리, seed 고정, 로깅, config 로더, 공통 상수 등)
+│  ├─ 01_data/                   # 데이터 파이프라인 코드(읽고→만들고→저장)
+│  │  ├─ 00_ingestion/           # raw CSV 반입/검증 로직: 파일체크, 스키마검증, 로드표준화
+│  │  ├─ 01_preprocessing/       # 전처리/분할/피처 생성 로직(데이터셋을 학습 가능한 형태로)
+│  │  └─ 02_io/                  # 입출력 표준화(read/write). 포맷(csv/parquet)·경로·스키마 처리
+│  ├─ 02_model/                  # 모델 관련 코드(정의→학습→추론→저장/불러오기)
+│  │  ├─ 00_architectures/       # 모델 구조 정의(클래스/파이프라인/Estimator 래퍼 등)
+│  │  ├─ 01_training/            # 학습/평가/튜닝(훈련 루프, CV, metrics, threshold 등)
+│  │  ├─ 02_inference/           # 추론/후처리(예측 생성, 확률→라벨 변환, 결과 포맷팅)
+│  │  └─ 03_registry/            # 모델/전처리기 저장·로딩, 버전관리, 아티팩트 메타데이터 관리
+│  └─ 03_front/                  # Streamlit 전용 프론트 코드(화면 로직을 src로 분리)
+│     ├─ 00_ui/                  # 재사용 UI 컴포넌트(입력폼, 사이드바, 공통 레이아웃)
+│     ├─ 01_views/               # 페이지 단위 렌더 함수(각 pages/* 가 호출)
+│     ├─ 02_state/               # session_state 관리(필터값, 선택값, 캐시 등 상태관리)
+│     └─ 03_viz/                 # 시각화 래퍼(plt/plotly 공통 함수, 스타일 통일)
 │
-├─ scripts/                   # CLI 실행 엔트리(배치/파이프라인 “정답 실행 경로”)
-│  ├─ 01_fetch_data.py
-│  ├─ 02_make_dataset.py
-│  ├─ 03_build_features.py
-│  ├─ 04_train.py
-│  └─ 05_infer.py
+├─ 03_scripts/                # 실행 엔트리(정답 실행 경로). 파이프라인을 돌리는 CLI 스크립트
+│  ├─ 01_validate_raw.py      # raw CSV 검증/스테이징 실행
+│  ├─ 02_make_dataset.py      # 전처리 파이프라인 실행(raw→interim/processed 생성)
+│  ├─ 03_build_features.py    # 피처 생성 실행(모델 입력 특성 테이블 생성/갱신)
+│  ├─ 04_train.py             # 학습 실행(모델 학습 + 평가 + 아티팩트 저장)
+│  └─ 05_infer.py             # 추론 실행(새 데이터 예측 + 결과 저장/리포트)
 │
-├─ configs/                   # 설정 파일 모음(yaml 등)
+├─ 04_configs/                # 설정 파일(yaml 등). 경로/파라미터/모델 옵션을 코드와 분리
 │
-├─ artifacts/                 # 모델/전처리기/지표 등 산출물 저장소(기본 git 제외 권장)
-│  ├─ models/
-│  ├─ preprocessors/
-│  └─ metrics/
+├─ 05_artifacts/              # 모델/전처리기/지표 등 "산출물" 저장(대용량이면 git 제외 권장)
+│  ├─ 00_models/                 # 학습된 모델 파일(예: .pkl, .joblib)
+│  ├─ 01_preprocessors/          # 스케일러/인코더 등 전처리 객체
+│  └─ 02_metrics/                # 평가 지표 결과(리포트, json/csv 등)
 │
-├─ runs/                      # 실험 로그/결과(MLflow/CSV/메트릭 스냅샷 등, 기본 git 제외 권장)
+├─ 06_runs/                   # 실험 로그/결과(MLflow run, 로그 스냅샷). 보통 git 제외
 │
-├─ tests/                     # 단위/통합 테스트(전처리/피처/스키마/유스케이스 등)
+├─ 07_tests/                  # 테스트 코드(단위/통합). 데이터 누수/스키마/로직 회귀 방지
 │
-├── app.py                    # Streamlit 메인 진입점(streamlit run app.py)
-├── pages/                    # Streamlit 페이지(얇게 유지: 입력/버튼/표시 + src.front 호출)
-│   ├── 01_Data_Analysis.py
-│   ├── 02_Price_Prediction.py
-│   └── 03_Intro.py
+├── app.py                     # Streamlit 앱 진입점(실행: streamlit run app.py)
+├── 08_pages/                  # Streamlit 페이지 파일(얇게 유지: 화면만, 로직은 src.front 호출)
+│   ├── 01_data_analysis.py    # EDA/요약 페이지(시각화 호출)
+│   ├── 02_price_prediction.py # 예측/모델 결과 페이지(추론 결과 표시)
+│   └── 03_intro.py            # 소개/가이드 페이지
 │
-├─ requirements.txt           # 파이썬 의존성 목록
-├─ .env.example               # 환경변수 샘플(실제 .env는 커밋 금지)
+├─ requirements.txt           # 파이썬 의존성 목록(재현 환경 고정)
+├─ .env.example               # 환경변수 샘플(API KEY 등). 실제 .env는 커밋 금지
 ├─ LICENSE                    # 라이선스
-├─ .gitignore                 # git 제외 규칙
-└─ README.md                  # 프로젝트 사용법/규칙/실행 가이드
+├─ .gitignore                 # git 제외 규칙(대용량/개인환경/비밀정보 제외)
+└─ README.md                  # 사용법/규칙/실행 가이드(온보딩 문서)
 ```
 ## 작업 방식
 ### 1) 개인 작업(노트북)
