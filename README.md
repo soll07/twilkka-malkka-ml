@@ -55,7 +55,7 @@ project/
 │  │  └─ 03_registry/            # 모델/전처리기 저장·로딩, 버전관리, 아티팩트 메타데이터 관리
 │  └─ 03_front/                  # Streamlit 전용 프론트 코드(화면 로직을 src로 분리)
 │     ├─ 00_ui/                  # 재사용 UI 컴포넌트(입력폼, 사이드바, 공통 레이아웃)
-│     ├─ 01_views/               # 페이지 단위 렌더 함수(각 pages/* 가 호출)
+│     ├─ 01_views/               # 페이지 단위 렌더 함수
 │     ├─ 02_state/               # session_state 관리(필터값, 선택값, 캐시 등 상태관리)
 │     └─ 03_viz/                 # 시각화 래퍼(plt/plotly 공통 함수, 스타일 통일)
 │
@@ -78,10 +78,6 @@ project/
 ├─ 07_tests/                  # 테스트 코드(단위/통합). 데이터 누수/스키마/로직 회귀 방지
 │
 ├── app.py                     # Streamlit 앱 진입점(실행: streamlit run app.py)
-├── 08_pages/                  # Streamlit 페이지 파일(얇게 유지: 화면만, 로직은 src.front 호출)
-│   ├── 01_data_analysis.py    # EDA/요약 페이지(시각화 호출)
-│   ├── 02_price_prediction.py # 예측/모델 결과 페이지(추론 결과 표시)
-│   └── 03_intro.py            # 소개/가이드 페이지
 │
 ├─ requirements.txt           # 파이썬 의존성 목록(재현 환경 고정)
 ├─ .env.example               # 환경변수 샘플(API KEY 등). 실제 .env는 커밋 금지

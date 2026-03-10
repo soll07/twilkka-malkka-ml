@@ -1,19 +1,27 @@
-"""Netflix 이탈 예측 분석 대시보드 진입점.
-
-실행 방법
----------
-    streamlit run app.py
-"""
-
 import streamlit as st
 
-from src_demo.front.views.dashboard_view import render_dashboard
+from src_demo.front.state.state import init_state
+from src_demo.front.views.dashboard_view import render_dashboard_view
+from src_demo.front.views.home_view import render_home_view
+from src_demo.front.viz.styles import inject_css
 
 
-st.set_page_config(
-    page_title="Netflix 이탈 예측 분석 대시보드",
-    page_icon="🎬",
-    layout="wide",
-)
+def main() -> None:
+    st.set_page_config(
+        page_title="Netflix 고객 이탈 예측 서비스",
+        page_icon="🎬",
+        layout="wide",
+        initial_sidebar_state="collapsed",
+    )
 
-render_dashboard()
+    inject_css()
+    init_state()
+
+    if st.session_state.current_view == "home":
+        render_home_view()
+    else:
+        render_dashboard_view()
+
+
+if __name__ == "__main__":
+    main()

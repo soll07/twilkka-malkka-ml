@@ -9,7 +9,7 @@ def render_header() -> None:
         dedent(
             """
             <div class="hero-wrap">
-                <div class="hero-title">🎬 Netflix 고객 이탈 예측 대시보드</div>
+                <div class="hero-title">🎬 Netflix 고객 이탈 예측 서비스</div>
                 <div class="hero-sub">고객 유지율, 위험군 분포, 행동 요인을 한 화면에서 확인합니다.</div>
                 <div class="hero-insight">
                     현재 고위험 고객 비중은 12.0%이며, 최근 2주 이상 비활성 고객군의 위험도가 가장 높습니다.

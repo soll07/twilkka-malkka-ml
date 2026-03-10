@@ -28,7 +28,7 @@ def inject_css() -> None:
 
         .block-container {
             max-width: 1420px;
-            padding-top: 1.2rem;
+            padding-top: 3.2rem;
             padding-bottom: 2rem;
         }
 
@@ -37,7 +37,6 @@ def inject_css() -> None:
             border: 1px solid var(--border);
             border-radius: 22px;
             padding: 20px 28px;
-            margin-bottom: 18px;
             box-shadow: 0 18px 40px rgba(0,0,0,0.28);
         }
 
@@ -65,45 +64,93 @@ def inject_css() -> None:
             font-weight: 700;
         }
 
-        .filter-title-row {
-            display: grid;
-            grid-template-columns: 1.2fr 1.2fr 0.7fr;
-            gap: 1rem;
-            margin-top: 6px;
+        .landing-wrap {
+            text-align: center;
+            padding: 28px 0 12px 0;
+        }
+
+        .landing-badge {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 999px;
+            background: rgba(229,9,20,0.12);
+            border: 1px solid rgba(229,9,20,0.28);
+            color: #fecaca;
+            font-size: 0.82rem;
+            font-weight: 800;
+            margin-bottom: 16px;
+        }
+
+        .landing-title {
+            font-size: 2.1rem;
+            font-weight: 900;
+            color: #ffffff;
+            margin-bottom: 8px;
+        }
+
+        .landing-sub {
+            color: #cbd5e1;
+            font-size: 1.02rem;
+            line-height: 1.6;
+            max-width: 760px;
+            margin: 0 auto;
+        }
+
+        .upload-card {
+            margin-top: 12px;
+            margin-bottom: 12px;
+            padding: 24px 24px 16px 24px;
+            border-radius: 22px;
+            background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+            border: 1px solid rgba(255,255,255,0.08);
+            box-shadow: 0 12px 28px rgba(0,0,0,0.18);
+        }
+
+        .upload-card-title {
+            color: white;
+            font-size: 1.3rem;
+            font-weight: 900;
             margin-bottom: 6px;
         }
 
-        .filter-group-title {
-            color: #e5e7eb;
-            font-size: 0.9rem;
+        .upload-card-sub {
+            color: #9fb1c7;
+            font-size: 0.94rem;
+            margin-bottom: 8px;
+        }
+
+        .upload-guide {
+            margin-top: 18px;
+            padding: 16px 18px;
+            border-radius: 18px;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            text-align: left;
+        }
+
+        .upload-guide-title {
+            color: white;
+            font-size: 0.98rem;
             font-weight: 800;
+            margin-bottom: 8px;
         }
 
-        .applied-filter-wrap {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            flex-wrap: wrap;
-            margin: 12px 0 18px 0;
-        }
-
-        .applied-filter-title {
+        .upload-guide ul {
+            margin: 0;
+            padding-left: 18px;
             color: #cbd5e1;
-            font-size: 0.88rem;
-            font-weight: 800;
-            margin-right: 2px;
+            line-height: 1.8;
         }
 
-        .applied-filter-pill {
-            display: inline-flex;
-            align-items: center;
-            padding: 6px 10px;
-            border-radius: 999px;
-            background: rgba(255,255,255,0.05);
-            border: 1px solid rgba(255,255,255,0.07);
-            color: #f8fafc;
-            font-size: 0.84rem;
+        .dashboard-summary-bar {
+            padding: 12px 14px;
+            border-radius: 14px;
+            background: rgba(59,130,246,0.10);
+            border: 1px solid rgba(59,130,246,0.24);
+            color: #dbeafe;
+            font-size: 0.92rem;
             font-weight: 700;
+            margin-bottom: 8px;
         }
 
         .kpi-card {
@@ -378,10 +425,6 @@ def inject_css() -> None:
             .user-grid {
                 grid-template-columns: 1fr 1fr;
             }
-
-            .filter-title-row {
-                grid-template-columns: 1fr;
-            }
         }
 
         @media (max-width: 640px) {
@@ -389,7 +432,8 @@ def inject_css() -> None:
                 grid-template-columns: 1fr;
             }
 
-            .hero-title {
+            .hero-title,
+            .landing-title {
                 font-size: 1.4rem;
             }
         }
