@@ -1,0 +1,1228 @@
+user_id,age,monthly_spend,plan_tier,is_active,email,first_name,last_name,gender,country,state_province,city,primary_device,subscription_start_date,created_at
+user_00009,24.0,12.21,3,0,donnaarroyo@example.org,Allison,Brandt,Male,USA,North Carolina,Raymondstad,Gaming Console,2025-04-13,2022-12-13 15:46:23.391721
+user_00034,32.0,13.48,2,0,hoganashlee@example.org,Amanda,Jones,,USA,Massachusetts,Port Robertfort,Gaming Console,2023-11-20,2024-06-29 11:51:05.196326
+user_00060,22.0,19.03,3,0,rgilbert@example.org,Jeff,Sampson,Male,USA,Tennessee,Lake Michaelstad,Mobile,2023-10-12,2025-06-28 22:53:58.331928
+user_00081,56.0,20.41,3,1,lisasolis@example.org,Brett,Sawyer,Other,USA,Georgia,West Christopherburgh,Mobile,2023-12-07,2025-01-29 15:57:37.711195
+user_00083,33.0,9.39,1,1,mitchellmaria@example.net,Katherine,West,Female,USA,Massachusetts,North Jonathanberg,Smart TV,2022-12-01,2023-04-20 10:59:01.685264
+user_00102,45.0,13.48,3,1,cporter@example.org,Jennifer,Stone,Female,USA,Missouri,West Sarah,Smart TV,2023-01-27,2024-05-14 15:02:08.643314
+user_00115,30.0,19.82,1,0,jelliott@example.com,Jennifer,Scott,Male,Canada,British Columbia,New Charles,Desktop,2023-08-14,2024-03-18 00:49:13.493253
+user_00115,30.0,19.82,1,0,jelliott@example.com,Jennifer,Scott,Male,Canada,British Columbia,New Charles,Desktop,2023-08-14,2024-03-18 00:49:13.493253
+user_00126,6.0,10.26,3,1,combscharles@example.net,Kathy,Taylor,Other,Canada,Saskatchewan,Lake Edwardborough,Laptop,2023-09-15,2024-07-25 11:04:37.787323
+user_00126,6.0,10.26,3,1,combscharles@example.net,Kathy,Taylor,Other,Canada,Saskatchewan,Lake Edwardborough,Laptop,2023-09-15,2024-07-25 11:04:37.787323
+user_00159,28.0,13.48,1,1,amandamyers@example.net,Kyle,Blair,Female,USA,Illinois,East Christopherchester,Desktop,2023-12-11,2023-07-07 23:10:46.679240
+user_00170,23.0,18.12,3,0,samantha10@example.org,Rachel,Lamb,Male,USA,Texas,Davidmouth,Tablet,2023-02-02,2025-01-19 09:46:59.873625
+user_00176,40.0,30.07,2,1,johnsonbrenda@example.org,Meghan,Yu,Female,Canada,New Brunswick,Willismouth,Smart TV,2023-07-21,2024-10-13 12:33:30.576172
+user_00191,42.0,17.15,2,0,allentracy@example.com,Susan,Matthews,Female,USA,New York,Frankview,Desktop,2023-06-10,2022-09-26 11:22:46.553144
+user_00195,23.0,43.11,3,0,ldoyle@example.net,Matthew,Parks,Female,USA,Massachusetts,Williamburgh,Gaming Console,2023-06-19,2022-12-21 06:16:30.317406
+user_00200,36.0,4.73,2,0,heathercooper@example.org,Patrick,Jackson,Male,USA,New Jersey,Stacymouth,Tablet,2023-11-20,2023-08-13 14:38:01.180944
+user_00212,21.0,10.87,3,0,jennifer11@example.net,Aaron,Gallegos,Male,Canada,Prince Edward Island,Jacquelineton,Mobile,2024-01-23,2022-11-28 06:29:19.975526
+user_00218,33.0,16.68,1,0,karenjohnson@example.com,Christina,Newton,,USA,Arizona,New Kristen,Gaming Console,2024-08-30,2025-05-14 05:43:21.782189
+user_00232,13.0,21.77,3,0,michaelwalker@example.net,Dennis,Sanders,Male,USA,Tennessee,Port Tamara,Gaming Console,2024-11-08,2023-12-05 00:04:34.232091
+user_00232,13.0,21.77,3,0,michaelwalker@example.net,Dennis,Sanders,Male,USA,Tennessee,Port Tamara,Gaming Console,2024-11-08,2023-12-05 00:04:34.232091
+user_00238,27.0,1.94,2,0,gary57@example.net,Jerry,Anderson,Other,USA,Virginia,New Michele,Laptop,2025-01-23,2023-02-13 11:24:47.093136
+user_00244,40.0,9.34,1,0,mgonzales@example.net,James,Gilbert,Female,USA,Indiana,Johntown,Desktop,2022-11-05,2024-12-04 08:58:05.624656
+user_00247,21.0,16.27,2,1,bmosley@example.com,Jonathan,Schultz,Female,USA,Pennsylvania,Port Leslie,Desktop,2024-02-19,2024-09-08 23:18:50.118067
+user_00262,27.0,22.5,1,0,justin84@example.com,Melissa,Taylor,Female,USA,Virginia,Williamsonview,Mobile,2023-02-23,2023-01-16 18:48:18.362517
+user_00269,21.0,28.47,3,0,llopez@example.net,Mario,Hill,Female,Canada,Prince Edward Island,New Ericport,Tablet,2024-03-17,2022-08-03 20:37:18.335049
+user_00270,32.0,15.42,1,0,nicoleharvey@example.com,Malik,Barrett,Male,USA,Massachusetts,New Felicia,Mobile,2024-06-03,2023-10-26 02:26:11.882976
+user_00320,7.0,5.13,2,0,sotobelinda@example.net,Diana,Lamb,Male,Canada,Nova Scotia,Toddberg,Gaming Console,2025-02-20,2023-05-06 05:56:50.178965
+user_00321,47.0,25.25,1,0,michaela01@example.net,Renee,Hopkins,Female,USA,Washington,West Kimberly,Tablet,2024-01-15,2023-08-13 17:39:43.031349
+user_00328,50.0,9.15,2,0,scottvasquez@example.org,Gregory,Rodriguez,Other,USA,Arizona,New Dawn,Laptop,2024-09-24,2022-09-10 06:26:20.145430
+user_00329,28.0,15.64,3,1,kimberly07@example.org,Sarah,Adams,Male,Canada,Alberta,Andrewshaven,Tablet,2024-01-08,2025-02-12 21:53:20.941473
+user_00334,26.0,2.35,2,0,lcarr@example.org,Danny,Brown,Female,USA,Michigan,Rogersfurt,Desktop,2022-12-12,2023-07-21 10:37:53.391071
+user_00338,15.0,13.48,3,0,brian12@example.net,Tyler,Santiago,Male,USA,California,Lake Michaelborough,Gaming Console,2023-05-04,2022-09-19 12:49:27.092835
+user_00344,31.0,25.56,2,0,kenneth10@example.com,Evan,Hodge,Female,USA,Missouri,Fordberg,Tablet,2023-02-20,2024-06-19 21:06:55.626671
+user_00369,46.0,35.06,2,0,calvinhester@example.com,Brooke,Martinez,Prefer not to say,USA,Indiana,Ramirezshire,Tablet,2024-11-07,2023-08-28 06:04:58.110198
+user_00369,46.0,35.06,2,0,calvinhester@example.com,Brooke,Martinez,Prefer not to say,USA,Indiana,Ramirezshire,Tablet,2024-11-07,2023-08-28 06:04:58.110198
+user_00375,27.0,44.37,3,0,deborahwatkins@example.net,Misty,Morgan,Male,USA,New Jersey,Benjaminchester,Mobile,2023-05-21,2024-05-08 08:12:35.046661
+user_00384,31.0,29.21,2,0,daniellewis@example.com,Ricky,Henry,Male,Canada,Quebec,West Amyfort,Gaming Console,2025-06-22,2023-09-04 19:33:09.325065
+user_00384,31.0,29.21,2,0,daniellewis@example.com,Ricky,Henry,Male,Canada,Quebec,West Amyfort,Gaming Console,2025-06-22,2023-09-04 19:33:09.325065
+user_00386,47.0,13.48,4,1,browningphillip@example.com,Christopher,Evans,Female,USA,Texas,Welchchester,Mobile,2023-05-29,2025-01-21 01:33:17.095272
+user_00395,47.0,8.35,2,1,zachary62@example.com,Kathryn,Peters,Male,USA,Texas,East Edgarbury,Laptop,2022-09-10,2023-01-29 06:44:33.780483
+user_00413,38.0,13.59,2,0,jacksondavid@example.org,Eric,Erickson,Female,Canada,Manitoba,East Deborahmouth,Tablet,2022-12-14,2023-11-27 05:03:01.329417
+user_00419,63.0,13.31,3,1,michaelmitchell@example.net,Jennifer,Garcia,Male,Canada,Nova Scotia,Shawnberg,Gaming Console,2025-01-25,2022-11-12 03:34:47.249355
+user_00433,52.0,13.18,1,1,ifarmer@example.org,Amanda,Chambers,Female,USA,Tennessee,Careystad,Gaming Console,2023-02-12,2022-12-17 18:38:33.026377
+user_00434,31.0,34.28,3,0,seanwalker@example.org,Erin,Lee,,USA,Michigan,East Tina,Tablet,2022-09-11,2025-04-20 03:46:53.693806
+user_00441,67.0,432.82,2,1,danielsmith@example.net,Brittany,Strong,Female,USA,New Jersey,Michaelfort,Gaming Console,2023-02-21,2024-12-23 09:17:49.819813
+user_00446,26.0,13.82,2,0,gregorysmith@example.com,Andrew,Gray,Female,USA,Missouri,Sharonport,Desktop,2023-04-22,2024-07-27 05:47:37.538278
+user_00456,48.0,13.48,1,1,tfowler@example.org,Damon,Johnson,Female,USA,Missouri,East Jamesfurt,Smart TV,2023-03-15,2024-07-25 18:35:10.981114
+user_00491,28.0,2.2,3,0,scottolson@example.org,Jeffery,Moss,Male,Canada,Ontario,Jessicashire,Laptop,2024-08-14,2023-09-19 16:05:07.210731
+user_00491,28.0,2.2,3,0,scottolson@example.org,Jeffery,Moss,Male,Canada,Ontario,Jessicashire,Laptop,2024-08-14,2023-09-19 16:05:07.210731
+user_00506,23.0,15.49,1,0,nathanielwilson@example.net,Marie,Roberts,Male,USA,Michigan,Josephtown,Smart TV,2023-03-28,2025-05-17 02:43:54.911557
+user_00533,58.0,15.25,3,1,christianjones@example.net,Edward,Harrison,Male,Canada,British Columbia,Theodoremouth,Desktop,2024-12-05,2023-06-13 06:56:19.557904
+user_00540,27.0,30.08,2,1,jasonbishop@example.org,Ashley,Davis,Female,USA,Illinois,Port Monica,Laptop,2024-01-30,2023-07-12 19:38:26.599844
+user_00548,42.0,8.61,3,1,daniel64@example.net,Vanessa,Walters,,USA,Georgia,East Julieborough,Desktop,2024-09-03,2024-05-22 12:52:04.846276
+user_00576,40.0,5.96,3,0,tara90@example.com,Thomas,Fuentes,Female,Canada,Nova Scotia,New Wesley,Desktop,2024-11-28,2023-07-02 19:54:12.385734
+user_00578,40.0,31.96,2,0,donnathomas@example.com,John,Howard,,USA,Illinois,South Danielle,Mobile,2025-03-20,2025-07-19 21:49:46.160753
+user_00578,40.0,31.96,2,0,donnathomas@example.com,John,Howard,,USA,Illinois,South Danielle,Mobile,2025-03-20,2025-07-19 21:49:46.160753
+user_00587,33.0,1.91,1,0,mhanson@example.org,Aaron,Meyer,Prefer not to say,Canada,Alberta,North Thomas,Smart TV,2023-10-04,2023-06-27 16:52:16.576979
+user_00587,33.0,1.91,1,0,mhanson@example.org,Aaron,Meyer,Prefer not to say,Canada,Alberta,North Thomas,Smart TV,2023-10-04,2023-06-27 16:52:16.576979
+user_00651,24.0,40.4,1,0,danastevens@example.net,Kyle,Burgess,Female,Canada,Prince Edward Island,Brianport,Gaming Console,2023-06-03,2023-10-30 16:18:47.230274
+user_00663,27.0,23.9,2,1,floydtina@example.net,Monica,Hernandez,Male,USA,Indiana,Jamesmouth,Gaming Console,2022-09-24,2022-09-15 17:29:34.065241
+user_00667,34.0,2.66,3,1,copelandryan@example.org,Ashley,Gilbert,Prefer not to say,Canada,British Columbia,West Ashleyborough,Smart TV,2023-05-30,2023-06-02 10:11:39.873669
+user_00668,27.0,6.85,3,0,rbrowning@example.com,Adam,Smith,Male,USA,Virginia,West Joseph,Mobile,2022-11-16,2022-08-22 20:57:39.411763
+user_00674,34.0,20.66,4,0,acarpenter@example.com,Jacob,Montgomery,Female,USA,Virginia,New Ashleychester,Mobile,2023-07-24,2023-02-01 11:06:28.010309
+user_00676,23.0,3.77,1,1,klinejamie@example.com,John,Fritz,Male,USA,Maryland,Porterville,Gaming Console,2025-03-14,2023-04-28 08:56:06.119027
+user_00681,50.0,14.8,1,1,oscott@example.org,Brandy,Silva,Female,Canada,Quebec,Jenniferhaven,Desktop,2024-01-06,2025-07-03 13:15:15.883035
+user_00681,50.0,14.8,1,1,oscott@example.org,Brandy,Silva,Female,Canada,Quebec,Jenniferhaven,Desktop,2024-01-06,2025-07-03 13:15:15.883035
+user_00701,53.0,13.48,2,0,hlawrence@example.org,William,Martin,Female,USA,New Jersey,South Joystad,Desktop,2023-10-30,2025-07-17 12:30:46.567334
+user_00709,24.0,6.55,3,0,bauertiffany@example.org,Cynthia,Martin,Female,USA,North Carolina,New Timothystad,Tablet,2024-06-21,2023-12-11 10:48:02.504510
+user_00736,43.0,7.66,2,1,howardsabrina@example.com,Melanie,Alvarado,Female,Canada,Ontario,Shermanborough,Laptop,2023-07-19,2024-11-16 16:15:36.447559
+user_00794,49.0,10.08,2,1,marywoodard@example.org,Patricia,Simpson,Male,USA,Missouri,Johnfurt,Mobile,2025-01-22,2025-06-10 16:53:03.548052
+user_00795,34.0,14.22,3,0,smithkenneth@example.org,Maria,Jones,Male,Canada,Newfoundland and Labrador,South Shirleyfurt,Smart TV,2024-09-04,2023-08-14 02:07:09.252445
+user_00802,20.0,18.4,3,0,johnsonchristopher@example.org,Sean,Grant,Female,Canada,Newfoundland and Labrador,Port Dianashire,Gaming Console,2022-12-06,2023-04-14 13:11:27.194746
+user_00802,20.0,18.4,3,0,johnsonchristopher@example.org,Sean,Grant,Female,Canada,Newfoundland and Labrador,Port Dianashire,Gaming Console,2022-12-06,2023-04-14 13:11:27.194746
+user_00805,25.0,38.63,2,0,xfranco@example.org,Richard,Williams,Female,USA,North Carolina,Johnsonstad,Gaming Console,2023-12-08,2024-10-31 08:03:36.023467
+user_00814,50.0,24.46,3,1,spencerlevi@example.org,Linda,Harris,,USA,Pennsylvania,North Ashley,Tablet,2025-01-05,2022-11-15 21:54:44.849289
+user_00825,32.0,4.49,3,1,wesleyporter@example.org,Charles,Wilkinson,Male,USA,Missouri,Reyesport,Mobile,2022-08-28,2023-03-08 19:02:12.911292
+user_00829,6.0,15.42,4,0,westmatthew@example.net,Michael,Mitchell,,USA,Maryland,South Katherinechester,Laptop,2024-08-01,2025-08-01 07:19:38.423878
+user_00835,26.0,5.89,1,0,bsullivan@example.org,Thomas,Cook,Male,Canada,Nova Scotia,West Joefort,Mobile,2024-05-07,2023-11-17 08:18:02.729750
+user_00851,21.0,13.48,3,0,bartlettchristine@example.org,Francis,Martin,Male,USA,Ohio,Ritterstad,Tablet,2023-08-09,2024-12-18 14:38:03.325176
+user_00871,67.0,14.36,1,0,lauraclay@example.org,William,Buckley,Other,Canada,Quebec,South Heatherstad,Gaming Console,2024-04-02,2022-09-01 13:04:22.244185
+user_00886,45.0,17.2,3,1,michelle02@example.com,Jennifer,Morgan,Male,Canada,New Brunswick,Jamestown,Tablet,2023-12-29,2023-10-27 14:54:49.745583
+user_00891,24.0,6.4,1,0,loriosborn@example.org,Matthew,Rodriguez,Female,USA,Michigan,East Haleymouth,Desktop,2024-06-29,2023-05-19 05:12:24.384575
+user_00893,35.0,7.67,3,1,bcooper@example.net,Katherine,Lee,Prefer not to say,USA,Massachusetts,New Carolyn,Desktop,2022-10-21,2023-05-31 09:57:41.708768
+user_00896,22.0,19.83,2,1,cisneroskatrina@example.com,Michael,Hicks,Male,USA,Washington,Armstrongfort,Mobile,2023-11-10,2024-06-13 17:00:06.500054
+user_00911,38.0,9.13,2,0,mandypetty@example.com,Taylor,Bennett,Female,USA,Florida,South Charles,Laptop,2023-07-04,2024-10-06 13:09:59.624593
+user_00919,29.0,29.59,3,1,deborah49@example.com,Deborah,Reed,Female,USA,New Jersey,Lake Dianaland,Mobile,2025-05-10,2025-04-09 22:54:49.676355
+user_00942,52.0,32.06,1,1,nhiggins@example.com,Devon,Anderson,Female,USA,California,East Laurafurt,Desktop,2024-03-24,2022-09-13 07:58:19.532395
+user_00957,17.0,16.61,2,0,gmiller@example.org,Shawn,Brown,,Canada,Prince Edward Island,Christopherton,Desktop,2023-09-01,2024-01-24 04:49:31.400904
+user_00960,28.0,8.59,1,0,dsmith@example.com,Robert,Collins,Male,USA,Georgia,Port Carlosville,Gaming Console,2023-12-04,2024-08-02 09:47:24.780759
+user_00961,47.0,3.43,1,0,benjamin49@example.org,Lori,Andrews,Male,USA,Tennessee,Lake Whitney,Mobile,2023-07-15,2022-09-18 09:59:11.744386
+user_00970,52.0,18.12,4,1,owhite@example.org,Jacqueline,Conley,Female,Canada,Ontario,Payneview,Tablet,2022-08-30,2024-02-14 18:01:36.903278
+user_00972,47.0,6.51,3,0,amanda88@example.org,Nicole,Mercer,,Canada,Prince Edward Island,Hernandezhaven,Desktop,2024-05-22,2023-11-11 15:47:10.916815
+user_00982,32.0,31.29,2,0,lauren62@example.net,Kaylee,Haynes,Male,USA,Missouri,South Cynthiastad,Desktop,2025-05-12,2024-09-02 08:50:48.535414
+user_00990,15.0,10.31,3,0,jennifer82@example.com,Mark,Ibarra,Female,Canada,Quebec,Port Samanthaville,Gaming Console,2024-09-23,2023-11-28 18:44:17.081290
+user_01008,30.0,18.47,2,0,adam17@example.net,Eugene,Love,Female,Canada,Nova Scotia,East Victorialand,Gaming Console,2025-05-29,2022-08-09 21:58:17.320076
+user_01021,16.0,7.16,1,0,mosesveronica@example.com,Susan,Reed,Male,USA,Texas,Ginamouth,Smart TV,2022-09-21,2022-10-19 11:54:08.863521
+user_01030,38.0,9.01,2,1,sjackson@example.org,Angela,Fletcher,Female,USA,Florida,South Amanda,Mobile,2022-10-14,2024-05-30 23:42:09.313010
+user_01035,31.0,17.96,3,0,wbryant@example.com,Cheryl,Anderson,Female,USA,Arizona,Lake Fernandoland,Smart TV,2024-08-19,2023-12-30 16:54:21.120173
+user_01037,45.0,18.38,1,0,dsmith@example.com,Angela,Novak,,Canada,Prince Edward Island,Stevenston,Tablet,2023-04-15,2025-05-17 22:31:19.742873
+user_01047,59.0,12.6,3,1,wbentley@example.org,Sarah,Richardson,Female,Canada,Nova Scotia,New Juanburgh,Gaming Console,2023-09-03,2024-10-20 22:39:11.724230
+user_01058,24.0,6.69,4,0,plin@example.org,Amanda,Sanders,,Canada,Manitoba,Danbury,Mobile,2024-01-16,2023-04-11 02:47:54.709076
+user_01072,48.0,13.94,1,0,vanessacaldwell@example.net,Cory,Garcia,Prefer not to say,Canada,Manitoba,Andersonburgh,Smart TV,2025-03-02,2024-01-09 20:15:13.249418
+user_01090,16.0,4.78,3,0,kevin04@example.net,William,Smith,,USA,New Jersey,Port Gabrielstad,Desktop,2024-11-18,2022-10-20 06:34:02.134380
+user_01108,51.0,13.48,1,0,mark94@example.net,Courtney,Gallagher,,USA,Massachusetts,New Michelle,Tablet,2023-12-02,2023-01-06 10:49:26.982486
+user_01111,42.0,22.96,1,1,kelly09@example.org,Nancy,Hanna,Prefer not to say,USA,Tennessee,East Raymondmouth,Smart TV,2023-10-10,2024-03-30 20:51:08.508763
+user_01130,41.0,1.65,2,1,whitecharles@example.net,Jessica,Wilkins,Male,Canada,Nova Scotia,Lake Charlene,Laptop,2025-04-12,2022-08-18 20:04:35.141170
+user_01135,50.0,12.71,2,0,dennis55@example.org,Jennifer,Berry,Female,Canada,Ontario,Port Wayneville,Desktop,2023-06-08,2025-03-23 13:24:23.303529
+user_01138,56.0,8.21,3,1,fallen@example.net,Michael,Garcia,Male,USA,North Carolina,South Sue,Laptop,2024-07-25,2024-01-01 17:49:38.892987
+user_01138,56.0,8.21,3,1,fallen@example.net,Michael,Garcia,Male,USA,North Carolina,South Sue,Laptop,2024-07-25,2024-01-01 17:49:38.892987
+user_01143,24.0,33.9,2,0,uhubbard@example.com,Melissa,Guerra,Male,Canada,Quebec,Taylorfort,Smart TV,2023-12-12,2022-08-26 09:06:50.863470
+user_01145,13.0,9.99,1,1,jasoncampbell@example.com,Alexander,Davis,Female,USA,Massachusetts,New Robinstad,Smart TV,2024-02-14,2025-06-30 04:17:36.982002
+user_01167,35.0,21.73,3,0,xcarlson@example.com,Edward,Taylor,Male,Canada,Saskatchewan,South Josemouth,Smart TV,2023-12-27,2024-07-01 05:37:18.984891
+user_01205,53.0,14.43,3,0,phamilton@example.net,Amber,Figueroa,Female,USA,Massachusetts,Brucestad,Gaming Console,2022-11-29,2024-10-19 21:17:43.262463
+user_01206,14.0,9.53,1,0,stevenmoore@example.com,Amber,Moore,Male,USA,Washington,Walkerton,Smart TV,2025-07-05,2022-10-07 06:22:20.264297
+user_01223,26.0,10.47,2,0,sjackson@example.com,Dennis,Smith,Male,USA,California,New Michaelborough,Smart TV,2022-10-14,2024-07-12 00:27:03.510473
+user_01239,38.0,6.79,2,0,melanie49@example.org,Maria,Brown,,USA,Texas,New Michellemouth,Laptop,2023-10-22,2023-02-23 18:31:28.783186
+user_01246,40.0,11.49,2,1,gibsonrichard@example.net,Caroline,Pierce,Other,USA,California,Meganmouth,Gaming Console,2024-07-25,2023-12-17 12:27:57.416580
+user_01250,63.0,29.53,2,1,stephenwright@example.org,Ashley,Morrow,Male,USA,California,New Nicholas,Smart TV,2022-08-02,2023-04-25 13:04:39.647753
+user_01257,27.0,282.42,3,1,jspears@example.net,Sue,Figueroa,Male,USA,Wisconsin,Port Justinshire,Gaming Console,2023-03-28,2022-08-21 08:24:05.642817
+user_01258,34.0,13.48,2,0,edwin87@example.org,Brittany,Newman,Female,Canada,Quebec,Ernestberg,Desktop,2025-04-23,2024-06-13 14:31:53.302126
+user_01271,18.0,24.7,3,0,greenechristina@example.net,Michelle,Davis,Female,USA,Washington,Grayville,Tablet,2024-03-12,2024-04-08 15:14:15.298117
+user_01275,38.0,13.48,3,1,kaitlynjones@example.net,Allen,Tucker,Male,USA,Michigan,East Rebeccahaven,Desktop,2022-09-24,2023-10-08 02:16:21.543983
+user_01281,32.0,10.81,3,0,agarcia@example.org,Amber,West,Male,USA,Pennsylvania,Shieldsberg,Mobile,2025-04-16,2022-08-20 15:22:50.598551
+user_01288,41.0,8.36,2,1,lwilliamson@example.net,Jonathan,Kennedy,Male,Canada,Nova Scotia,East Jennifer,Gaming Console,2024-07-16,2022-12-30 19:29:48.185656
+user_01291,46.0,16.25,3,1,johnsonjennifer@example.com,Traci,Nunez,Female,Canada,British Columbia,Haneyberg,Laptop,2024-01-24,2023-12-27 14:53:47.841922
+user_01299,40.0,9.02,3,1,boonekim@example.net,Regina,Harris,Female,USA,Missouri,West Dianeport,Laptop,2023-10-01,2023-09-28 06:53:03.817628
+user_01299,40.0,9.02,3,1,boonekim@example.net,Regina,Harris,Female,USA,Missouri,West Dianeport,Laptop,2023-10-01,2023-09-28 06:53:03.817628
+user_01305,32.0,11.64,2,0,huntjesus@example.com,Michelle,Chavez,Female,USA,Tennessee,Leeport,Laptop,2023-01-17,2024-02-15 20:09:51.972337
+user_01321,32.0,9.64,2,1,marybarrett@example.org,Marcus,Chen,,USA,Tennessee,Loweton,Mobile,2022-12-19,2024-02-29 02:26:31.617575
+user_01324,28.0,11.88,4,0,michael84@example.com,Tiffany,Johnson,Female,USA,New Jersey,Swansonchester,Mobile,2025-01-10,2023-11-19 10:17:09.259156
+user_01327,34.0,32.96,2,0,amanda96@example.com,Stacey,Evans,Female,Canada,Prince Edward Island,Fletcherfurt,Mobile,2024-10-06,2024-10-25 04:50:48.366240
+user_01340,32.0,6.89,2,0,vturner@example.com,Richard,Thomas,Female,USA,Illinois,East Sandra,Laptop,2023-09-14,2023-02-15 10:19:08.570723
+user_01351,47.0,37.57,3,1,jcross@example.com,Brittany,Gilbert,Male,USA,Georgia,Davisbury,Gaming Console,2022-11-21,2024-09-02 04:47:16.214417
+user_01365,31.0,5.48,3,0,gary52@example.net,Jodi,Smith,Male,USA,North Carolina,Tommyland,Laptop,2024-05-02,2024-02-24 11:57:43.539054
+user_01389,38.0,13.48,3,1,angelaunderwood@example.net,Thomas,Russell,Female,Canada,Prince Edward Island,East Davidland,Desktop,2023-10-04,2022-08-29 09:53:23.739242
+user_01399,41.0,39.81,3,0,ojohnson@example.net,Clayton,Peters,,USA,Arizona,East Sean,Mobile,2024-08-30,2023-07-16 00:53:15.917582
+user_01411,59.0,26.68,3,1,ericpetersen@example.org,Karen,Watkins,Female,USA,Arizona,Levistad,Tablet,2023-01-29,2025-03-18 14:13:57.053808
+user_01418,43.0,23.06,1,1,velezmark@example.net,Bradley,Fletcher,Female,USA,California,Smithhaven,Tablet,2022-12-27,2024-04-08 05:58:35.983649
+user_01422,26.0,5.12,3,0,floresbridget@example.net,Joshua,Simpson,Prefer not to say,USA,Maryland,Bestborough,Mobile,2025-03-22,2025-07-21 00:39:38.418045
+user_01435,28.0,11.62,4,0,cjackson@example.org,Danielle,Shepard,Female,USA,Arizona,South Denise,Desktop,2023-01-01,2023-09-05 08:13:44.059116
+user_01449,30.0,17.18,3,0,kimberly88@example.net,Kyle,Horn,Male,USA,Tennessee,Debraton,Tablet,2023-09-10,2023-10-16 04:00:29.704270
+user_01450,58.0,24.09,3,1,trevinoduane@example.org,Daniel,Anderson,Female,USA,Tennessee,Scottmouth,Smart TV,2024-05-27,2022-12-01 19:37:46.050597
+user_01450,58.0,24.09,3,1,trevinoduane@example.org,Daniel,Anderson,Female,USA,Tennessee,Scottmouth,Smart TV,2024-05-27,2022-12-01 19:37:46.050597
+user_01465,36.0,15.57,3,1,phillipserin@example.org,Robert,Sutton,Female,USA,Washington,West Jacobhaven,Laptop,2022-12-03,2025-07-23 05:12:11.099600
+user_01487,47.0,4.94,4,0,robert34@example.net,Stephanie,Clark,Female,USA,Arizona,Lake Alisonchester,Desktop,2024-10-11,2024-11-30 09:35:38.311789
+user_01489,34.0,14.08,2,0,natasha70@example.org,Lindsay,Campbell,Female,USA,California,Carolynfort,Smart TV,2023-07-27,2023-12-17 19:23:46.970546
+user_01490,34.0,30.54,3,0,johnsonbrittany@example.net,Joshua,Lewis,Male,USA,Michigan,Jodifurt,Smart TV,2024-02-18,2023-11-16 21:37:12.516996
+user_01501,24.0,5.88,3,0,brianaallison@example.com,Kristin,Rivers,Female,USA,Massachusetts,Pricechester,Smart TV,2023-06-06,2025-03-15 16:03:30.760254
+user_01507,49.0,9.27,2,0,richard99@example.com,Alison,Hill,Other,Canada,Newfoundland and Labrador,Lake Jesse,Laptop,2024-04-22,2024-01-28 23:07:32.474819
+user_01512,41.0,8.66,3,1,upierce@example.com,Lisa,Mccarthy,,Canada,Nova Scotia,New Tiffany,Gaming Console,2023-09-01,2023-09-19 22:14:21.435784
+user_01516,45.0,27.7,3,0,powerscory@example.org,Michael,Alvarado,,USA,Arizona,Stephenchester,Gaming Console,2024-10-31,2023-07-25 18:24:44.645142
+user_01522,44.0,19.46,3,0,ysmith@example.org,Andrea,Moody,Male,USA,Michigan,Alexanderstad,Smart TV,2025-03-30,2023-12-10 09:50:48.238438
+user_01525,41.0,22.87,2,0,gaylauren@example.org,Albert,Olson,Female,USA,California,Orrland,Smart TV,2023-03-24,2023-03-18 05:29:59.947731
+user_01559,23.0,5.28,2,0,anthonyjones@example.net,James,Adams,Female,USA,Arizona,North Jackburgh,Tablet,2025-04-26,2023-03-05 09:18:39.029953
+user_01576,32.0,13.37,1,1,nicholascrawford@example.net,Natasha,Jones,Male,USA,Wisconsin,South Katherinestad,Tablet,2022-12-22,2023-02-07 23:06:50.106848
+user_01645,59.0,19.4,2,1,obriendavid@example.org,Natasha,Jenkins,Female,USA,Tennessee,Shortville,Smart TV,2023-09-27,2025-01-26 20:11:58.044277
+user_01647,36.0,13.74,3,1,donnamadden@example.org,Nicole,Trujillo,,USA,Illinois,South Pamela,Tablet,2023-12-20,2024-05-26 23:53:56.636553
+user_01647,36.0,13.74,3,1,donnamadden@example.org,Nicole,Trujillo,,USA,Illinois,South Pamela,Tablet,2023-12-20,2024-05-26 23:53:56.636553
+user_01655,31.0,20.02,2,1,williamsthomas@example.net,Christopher,Perez,Male,Canada,Nova Scotia,Kathrynport,Smart TV,2023-01-12,2024-01-02 04:19:55.467524
+user_01678,16.0,13.48,2,0,josephfreeman@example.com,Laura,Mercado,Prefer not to say,Canada,New Brunswick,Leestad,Desktop,2025-07-18,2025-04-29 17:36:17.120310
+user_01679,35.0,8.28,1,0,williamsdaniel@example.com,James,Baker,Male,USA,Virginia,Laurenfurt,Tablet,2024-11-18,2024-03-28 19:49:04.855602
+user_01681,29.0,6.67,2,0,robert53@example.net,Sharon,Wood,Female,Canada,Quebec,Brentchester,Mobile,2024-09-13,2022-08-10 07:42:02.388626
+user_01684,25.0,13.49,3,0,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_01684,25.0,13.49,3,0,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_01684,25.0,13.49,3,0,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_01694,36.0,20.18,3,1,boydaaron@example.net,Thomas,Tucker,Male,USA,Virginia,Georgefort,Laptop,2024-07-13,2024-01-01 11:29:08.018165
+user_01710,31.0,14.69,3,1,sandovalmatthew@example.com,Michelle,Garcia,Male,Canada,Quebec,Lake David,Tablet,2023-04-23,2023-03-24 15:44:32.423570
+user_01713,41.0,20.3,3,1,michaelnguyen@example.com,Alexandra,Martin,Female,USA,Ohio,Donaldburgh,Smart TV,2023-11-19,2025-04-27 15:15:03.345902
+user_01714,20.0,18.44,3,0,peter98@example.com,Amanda,Holder,Male,USA,Michigan,Stephensonmouth,Tablet,2022-09-19,2024-08-06 00:53:42.878742
+user_01722,25.0,2.32,2,0,amanda70@example.org,Patricia,Byrd,Female,USA,Florida,Brandishire,Tablet,2025-06-17,2023-05-30 22:34:53.766008
+user_01731,42.0,21.8,3,1,lauradavis@example.net,Michael,Gomez,Male,USA,Virginia,Lake Anthonyfort,Laptop,2022-11-07,2025-04-19 20:40:52.082981
+user_01732,10.0,26.17,4,0,richard18@example.net,Stephanie,Harris,Female,USA,Missouri,West Laurie,Mobile,2024-01-02,2023-03-25 22:13:38.765311
+user_01753,47.0,5.66,2,0,skirby@example.com,David,Jackson,Male,USA,Tennessee,North Robertland,Gaming Console,2023-03-14,2023-12-21 03:36:55.402704
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01759,40.0,7.65,2,0,kiddmelissa@example.org,Katherine,Cox,Female,USA,Maryland,Lake Katrina,Tablet,2023-03-23,2025-06-30 23:50:51.493289
+user_01799,43.0,1.36,1,0,hsmith@example.com,Kimberly,King,Female,USA,Virginia,New Jacquelinefort,Smart TV,2023-05-10,2023-05-29 09:27:21.174674
+user_01802,16.0,31.65,3,0,shawn69@example.org,James,Myers,,USA,Virginia,Taylorfurt,Mobile,2023-12-29,2024-08-08 17:15:02.540059
+user_01804,32.0,6.53,2,0,lindsey68@example.net,Timothy,Martinez,Female,USA,North Carolina,Moorefort,Desktop,2025-01-18,2022-09-21 03:56:53.022326
+user_01818,25.0,9.84,1,1,darrellarmstrong@example.org,Catherine,Bryant,Male,Canada,Saskatchewan,South Rebecca,Gaming Console,2025-06-11,2023-03-25 23:28:10.330829
+user_01819,25.0,9.2,3,0,jacobpitts@example.com,Angela,Smith,Male,USA,Ohio,Lake David,Desktop,2024-10-12,2024-12-23 23:14:28.159763
+user_01833,41.0,32.16,4,0,richard88@example.net,Karen,Reilly,Male,USA,Indiana,Gonzalezstad,Tablet,2025-07-17,2025-03-04 13:44:56.869756
+user_01843,36.0,3.55,1,0,andrew52@example.com,Jacob,Johnson,Female,Canada,Manitoba,Cookfort,Tablet,2024-01-11,2025-05-30 14:59:43.098646
+user_01843,36.0,3.55,1,0,andrew52@example.com,Jacob,Johnson,Female,Canada,Manitoba,Cookfort,Tablet,2024-01-11,2025-05-30 14:59:43.098646
+user_01853,30.0,5.4,3,0,ldyer@example.net,Joseph,Little,Male,USA,Georgia,New Maria,Mobile,2025-02-27,2024-01-17 14:41:02.632393
+user_01853,30.0,5.4,3,0,ldyer@example.net,Joseph,Little,Male,USA,Georgia,New Maria,Mobile,2025-02-27,2024-01-17 14:41:02.632393
+user_01858,29.0,16.94,2,0,rpeck@example.com,Mitchell,Martinez,Female,USA,Indiana,Port Keith,Smart TV,2024-01-12,2024-06-07 16:47:43.480763
+user_01884,38.0,12.95,3,1,teresadiaz@example.org,Kathleen,Smith,Male,USA,Illinois,Alyssashire,Mobile,2025-06-28,2023-07-31 14:04:13.820209
+user_01885,33.0,24.78,2,0,mperkins@example.org,Jasmin,Johnson,Female,USA,Texas,South Frances,Tablet,2024-10-31,2024-06-21 06:29:21.997756
+user_01886,29.0,11.54,4,0,berrydouglas@example.org,Casey,Morris,Male,Canada,Saskatchewan,Port Leslieton,Tablet,2023-02-26,2024-11-28 21:55:00.768358
+user_01891,32.0,9.34,2,0,stonejennifer@example.com,Bradley,Padilla,Male,USA,Arizona,Mariamouth,Desktop,2025-05-18,2023-12-27 20:44:47.573377
+user_01896,45.0,15.65,1,0,kdominguez@example.net,Veronica,Hernandez,Female,Canada,Nova Scotia,East Michealbury,Laptop,2024-12-22,2023-08-23 10:35:57.811420
+user_01896,45.0,15.65,1,0,kdominguez@example.net,Veronica,Hernandez,Female,Canada,Nova Scotia,East Michealbury,Laptop,2024-12-22,2023-08-23 10:35:57.811420
+user_01901,44.0,0.99,2,0,megan26@example.net,Brian,Rowe,Male,Canada,Nova Scotia,Timothyville,Desktop,2023-02-22,2023-10-18 21:34:13.053041
+user_01910,47.0,20.89,1,0,sdean@example.org,Elizabeth,Smith,Female,USA,Massachusetts,Sanchezport,Laptop,2023-05-31,2025-04-29 12:56:27.072665
+user_01917,31.0,13.48,3,0,ebonybryant@example.net,Stacy,Gentry,Other,USA,Ohio,Heathershire,Tablet,2025-07-28,2023-02-28 18:41:47.198897
+user_01920,31.0,15.78,2,0,cmarsh@example.com,Anthony,Montgomery,Male,Canada,Quebec,Bowmanchester,Smart TV,2025-04-25,2022-09-28 20:07:41.890299
+user_01926,22.0,29.9,1,1,donna99@example.com,Kimberly,Gray,,USA,Pennsylvania,Martinezland,Gaming Console,2024-03-23,2025-01-08 15:34:37.300096
+user_01968,46.0,10.38,1,1,carloslee@example.net,Stephanie,Huber,Other,USA,Texas,Jayfort,Mobile,2023-09-01,2024-01-07 01:47:13.344406
+user_01975,26.0,2.77,3,1,landerson@example.net,Stephanie,Fernandez,Female,Canada,Manitoba,Katieberg,Desktop,2023-07-06,2024-07-16 17:08:13.792910
+user_01981,44.0,3.48,2,1,ebranch@example.org,Adam,Ellis,Other,USA,Ohio,West Jimport,Mobile,2023-08-10,2023-09-24 03:56:53.922012
+user_01989,31.0,11.43,3,0,usmith@example.com,Barbara,Morales,Male,Canada,Ontario,Scottfurt,Laptop,2025-05-07,2024-11-03 20:55:13.763370
+user_01989,31.0,11.43,3,0,usmith@example.com,Barbara,Morales,Male,Canada,Ontario,Scottfurt,Laptop,2025-05-07,2024-11-03 20:55:13.763370
+user_01993,31.0,19.99,1,0,breannasanchez@example.org,John,Davis,Male,USA,North Carolina,East Lori,Mobile,2022-11-28,2024-12-27 17:03:39.772792
+user_01997,42.0,28.17,4,1,hamptonsabrina@example.com,Joseph,Villa,Female,USA,New York,Fisherburgh,Desktop,2023-10-07,2022-12-31 14:37:40.912875
+user_02018,24.0,6.01,3,0,james08@example.com,Donna,Walton,Male,USA,Washington,Mcdanieltown,Desktop,2025-06-09,2024-02-08 06:19:38.885900
+user_02028,61.0,2.86,1,1,vbennett@example.org,Sheila,Moreno,Female,USA,Maryland,Port Michelle,Laptop,2022-12-04,2023-07-11 14:38:50.576348
+user_02034,31.0,17.12,1,0,latoya19@example.net,Kimberly,Ortega,Male,USA,New York,Morrismouth,Tablet,2024-03-02,2023-01-29 13:37:29.607212
+user_02037,34.0,26.35,2,0,bradfordamy@example.org,Alex,Davis,Male,Canada,Ontario,Port Jamestown,Gaming Console,2025-04-09,2024-03-10 08:44:22.014958
+user_02039,38.0,10.22,4,1,gknight@example.net,Stephanie,Martin,Female,USA,Tennessee,South Joannatown,Desktop,2024-06-27,2025-05-29 02:01:16.230454
+user_02040,31.0,12.62,2,0,sloancory@example.com,Holly,Flynn,Female,Canada,Nova Scotia,Gonzalesland,Mobile,2022-12-21,2024-10-19 11:39:17.912655
+user_02046,26.0,8.18,2,0,christianrobert@example.org,Joseph,Wilson,Female,USA,Maryland,West Raymondborough,Mobile,2025-03-25,2023-02-13 01:41:47.003143
+user_02048,42.0,14.77,3,0,josephroberts@example.org,Chris,Morgan,Female,USA,Florida,Victoriamouth,Laptop,2024-07-05,2024-11-18 15:14:39.219197
+user_02063,19.0,15.24,3,0,xmorse@example.com,Paula,Hutchinson,Female,USA,Texas,Jessicaberg,Gaming Console,2022-10-24,2025-06-01 12:25:55.539970
+user_02064,13.0,15.51,1,0,lellis@example.net,Christopher,Trujillo,Male,USA,North Carolina,Port Timothy,Tablet,2024-06-12,2023-07-28 04:45:58.661052
+user_02088,32.0,30.11,2,1,soliver@example.org,Lauren,Lloyd,Male,USA,Pennsylvania,East Melissaburgh,Desktop,2023-03-12,2024-11-04 11:41:32.992284
+user_02093,49.0,13.72,1,1,elizabethrodriguez@example.org,Jennifer,Martinez,Male,USA,New York,Robertville,Gaming Console,2022-09-22,2022-10-01 19:16:42.954350
+user_02100,30.0,7.14,2,0,bphelps@example.org,Frank,Gonzalez,Male,USA,New York,West Kim,Laptop,2025-07-18,2023-09-03 06:42:59.511566
+user_02169,40.0,8.65,3,0,morrisamber@example.net,Mark,Payne,Male,Canada,Quebec,East Jaytown,Tablet,2025-07-26,2024-09-02 11:05:53.835838
+user_02219,30.0,30.97,3,0,abruce@example.org,Diane,Gordon,Female,USA,Ohio,Theresaton,Desktop,2023-06-02,2024-07-28 04:10:19.362934
+user_02221,21.0,23.91,1,1,paul05@example.net,Emily,Coleman,,USA,Washington,South Scottborough,Desktop,2023-01-29,2024-03-31 16:16:54.984031
+user_02221,21.0,23.91,1,1,paul05@example.net,Emily,Coleman,,USA,Washington,South Scottborough,Desktop,2023-01-29,2024-03-31 16:16:54.984031
+user_02235,48.0,9.81,3,1,sara62@example.com,Jesse,Cline,Female,Canada,Prince Edward Island,Rodriguezmouth,Smart TV,2024-05-13,2023-10-09 12:14:01.175396
+user_02268,45.0,38.92,1,0,garciadavid@example.org,Mercedes,Gibson,Female,USA,New Jersey,West Theodore,Smart TV,2023-08-28,2023-05-14 10:34:44.549471
+user_02281,32.0,17.89,2,0,christopher42@example.com,Jacob,Stewart,Female,Canada,Manitoba,Lake Tracy,Tablet,2023-02-15,2024-08-13 00:48:33.657516
+user_02292,24.0,9.96,3,0,kathyhall@example.org,Jennifer,Duarte,Male,USA,Washington,Juliatown,Gaming Console,2024-01-21,2025-02-09 14:19:25.670993
+user_02311,42.0,35.54,3,0,taylormichael@example.net,Heidi,Richardson,Prefer not to say,USA,California,Christineton,Laptop,2023-12-17,2022-12-25 21:48:37.761497
+user_02326,45.0,33.24,2,0,lbrown@example.com,Samuel,Carter,Female,USA,Indiana,Port Michael,Tablet,2022-10-27,2023-09-12 12:30:58.002354
+user_02331,22.0,25.77,3,1,maria11@example.net,Victoria,Frye,Female,USA,Maryland,North Patriciabury,Gaming Console,2024-09-15,2024-06-02 19:49:41.245675
+user_02334,35.0,24.55,3,1,melissa18@example.org,Kimberly,Leon,Female,USA,Pennsylvania,South Brianside,Gaming Console,2025-06-05,2024-08-07 11:29:18.112387
+user_02335,44.0,13.14,2,0,renee08@example.org,Travis,Jefferson,Female,USA,Arizona,West Josephport,Laptop,2025-04-16,2024-10-29 03:13:23.870416
+user_02365,49.0,0.67,3,1,dhardin@example.net,Paul,Garcia,Male,Canada,Ontario,South Jacquelinechester,Gaming Console,2022-10-02,2024-06-29 07:21:18.902102
+user_02365,49.0,0.67,3,1,dhardin@example.net,Paul,Garcia,Male,Canada,Ontario,South Jacquelinechester,Gaming Console,2022-10-02,2024-06-29 07:21:18.902102
+user_02393,45.0,6.38,3,1,iphelps@example.net,Susan,Day,Male,Canada,Quebec,East Chad,Smart TV,2024-04-22,2022-10-20 02:55:28.020990
+user_02421,53.0,28.0,2,0,lisahernandez@example.net,Dylan,King,Male,USA,Missouri,Lake Jamesstad,Gaming Console,2024-12-16,2023-07-26 03:52:17.699645
+user_02422,36.0,2.18,3,1,andreahenry@example.org,Andrew,Fletcher,Female,USA,Arizona,Jenniferton,Tablet,2024-12-05,2024-06-04 20:33:52.279593
+user_02427,29.0,24.36,2,0,vowen@example.com,Megan,Conner,Male,USA,Tennessee,Lindsaymouth,Gaming Console,2023-01-22,2025-05-14 13:00:00.408777
+user_02427,29.0,24.36,2,0,vowen@example.com,Megan,Conner,Male,USA,Tennessee,Lindsaymouth,Gaming Console,2023-01-22,2025-05-14 13:00:00.408777
+user_02448,45.0,10.72,3,0,jeremy76@example.com,Johnny,Sharp,Male,USA,Tennessee,Lake Rebeccamouth,Smart TV,2023-08-06,2025-03-06 08:46:14.694604
+user_02453,41.0,18.04,3,0,wmendez@example.net,Angela,Griffin,Male,USA,Georgia,Port Melanie,Smart TV,2024-06-09,2022-08-31 21:19:00.583004
+user_02457,45.0,18.51,1,0,callahananna@example.net,Kimberly,Moreno,Prefer not to say,USA,Arizona,Port Michelleborough,Mobile,2025-06-30,2023-03-31 09:02:56.311731
+user_02515,28.0,18.43,1,1,uhogan@example.com,Mary,Wheeler,Male,USA,North Carolina,North Anthony,Gaming Console,2022-10-28,2024-11-14 20:31:11.793427
+user_02530,44.0,21.67,2,0,angela08@example.net,Nicole,Rodriguez,Male,USA,Indiana,West Kevinbury,Tablet,2023-10-11,2024-08-18 17:08:34.803403
+user_02543,53.0,36.68,3,1,jorge70@example.net,Adrian,Gomez,,USA,Virginia,Feliciahaven,Tablet,2024-01-15,2023-07-11 09:02:53.611772
+user_02544,25.0,21.88,4,1,darin83@example.org,Stephen,Simpson,Male,USA,Virginia,West Catherine,Gaming Console,2024-06-30,2025-05-07 07:33:13.399533
+user_02568,43.0,11.75,3,1,mark42@example.org,Elizabeth,Wilkerson,Female,USA,Michigan,Charlesmouth,Smart TV,2024-09-27,2024-02-23 15:04:49.886269
+user_02571,47.0,13.48,2,1,fernandezjaime@example.net,Cynthia,Swanson,,USA,North Carolina,Lake Kristinmouth,Desktop,2024-07-28,2025-07-25 22:22:30.814770
+user_02590,39.0,13.08,3,0,manuel98@example.net,Jasmine,Gonzalez,Male,USA,Massachusetts,Jameshaven,Desktop,2022-10-11,2023-02-01 03:41:05.391451
+user_02632,30.0,13.48,4,1,bwilliams@example.com,Morgan,Shaw,Female,USA,Michigan,Davidstad,Gaming Console,2023-09-01,2024-11-07 20:15:37.644895
+user_02633,55.0,12.93,1,0,john04@example.net,Connie,Norris,Other,USA,Indiana,New Nicole,Mobile,2024-10-28,2025-07-11 23:23:21.463621
+user_02633,55.0,12.93,1,0,john04@example.net,Connie,Norris,Other,USA,Indiana,New Nicole,Mobile,2024-10-28,2025-07-11 23:23:21.463621
+user_02648,47.0,7.51,3,0,qgonzalez@example.net,Tony,Gonzales,Male,USA,Virginia,North Michaelside,Mobile,2023-03-02,2023-08-12 02:59:15.203772
+user_02653,44.0,13.48,2,1,wendymendoza@example.org,Michael,Holmes,Female,Canada,Prince Edward Island,North Angela,Gaming Console,2022-11-02,2024-12-07 03:06:16.169722
+user_02656,10.0,20.19,3,0,stacy67@example.com,Kelly,Sweeney,Male,USA,Georgia,Williamsville,Desktop,2022-08-04,2024-03-08 22:26:11.126713
+user_02656,10.0,20.19,3,0,stacy67@example.com,Kelly,Sweeney,Male,USA,Georgia,Williamsville,Desktop,2022-08-04,2024-03-08 22:26:11.126713
+user_02666,41.0,34.3,1,1,davidsmith@example.net,Arthur,Watson,Male,USA,Illinois,Port Crystal,Smart TV,2023-08-30,2024-12-20 11:54:49.850810
+user_02666,41.0,34.3,1,1,davidsmith@example.net,Arthur,Watson,Male,USA,Illinois,Port Crystal,Smart TV,2023-08-30,2024-12-20 11:54:49.850810
+user_02680,37.0,23.25,2,0,jennifer52@example.net,Jonathan,Taylor,Male,USA,Missouri,Gonzalezside,Tablet,2023-01-04,2025-05-13 21:47:49.407369
+user_02695,40.0,14.65,3,0,xgonzalez@example.com,Edward,Nixon,Female,USA,Indiana,Lake Isaacside,Laptop,2023-09-24,2023-05-13 03:08:35.310134
+user_02703,23.0,17.12,1,1,jessicatucker@example.com,Amber,Johnson,Male,USA,Virginia,Rollinsfort,Gaming Console,2025-06-14,2022-12-10 10:59:27.751219
+user_02710,38.0,6.62,2,1,lwhite@example.org,Candice,Farmer,Prefer not to say,Canada,Prince Edward Island,West John,Laptop,2022-10-18,2023-07-31 00:58:26.056150
+user_02727,48.0,10.76,3,0,wendy17@example.org,Patricia,Hall,Prefer not to say,USA,New Jersey,Joseland,Desktop,2025-03-14,2023-04-26 10:46:28.050777
+user_02749,24.0,3.91,2,0,christopherreyes@example.org,Elizabeth,Nixon,Female,USA,Florida,Murrayhaven,Laptop,2024-08-10,2024-03-21 04:07:44.626366
+user_02751,27.0,45.81,3,0,obrienerin@example.com,Renee,Benson,Prefer not to say,USA,Tennessee,New Tina,Desktop,2023-01-27,2024-07-30 03:34:26.696758
+user_02752,29.0,13.48,3,0,tammy20@example.org,Thomas,Dean,Female,Canada,British Columbia,Alejandroton,Gaming Console,2024-07-19,2024-11-20 14:27:47.444705
+user_02752,29.0,13.48,3,0,tammy20@example.org,Thomas,Dean,Female,Canada,British Columbia,Alejandroton,Gaming Console,2024-07-19,2024-11-20 14:27:47.444705
+user_02778,53.0,23.65,2,0,julian43@example.com,Cassandra,Perry,Female,Canada,Prince Edward Island,Thomaston,Tablet,2025-07-02,2025-07-24 14:49:25.239848
+user_02778,53.0,23.65,2,0,julian43@example.com,Cassandra,Perry,Female,Canada,Prince Edward Island,Thomaston,Tablet,2025-07-02,2025-07-24 14:49:25.239848
+user_02816,94.0,19.29,1,1,davidwilson@example.net,Anita,Sawyer,Male,USA,New York,Codyton,Laptop,2025-05-09,2024-11-14 07:38:29.188906
+user_02824,57.0,3.21,3,1,meadowsdana@example.com,David,Evans,Female,Canada,Alberta,Vanessamouth,Tablet,2024-10-13,2023-08-15 04:29:29.740993
+user_02825,56.0,12.67,1,0,sanchezlisa@example.net,Daniel,Scott,Male,Canada,Newfoundland and Labrador,Lake Megan,Laptop,2024-11-22,2025-05-26 01:42:07.308494
+user_02827,26.0,7.48,1,0,moorecraig@example.com,Paul,Sherman,Male,USA,Ohio,Rachelborough,Gaming Console,2025-07-14,2022-12-30 13:57:53.797074
+user_02828,31.0,18.59,1,0,kristine53@example.org,Paul,Odom,Female,USA,Washington,Kayleestad,Desktop,2024-05-25,2024-07-31 05:15:39.125329
+user_02833,32.0,11.19,1,1,kboyer@example.com,Robert,Neal,Female,Canada,Ontario,West Johnton,Mobile,2023-08-09,2025-07-25 13:47:32.804084
+user_02855,29.0,15.34,2,0,vbrennan@example.net,Tony,Harris,Male,USA,New Jersey,Port Christinamouth,Desktop,2024-04-17,2023-04-22 06:21:14.896680
+user_02856,55.0,7.92,2,1,brhodes@example.org,Matthew,Farley,Female,USA,North Carolina,Bryanhaven,Tablet,2023-07-19,2024-06-19 00:53:17.305359
+user_02856,55.0,7.92,2,1,brhodes@example.org,Matthew,Farley,Female,USA,North Carolina,Bryanhaven,Tablet,2023-07-19,2024-06-19 00:53:17.305359
+user_02870,36.0,10.22,3,1,jross@example.net,Robert,Hernandez,Female,USA,Maryland,Kevinmouth,Desktop,2024-11-01,2024-10-01 08:49:11.283513
+user_02877,60.0,27.76,3,1,thompsonbarbara@example.net,Melissa,Vasquez,Other,Canada,Nova Scotia,Lake Michellefort,Desktop,2022-08-03,2024-07-11 15:42:30.342246
+user_02878,55.0,35.96,2,0,jilltorres@example.org,William,Rush,Other,Canada,British Columbia,East Catherinefort,Mobile,2023-11-05,2023-11-10 06:06:27.032364
+user_02922,35.0,8.86,3,1,amanda38@example.com,Patrick,Sosa,Male,Canada,Manitoba,New Phillip,Desktop,2025-02-13,2024-03-11 09:19:23.189933
+user_02925,24.0,43.12,3,0,nwhite@example.com,Marissa,Brown,Female,Canada,New Brunswick,Lake Paul,Smart TV,2023-07-31,2023-05-15 08:36:36.609851
+user_02932,20.0,12.92,4,0,gregory44@example.net,Makayla,Roberts,Male,Canada,Newfoundland and Labrador,Robertshaven,Gaming Console,2024-06-09,2024-04-09 18:51:53.234622
+user_02934,61.0,13.48,3,1,bentleyryan@example.net,Teresa,Harrison,Female,USA,Tennessee,Chanchester,Smart TV,2022-08-20,2024-07-31 03:15:21.937227
+user_02938,25.0,13.21,4,0,wlee@example.com,Cheryl,Clark,Female,USA,Wisconsin,North Austin,Tablet,2023-12-02,2023-05-01 02:06:20.363137
+user_02940,16.0,18.18,2,0,deankathleen@example.net,William,Greene,Prefer not to say,USA,Missouri,South Heatherchester,Smart TV,2025-05-26,2024-04-18 02:04:54.787256
+user_02960,42.0,23.57,2,0,lorigutierrez@example.com,Steven,Cross,Female,USA,Michigan,Valentineview,Tablet,2025-05-29,2023-10-01 16:24:29.692146
+user_02978,31.0,13.48,2,0,zmontoya@example.org,Shawn,Hoffman,,USA,Ohio,Riceside,Smart TV,2025-03-13,2025-06-18 03:06:39.921031
+user_02981,25.0,35.44,1,0,patrick78@example.net,Dwayne,Hart,Male,Canada,Newfoundland and Labrador,Bethanytown,Gaming Console,2025-05-17,2023-11-06 01:07:43.804650
+user_03003,29.0,18.71,2,0,lauriestein@example.org,Frank,Flores,Male,USA,North Carolina,New Jackie,Tablet,2023-03-02,2022-12-09 20:22:25.714314
+user_03004,44.0,5.27,2,0,sfletcher@example.net,Tammy,Lopez,Female,USA,Georgia,Lake Joshua,Tablet,2025-01-28,2023-04-09 06:22:56.988285
+user_03008,59.0,24.18,3,1,daniel87@example.com,John,Hill,Male,USA,Indiana,Alexandermouth,Laptop,2024-12-01,2024-07-25 01:54:51.119813
+user_03015,37.0,30.32,2,0,sean73@example.com,Edward,Perez,Female,USA,Arizona,East Virginia,Desktop,2024-03-26,2023-11-01 18:32:27.720437
+user_03024,47.0,6.84,2,0,hannahsmith@example.net,Joseph,Leblanc,Prefer not to say,Canada,Ontario,Smithchester,Laptop,2025-04-17,2024-01-30 23:29:31.331324
+user_03025,31.0,13.48,1,0,jon54@example.net,Mark,Jones,Other,USA,North Carolina,West Lindseychester,Tablet,2023-03-21,2022-12-24 01:56:48.924089
+user_03026,46.0,20.54,1,0,ubrock@example.net,Norma,Burch,Female,Canada,Quebec,Williamville,Tablet,2024-12-26,2023-03-01 20:39:53.657109
+user_03035,18.0,13.48,2,0,hooddaniel@example.com,James,Burns,Female,Canada,Nova Scotia,Port Thomashaven,Mobile,2023-02-26,2023-01-11 10:29:34.079354
+user_03042,43.0,8.41,3,1,christianjohnson@example.org,Frederick,Mcdonald,Prefer not to say,Canada,New Brunswick,South Heatherport,Gaming Console,2024-02-06,2022-08-14 18:41:09.580896
+user_03050,39.0,20.32,4,0,scottalan@example.org,Mary,Rodriguez,Female,Canada,New Brunswick,South Katrina,Laptop,2023-05-21,2024-07-09 22:04:40.118965
+user_03051,29.0,17.2,2,0,marcus18@example.net,Ronald,Brooks,Female,Canada,Alberta,South Sherry,Gaming Console,2023-07-07,2025-05-18 14:37:47.588344
+user_03051,29.0,17.2,2,0,marcus18@example.net,Ronald,Brooks,Female,Canada,Alberta,South Sherry,Gaming Console,2023-07-07,2025-05-18 14:37:47.588344
+user_03057,46.0,19.63,4,1,lbecker@example.org,Tonya,Chapman,Female,USA,Tennessee,Kimberlyfort,Tablet,2024-06-09,2022-10-02 12:14:40.139758
+user_03063,54.0,7.8,3,0,maystimothy@example.net,Rhonda,Russell,Male,USA,Ohio,Kevinland,Laptop,2025-06-17,2025-05-22 00:57:49.627112
+user_03074,5.0,13.44,2,0,laura71@example.com,Amanda,Jones,Female,USA,Ohio,Justinside,Smart TV,2025-01-08,2023-10-15 13:15:56.309414
+user_03086,51.0,2.34,2,0,brivers@example.net,Tammy,Lane,Male,Canada,Alberta,Port Scottstad,Laptop,2023-04-16,2025-01-31 14:42:06.758680
+user_03090,50.0,15.92,3,1,watsonamanda@example.net,Robert,Lucero,Male,Canada,Prince Edward Island,New Steven,Mobile,2022-11-30,2023-07-02 01:25:30.023514
+user_03096,31.0,3.08,1,0,pedrocruz@example.org,Jasmine,Reed,Male,USA,Maryland,Lake Staceyview,Mobile,2024-02-18,2023-09-18 12:34:39.700019
+user_03096,31.0,3.08,1,0,pedrocruz@example.org,Jasmine,Reed,Male,USA,Maryland,Lake Staceyview,Mobile,2024-02-18,2023-09-18 12:34:39.700019
+user_03108,31.0,12.56,1,0,sharon70@example.org,Jason,Schneider,Other,USA,Arizona,East Markbury,Desktop,2023-05-30,2024-01-01 04:55:31.079785
+user_03109,34.0,25.89,3,1,normanclifford@example.net,Jeffrey,Wolf,Male,USA,New Jersey,Phillipshaven,Laptop,2023-07-22,2023-02-13 18:51:35.768822
+user_03111,18.0,5.75,3,0,nlee@example.org,Jared,Martin,Female,USA,Florida,South Aaronhaven,Laptop,2025-03-11,2025-01-30 12:14:44.871547
+user_03151,27.0,3.45,2,0,christine41@example.net,Lindsey,Greene,Male,Canada,Ontario,Stanleyland,Laptop,2023-04-15,2024-06-26 15:22:29.158078
+user_03177,49.0,11.92,1,1,kcarroll@example.net,David,Becker,Male,Canada,New Brunswick,East Thomasside,Smart TV,2023-02-27,2022-11-04 15:31:01.147479
+user_03217,52.0,35.89,3,1,lindaanderson@example.com,Larry,Taylor,Male,USA,Florida,North Roger,Tablet,2024-06-03,2023-02-10 11:33:46.784177
+user_03217,52.0,35.89,3,1,lindaanderson@example.com,Larry,Taylor,Male,USA,Florida,North Roger,Tablet,2024-06-03,2023-02-10 11:33:46.784177
+user_03222,38.0,16.47,3,0,bwilson@example.com,Andrew,Miller,Female,Canada,Saskatchewan,Michaelville,Laptop,2024-01-25,2025-01-02 21:01:13.302666
+user_03226,24.0,18.64,2,1,shepardheidi@example.org,Matthew,Diaz,Male,Canada,Alberta,East Johnton,Mobile,2025-03-02,2023-07-24 18:33:08.956035
+user_03237,20.0,5.63,4,0,johnsonkevin@example.net,Jason,Anderson,Female,Canada,Prince Edward Island,East Erica,Mobile,2024-07-04,2023-09-15 16:52:28.437051
+user_03245,31.0,18.67,1,0,ltucker@example.com,William,Watson,Female,Canada,Nova Scotia,Port Justinbury,Desktop,2025-06-14,2024-07-03 10:14:30.433560
+user_03264,39.0,3.11,2,0,amyhernandez@example.com,Christopher,Watts,Female,USA,Illinois,New James,Mobile,2025-05-03,2024-10-29 18:34:10.992336
+user_03266,30.0,25.8,2,0,smithholly@example.net,Doris,Lindsey,Female,USA,New York,East Bryan,Gaming Console,2024-10-24,2024-09-23 05:32:06.297012
+user_03271,45.0,19.9,3,1,catherine63@example.org,Sally,Coleman,Female,USA,Wisconsin,Paulaside,Desktop,2024-12-18,2024-12-13 00:29:24.345608
+user_03275,67.0,18.24,4,1,wellssabrina@example.com,Lindsay,Mendoza,,Canada,Prince Edward Island,Hansenmouth,Laptop,2025-05-15,2023-04-05 21:30:27.323315
+user_03286,55.0,11.56,4,1,matthewfowler@example.org,Ann,Smith,Female,Canada,British Columbia,Tinafort,Smart TV,2025-03-12,2023-08-17 15:22:29.823173
+user_03306,42.0,33.54,1,1,tommy20@example.com,Jeremiah,Mccann,Male,USA,Virginia,Chapmanmouth,Mobile,2024-09-02,2023-12-20 07:30:45.452546
+user_03308,47.0,9.01,1,0,lwalker@example.org,William,Spencer,Male,USA,Arizona,Thomasshire,Mobile,2023-11-24,2024-10-21 17:14:44.744668
+user_03313,17.0,18.18,1,0,gallowaytimothy@example.net,David,Brooks,Female,Canada,Manitoba,Simmonston,Tablet,2024-03-29,2022-12-24 17:22:10.810488
+user_03328,41.0,8.92,4,1,srobinson@example.com,Jeanette,Rodriguez,Female,USA,Georgia,South Sarahland,Mobile,2023-06-04,2022-12-07 22:59:51.335590
+user_03334,28.0,38.02,3,1,xochoa@example.com,Tiffany,Anderson,Female,USA,Wisconsin,Obrienstad,Mobile,2024-12-08,2025-03-27 10:05:30.879774
+user_03336,53.0,9.6,3,0,cathywelch@example.net,Alan,Rosales,Prefer not to say,USA,Washington,West Shannon,Smart TV,2023-07-18,2023-06-16 20:04:49.318530
+user_03363,21.0,24.47,2,1,christina96@example.com,Michelle,Serrano,Male,Canada,Quebec,Port Savannahstad,Desktop,2024-08-11,2025-06-26 18:52:55.145367
+user_03379,9.0,24.72,4,1,glassanthony@example.net,Robert,May,Male,USA,Georgia,Port Tracyfurt,Mobile,2022-12-16,2024-01-14 18:05:19.150505
+user_03413,58.0,19.03,3,1,jimenezaudrey@example.org,David,Rosario,Male,USA,Georgia,North Lisa,Laptop,2022-10-22,2023-12-12 20:13:53.459220
+user_03419,16.0,4.77,1,0,joel35@example.com,Ronnie,Martinez,Female,USA,Massachusetts,Hinesfurt,Smart TV,2022-09-09,2023-07-05 07:36:24.785482
+user_03427,20.0,20.75,4,0,debra44@example.net,Michael,Bradley,,USA,Wisconsin,East Kimberly,Mobile,2024-09-06,2022-11-21 15:25:31.472636
+user_03475,38.0,11.8,3,0,jessica71@example.net,Elizabeth,Gonzalez,Male,USA,Tennessee,West Duaneland,Tablet,2023-06-03,2024-07-21 23:41:18.668419
+user_03475,38.0,11.8,3,0,jessica71@example.net,Elizabeth,Gonzalez,Male,USA,Tennessee,West Duaneland,Tablet,2023-06-03,2024-07-21 23:41:18.668419
+user_03477,26.0,16.75,1,0,tracy64@example.net,David,Edwards,Female,USA,Florida,South Jenniferport,Tablet,2024-12-18,2025-02-19 17:33:20.317353
+user_03486,19.0,5.4,1,0,hpatrick@example.net,Daniel,Wang,Female,USA,New York,New Bradley,Mobile,2023-01-14,2023-03-11 09:53:29.993503
+user_03486,19.0,5.4,1,0,hpatrick@example.net,Daniel,Wang,Female,USA,New York,New Bradley,Mobile,2023-01-14,2023-03-11 09:53:29.993503
+user_03497,31.0,8.57,3,1,kmills@example.net,Joseph,Spears,Male,USA,Indiana,Kimfurt,Smart TV,2023-03-25,2024-05-11 03:19:57.012422
+user_03512,30.0,14.66,1,0,rmoore@example.com,Alex,Davis,Prefer not to say,USA,Massachusetts,Port Allison,Tablet,2025-02-08,2022-11-08 07:26:45.164555
+user_03517,27.0,8.29,2,0,bfarmer@example.org,Jennifer,Dawson,Female,USA,Michigan,West Codyside,Laptop,2023-02-13,2022-08-27 04:08:09.179881
+user_03550,15.0,6.49,1,0,jessicapennington@example.org,Michael,Roman,Female,Canada,British Columbia,North Davidbury,Laptop,2023-01-02,2024-09-04 06:08:22.641549
+user_03551,27.0,7.62,3,0,nlove@example.org,Julia,Landry,Female,USA,Indiana,Lake Sandra,Tablet,2025-01-09,2022-11-24 20:27:35.401800
+user_03558,31.0,10.89,3,0,qlee@example.com,Brian,Jones,Female,USA,New Jersey,Tinashire,Tablet,2023-10-23,2025-06-11 13:11:28.738180
+user_03559,24.0,6.12,1,1,donna65@example.net,Sarah,Warren,Female,USA,Indiana,Martinezfort,Smart TV,2023-09-27,2023-05-11 11:46:37.657607
+user_03582,41.0,16.64,3,0,smithnathan@example.net,Brian,Riley,Female,USA,Wisconsin,Aaronfurt,Gaming Console,2025-07-07,2025-02-08 12:21:51.823132
+user_03589,63.0,13.48,2,0,ewallace@example.org,Lisa,Lara,Female,USA,Florida,East Andrewshire,Tablet,2022-12-23,2023-05-01 21:17:24.436683
+user_03589,63.0,13.48,2,0,ewallace@example.org,Lisa,Lara,Female,USA,Florida,East Andrewshire,Tablet,2022-12-23,2023-05-01 21:17:24.436683
+user_03602,38.0,25.78,3,1,hannahlee@example.net,Lisa,Fischer,Male,Canada,Nova Scotia,Isabelfurt,Laptop,2025-01-02,2025-05-07 12:01:24.489914
+user_03627,38.0,13.33,2,0,christinabrown@example.org,Jason,Allen,Male,USA,Florida,Robertschester,Tablet,2023-04-13,2022-08-21 13:04:23.660340
+user_03633,42.0,15.4,3,1,mark21@example.net,Connor,Reed,Male,USA,Tennessee,Mirandafurt,Gaming Console,2024-12-28,2024-03-27 11:29:19.051126
+user_03641,32.0,8.95,2,0,kendra40@example.org,Danielle,Barnett,Male,USA,Pennsylvania,Dorothyside,Desktop,2023-06-07,2023-09-17 15:21:56.336958
+user_03652,28.0,1.48,1,0,zblack@example.net,Lisa,Santana,Male,Canada,Saskatchewan,Gambleland,Desktop,2023-11-08,2024-05-09 12:38:34.960844
+user_03657,8.0,12.13,1,0,whernandez@example.org,Dawn,Montgomery,Female,USA,New Jersey,Kevinborough,Mobile,2022-09-25,2023-06-12 00:33:49.007611
+user_03657,8.0,12.13,1,0,whernandez@example.org,Dawn,Montgomery,Female,USA,New Jersey,Kevinborough,Mobile,2022-09-25,2023-06-12 00:33:49.007611
+user_03666,17.0,1.9,2,0,scotthawkins@example.org,Timothy,Smith,Male,USA,Ohio,Raystad,Gaming Console,2022-10-23,2023-09-04 07:29:44.982560
+user_03668,29.0,9.97,1,0,iarnold@example.net,Jessica,Pennington,Female,USA,Arizona,Lake Kim,Smart TV,2022-09-27,2023-08-11 16:34:59.970174
+user_03679,26.0,28.5,2,0,sandra79@example.net,Michael,Vega,Female,USA,California,Morganshire,Desktop,2025-04-07,2023-08-28 04:51:08.472697
+user_03689,45.0,14.46,2,0,xfaulkner@example.org,Seth,Lee,Male,USA,Texas,Juarezton,Laptop,2023-07-28,2025-01-06 11:11:12.425725
+user_03690,48.0,22.03,2,0,wilsonbrittany@example.com,Melanie,Campbell,,USA,Pennsylvania,Allisonmouth,Desktop,2023-02-04,2023-05-02 07:10:37.095705
+user_03693,35.0,9.6,2,1,dedwards@example.org,Nicole,Taylor,Female,USA,Illinois,South Melissamouth,Tablet,2023-11-09,2024-12-29 14:46:42.634325
+user_03693,35.0,9.6,2,1,dedwards@example.org,Nicole,Taylor,Female,USA,Illinois,South Melissamouth,Tablet,2023-11-09,2024-12-29 14:46:42.634325
+user_03696,18.0,17.55,2,0,andersonmichael@example.net,Patricia,Fernandez,Female,USA,Michigan,Port Elizabethside,Gaming Console,2025-02-03,2023-05-21 13:48:05.198547
+user_03702,64.0,6.69,2,0,isaiah91@example.net,Jason,Adams,Female,USA,Tennessee,South Kevin,Smart TV,2024-01-27,2023-01-24 22:22:18.975824
+user_03723,45.0,29.26,1,0,michael69@example.com,Renee,Johnson,Female,USA,Florida,Port Mikaylaland,Tablet,2024-06-13,2024-07-17 17:27:28.516399
+user_03746,38.0,13.48,3,1,hooperlisa@example.com,Nicholas,Gibson,Female,Canada,Alberta,Port Melissaberg,Gaming Console,2023-02-28,2023-02-28 05:06:05.385726
+user_03769,48.0,13.54,3,0,fcarter@example.com,Robert,White,Female,USA,New Jersey,North Brendaton,Mobile,2024-03-08,2022-10-08 17:26:29.807139
+user_03769,48.0,13.54,3,0,fcarter@example.com,Robert,White,Female,USA,New Jersey,North Brendaton,Mobile,2024-03-08,2022-10-08 17:26:29.807139
+user_03779,35.0,13.07,2,1,maureen93@example.net,Cathy,Perez,Female,USA,Texas,Johnview,Desktop,2024-03-23,2024-06-12 06:51:06.781366
+user_03797,40.0,7.75,2,1,lutzdevin@example.org,Christopher,Martinez,Female,USA,Florida,New Meganberg,Gaming Console,2023-03-29,2024-01-05 09:04:14.120114
+user_03819,50.0,15.37,2,1,eric05@example.net,Tara,Guerra,Male,Canada,Quebec,Victoriaborough,Mobile,2023-01-08,2022-11-26 15:54:21.817665
+user_03834,31.0,19.07,3,0,michael31@example.org,Crystal,Carrillo,Female,USA,Massachusetts,West Brooke,Smart TV,2023-01-03,2024-08-07 19:04:00.864878
+user_03838,3.0,1.4,3,0,qmartin@example.net,William,Terrell,,USA,Washington,Jamesville,Tablet,2024-11-16,2025-04-21 17:01:47.118953
+user_03855,24.0,9.99,2,1,willisjames@example.org,Carmen,Carter,Male,Canada,Alberta,Guerrastad,Smart TV,2025-01-10,2024-05-22 07:16:58.378287
+user_03861,44.0,3.53,3,1,jacksonstephen@example.net,Christine,Coleman,Female,USA,Texas,East Patricia,Laptop,2023-10-24,2024-01-13 20:08:41.825777
+user_03862,2.0,7.2,4,0,mitchelldanielle@example.net,Robert,Young,Female,USA,Indiana,North Richard,Smart TV,2024-04-29,2023-04-17 03:55:13.886056
+user_03870,34.0,14.24,2,1,urobinson@example.org,Caleb,Miller,Male,USA,Arizona,Curtisville,Tablet,2025-03-18,2024-10-30 05:31:17.579148
+user_03872,23.0,5.72,1,0,kristasmith@example.org,Julie,Franklin,Male,USA,Illinois,Lake Jeffrey,Mobile,2024-09-20,2023-11-27 14:18:08.949518
+user_03885,39.0,13.48,2,1,xbrewer@example.org,David,Gibson,Female,USA,Maryland,Ruizstad,Gaming Console,2023-12-12,2023-01-09 02:32:50.647486
+user_03893,27.0,9.59,3,1,bellrobert@example.com,Kevin,Ford,Male,USA,Washington,South Johnport,Mobile,2022-09-12,2022-10-07 16:48:11.173874
+user_03893,27.0,9.59,3,1,bellrobert@example.com,Kevin,Ford,Male,USA,Washington,South Johnport,Mobile,2022-09-12,2022-10-07 16:48:11.173874
+user_03902,40.0,13.48,2,1,katherinekelley@example.org,Alicia,Hunter,Female,USA,Missouri,Ericmouth,Desktop,2023-02-24,2025-05-28 17:13:34.732645
+user_03926,51.0,13.48,2,1,jacob43@example.net,Brenda,Lindsey,Female,USA,Indiana,Fischershire,Laptop,2023-10-24,2023-05-09 02:56:57.412470
+user_03927,34.0,48.72,1,0,kingrebecca@example.com,Matthew,Smith,Female,USA,New York,Henryburgh,Laptop,2025-07-20,2024-07-06 12:43:59.178733
+user_03933,27.0,23.15,2,0,hbarnett@example.net,Richard,Maldonado,Male,Canada,Manitoba,Ryanfort,Smart TV,2025-04-15,2024-05-02 23:11:55.816715
+user_03933,27.0,23.15,2,0,hbarnett@example.net,Richard,Maldonado,Male,Canada,Manitoba,Ryanfort,Smart TV,2025-04-15,2024-05-02 23:11:55.816715
+user_03935,24.0,26.27,3,1,christopher12@example.org,Charles,Cruz,Male,Canada,Nova Scotia,Port Robert,Smart TV,2023-02-09,2023-12-14 09:03:05.465673
+user_03967,60.0,13.97,4,1,dennis82@example.net,Erika,Dalton,Male,USA,California,Jameston,Tablet,2023-08-19,2022-08-15 18:18:23.135435
+user_03987,43.0,12.54,2,0,pherrera@example.com,Timothy,Moore,,Canada,British Columbia,Baileyland,Tablet,2022-08-29,2023-07-28 02:39:35.316946
+user_04016,48.0,22.61,3,0,joshuabowman@example.com,Kathleen,Mccoy,Female,USA,Maryland,North Justinhaven,Desktop,2025-07-28,2023-03-08 23:30:32.104428
+user_04020,34.0,27.3,3,1,morrisonchristine@example.com,Gary,Ray,,USA,North Carolina,Lake Adam,Mobile,2023-11-18,2023-11-05 04:01:55.058881
+user_04031,35.0,4.02,2,0,clarkpamela@example.org,Patricia,Glover,Female,USA,Florida,Glennburgh,Smart TV,2023-03-22,2024-10-17 23:37:26.536097
+user_04031,35.0,4.02,2,0,clarkpamela@example.org,Patricia,Glover,Female,USA,Florida,Glennburgh,Smart TV,2023-03-22,2024-10-17 23:37:26.536097
+user_04048,21.0,7.59,3,0,sdominguez@example.net,Alyssa,Smith,Female,USA,Georgia,East Timothy,Laptop,2023-05-15,2023-01-17 10:47:58.269686
+user_04068,43.0,5.69,1,1,curtisstacy@example.net,Edward,Jensen,,Canada,Newfoundland and Labrador,Crawfordfort,Smart TV,2024-03-23,2022-12-15 15:40:15.610327
+user_04071,28.0,24.2,3,0,nancyfernandez@example.org,Melissa,Gomez,Male,Canada,Ontario,Port Michaelside,Smart TV,2023-09-12,2023-06-30 12:17:23.974979
+user_04081,52.0,21.4,1,1,howardautumn@example.net,Keith,Brown,Male,USA,Virginia,Lindahaven,Laptop,2024-02-12,2025-03-10 03:25:55.445763
+user_04086,21.0,36.54,2,0,cbowman@example.org,Isaac,Olsen,Male,USA,Ohio,South Lisamouth,Laptop,2023-12-24,2024-12-30 01:23:14.287313
+user_04105,36.0,37.61,3,1,nathan56@example.net,Yesenia,Lopez,Female,USA,Tennessee,East Williamtown,Gaming Console,2025-01-04,2023-12-29 06:13:10.133802
+user_04127,31.0,3.84,3,0,sbrown@example.net,Phillip,Stewart,Male,USA,New Jersey,Garciachester,Gaming Console,2024-12-19,2024-01-02 18:23:54.762874
+user_04128,20.0,8.95,3,0,dickersonadam@example.org,Laura,Woodward,Female,USA,Ohio,Brooksshire,Mobile,2023-03-09,2024-01-07 13:52:35.206754
+user_04136,29.0,2.31,4,1,lisajohnson@example.org,Rebecca,Williams,Prefer not to say,USA,Michigan,Thorntonton,Tablet,2024-12-13,2024-02-19 13:12:56.144109
+user_04154,52.0,3.25,1,1,raustin@example.org,Daniel,Jones,Male,Canada,New Brunswick,North Nicholas,Tablet,2025-05-19,2024-03-03 18:16:22.268120
+user_04157,45.0,10.53,2,1,kendrapatterson@example.net,Mary,Woodard,Other,Canada,New Brunswick,South Louisburgh,Laptop,2024-08-09,2025-02-27 07:19:45.700714
+user_04158,40.0,6.94,2,1,stephensjacqueline@example.net,Natalie,Foster,Male,USA,Virginia,Lake Frederickstad,Desktop,2022-08-12,2025-04-17 12:27:13.816860
+user_04170,41.0,13.48,4,1,garymcintyre@example.net,Derek,Clark,Male,USA,Maryland,Lake Roberthaven,Laptop,2024-11-22,2024-09-02 23:31:52.975759
+user_04185,40.0,13.35,3,1,lwong@example.com,Catherine,Rodriguez,Male,USA,Ohio,New Philliptown,Tablet,2025-07-19,2023-04-10 19:52:15.345870
+user_04191,39.0,13.48,1,1,sheila02@example.net,Stacy,Taylor,Male,USA,California,Vincentborough,Smart TV,2024-12-21,2025-07-19 10:04:09.554884
+user_04197,53.0,21.82,1,0,timothykeith@example.net,Dakota,Fisher,Female,Canada,New Brunswick,Port Suzanne,Laptop,2022-08-15,2023-08-07 02:54:55.959035
+user_04203,62.0,30.79,2,0,xpeterson@example.net,Cindy,Cummings,Female,Canada,Prince Edward Island,Port Patrick,Laptop,2023-12-02,2022-11-11 10:21:25.049183
+user_04225,32.0,17.85,2,0,johnmorgan@example.org,Sara,Carter,Male,USA,Tennessee,Greeneport,Mobile,2023-08-05,2025-06-07 07:24:10.979390
+user_04239,34.0,2.62,3,1,markryan@example.org,Elizabeth,Hensley,Male,USA,Georgia,North Heather,Laptop,2024-03-13,2024-05-07 12:11:22.405391
+user_04244,42.0,10.09,3,0,martineztodd@example.org,Christopher,Smith,Female,USA,New Jersey,Austinchester,Desktop,2023-02-09,2023-09-20 02:38:04.927456
+user_04295,35.0,13.48,4,1,joseph31@example.org,Nicholas,Gomez,Male,Canada,Nova Scotia,Tammyview,Laptop,2023-10-16,2023-07-03 18:42:31.546671
+user_04309,23.0,10.87,3,0,tiffany72@example.org,Lisa,Rocha,Female,Canada,Nova Scotia,Thomasside,Laptop,2022-12-10,2023-11-18 09:25:16.554907
+user_04321,38.0,5.45,3,0,erik63@example.net,Gabriel,Lam,Female,USA,Washington,Port Jamesmouth,Laptop,2024-04-10,2023-11-22 04:21:06.146895
+user_04326,24.0,13.48,3,0,rsanchez@example.org,Caleb,Martin,Female,USA,Missouri,Lake Tara,Gaming Console,2025-03-16,2022-10-18 21:04:18.694926
+user_04326,24.0,13.48,3,0,rsanchez@example.org,Caleb,Martin,Female,USA,Missouri,Lake Tara,Gaming Console,2025-03-16,2022-10-18 21:04:18.694926
+user_04339,14.0,20.75,1,0,rarnold@example.net,Evan,Lewis,Male,Canada,Saskatchewan,Robertsbury,Laptop,2023-05-21,2024-10-29 11:40:58.189490
+user_04354,26.0,7.89,1,1,annette29@example.com,Joseph,Rogers,Female,Canada,Alberta,Kimberlyfurt,Laptop,2024-08-22,2024-03-31 20:34:39.277112
+user_04359,24.0,25.52,3,0,evansshannon@example.com,Kevin,Mora,,Canada,Prince Edward Island,Smithville,Desktop,2025-07-01,2022-12-13 09:44:21.975487
+user_04360,39.0,11.34,3,0,ochoatodd@example.net,Rebecca,Torres,Male,USA,Missouri,Lake Tammymouth,Laptop,2025-05-13,2023-07-26 18:06:18.003218
+user_04361,32.0,9.74,4,1,callahankaren@example.net,Michelle,Smith,Female,USA,Maryland,Kennethland,Desktop,2025-07-08,2024-03-13 16:07:07.194569
+user_04378,50.0,1.51,2,1,fuenteskyle@example.net,Tyler,Wilson,Male,Canada,Prince Edward Island,Joseside,Tablet,2023-12-12,2023-06-21 12:36:09.406749
+user_04387,51.0,4.9,2,1,chenanthony@example.net,Mark,Parker,Female,USA,Pennsylvania,Jenniferbury,Desktop,2024-08-25,2024-10-30 11:16:01.792905
+user_04396,29.0,21.99,2,0,walter15@example.com,Gabriel,Cruz,Female,Canada,Prince Edward Island,South Nicole,Laptop,2024-10-30,2023-12-24 12:59:57.250278
+user_04400,58.0,12.09,1,1,joseph98@example.org,Charles,Gilbert,Male,USA,Arizona,Kimtown,Mobile,2024-09-24,2024-02-11 06:38:46.512166
+user_04402,30.0,13.48,3,1,dfranco@example.org,Benjamin,Harris,Male,USA,California,Lake Travis,Mobile,2024-03-29,2024-03-12 04:02:56.443542
+user_04408,41.0,9.11,2,0,ryangates@example.com,Kimberly,Rodriguez,Male,USA,Missouri,Leestad,Desktop,2024-12-24,2023-06-16 22:19:59.456070
+user_04414,59.0,51.84,1,0,kathleenortiz@example.net,Jacqueline,Rogers,Female,USA,Wisconsin,East Nathanielmouth,Desktop,2023-03-25,2023-02-18 02:12:33.932916
+user_04415,43.0,15.71,2,0,kristin57@example.org,David,Brown,Other,USA,California,Lindseymouth,Desktop,2023-10-19,2022-08-29 19:32:40.438173
+user_04415,43.0,15.71,2,0,kristin57@example.org,David,Brown,Other,USA,California,Lindseymouth,Desktop,2023-10-19,2022-08-29 19:32:40.438173
+user_04428,57.0,14.18,2,1,flemingalexis@example.com,Jasmine,Marquez,Female,USA,Wisconsin,Port Staceymouth,Gaming Console,2023-03-10,2025-05-20 19:34:16.057248
+user_04430,19.0,7.9,3,0,clarkdaniel@example.org,Ryan,Bradley,Male,USA,Virginia,South Wendy,Desktop,2023-10-30,2023-12-29 15:07:18.980202
+user_04434,42.0,2.99,3,0,chudson@example.com,Christina,Williams,Female,Canada,New Brunswick,New Linda,Mobile,2023-10-14,2023-05-16 13:54:43.158631
+user_04450,18.0,17.29,3,0,ssummers@example.org,Edward,Kennedy,Female,Canada,Manitoba,South Daniel,Laptop,2024-01-20,2022-11-05 05:22:25.911166
+user_04461,20.0,32.16,3,1,kaylee70@example.net,Joshua,Rios,Male,Canada,Nova Scotia,South Nicole,Gaming Console,2023-11-22,2025-06-21 17:24:55.868777
+user_04461,20.0,32.16,3,1,kaylee70@example.net,Joshua,Rios,Male,Canada,Nova Scotia,South Nicole,Gaming Console,2023-11-22,2025-06-21 17:24:55.868777
+user_04467,50.0,3.68,2,1,lnunez@example.com,Nicole,Powers,Female,USA,Georgia,Wolfetown,Desktop,2024-07-30,2023-11-13 08:22:55.707524
+user_04476,36.0,4.62,1,0,juan46@example.net,Samantha,Park,Prefer not to say,USA,Indiana,Alexandrastad,Laptop,2022-09-26,2025-01-10 13:58:17.695232
+user_04497,38.0,11.17,1,1,alvarezandrew@example.org,Steven,Bird,Female,Canada,Newfoundland and Labrador,Estradaside,Laptop,2024-10-05,2024-02-11 03:50:02.539665
+user_04498,43.0,13.48,2,1,dpeterson@example.net,Christian,Cantu,Female,Canada,Prince Edward Island,Williambury,Mobile,2023-11-06,2023-04-09 02:33:06.591789
+user_04506,23.0,41.65,3,1,sierragonzalez@example.net,Faith,Garner,Male,USA,California,Elizabethfort,Laptop,2023-09-14,2024-05-29 08:24:09.778884
+user_04507,43.0,28.41,1,0,patrickbryan@example.org,Ashley,Harrington,Male,Canada,Newfoundland and Labrador,Wilsonport,Laptop,2023-07-21,2023-05-08 17:29:01.239185
+user_04510,25.0,10.63,3,0,shahkimberly@example.org,Michael,Cameron,Male,USA,Ohio,Port Donna,Mobile,2023-01-09,2025-02-01 19:22:56.042367
+user_04513,39.0,24.67,4,1,ericperry@example.org,Nicole,Hill,Male,USA,Arizona,Lake Martinville,Gaming Console,2025-05-07,2024-10-29 02:24:01.211826
+user_04529,28.0,4.97,3,0,rschaefer@example.com,Jessica,Rogers,Male,USA,Georgia,South Christopherville,Smart TV,2024-02-29,2024-04-17 07:39:28.670996
+user_04542,38.0,1.12,2,1,ecarlson@example.net,Thomas,Smith,Female,USA,Wisconsin,Lake Destiny,Tablet,2024-03-06,2024-01-25 11:28:48.786240
+user_04551,16.0,18.55,3,0,kyoung@example.net,Christine,White,Female,USA,Florida,Lake Susantown,Desktop,2022-12-08,2025-05-17 14:32:28.568139
+user_04552,20.0,16.41,1,0,gina84@example.org,Jennifer,Knight,Male,USA,Virginia,West Seth,Mobile,2023-11-26,2024-02-18 05:58:39.281157
+user_04557,30.0,18.46,4,0,vclark@example.com,James,Perry,Male,USA,Tennessee,Hernandezborough,Smart TV,2022-08-28,2025-06-09 13:57:39.650094
+user_04569,38.0,8.55,3,0,amy32@example.org,Seth,Copeland,Male,USA,Florida,Leville,Smart TV,2023-01-05,2024-12-03 11:06:08.008806
+user_04573,27.0,7.87,3,0,reneepeterson@example.org,Lisa,Jacobson,Female,Canada,Nova Scotia,Reesefurt,Smart TV,2022-11-04,2023-07-18 18:42:10.614100
+user_04587,44.0,15.39,1,1,djackson@example.org,Leonard,Parsons,Male,USA,New Jersey,West Chadside,Smart TV,2023-11-26,2024-08-29 04:22:01.767503
+user_04644,41.0,16.93,2,1,harrissara@example.org,Susan,Wong,Female,Canada,Quebec,Smithville,Tablet,2023-11-11,2025-05-04 03:25:30.082847
+user_04651,53.0,12.84,3,0,tasha89@example.net,Amber,Sanchez,Male,Canada,Newfoundland and Labrador,North Vanessa,Gaming Console,2025-03-19,2022-12-31 20:22:14.706924
+user_04651,53.0,12.84,3,0,tasha89@example.net,Amber,Sanchez,Male,Canada,Newfoundland and Labrador,North Vanessa,Gaming Console,2025-03-19,2022-12-31 20:22:14.706924
+user_04659,32.0,18.11,2,0,leehenry@example.org,Shirley,Walsh,Female,USA,Florida,Curtisfurt,Tablet,2022-12-26,2023-06-08 22:45:57.862289
+user_04661,35.0,18.88,2,0,rayjoseph@example.org,Rita,Tran,Female,Canada,Nova Scotia,Bonniechester,Laptop,2025-04-06,2023-05-21 16:02:14.063100
+user_04667,19.0,13.48,3,0,josephalvarado@example.net,David,Banks,Prefer not to say,USA,Tennessee,Lake Dawn,Smart TV,2023-02-26,2024-05-01 05:02:36.336947
+user_04680,48.0,8.1,3,0,andersonjames@example.org,Susan,Marquez,Female,Canada,Quebec,South Karla,Gaming Console,2025-04-13,2024-07-02 01:16:49.299067
+user_04680,48.0,8.1,3,0,andersonjames@example.org,Susan,Marquez,Female,Canada,Quebec,South Karla,Gaming Console,2025-04-13,2024-07-02 01:16:49.299067
+user_04694,64.0,23.74,1,1,scottwilliams@example.org,Joshua,Duarte,Female,Canada,Saskatchewan,North Suzannehaven,Laptop,2024-07-11,2023-04-01 19:42:57.378191
+user_04705,32.0,20.49,3,1,henry02@example.net,Krista,Stanton,Male,Canada,Ontario,New Amanda,Laptop,2023-07-17,2024-04-09 11:08:58.714919
+user_04706,34.0,16.06,2,1,tjensen@example.org,Erik,Davenport,Male,USA,Maryland,Smithton,Smart TV,2022-08-23,2025-05-21 23:58:22.235768
+user_04720,37.0,18.85,2,1,zclark@example.net,Jeremy,Jones,Prefer not to say,USA,Tennessee,South Ashleystad,Desktop,2025-05-25,2024-05-27 14:11:02.656947
+user_04740,25.0,23.48,2,1,joseph75@example.org,Michael,Powell,,USA,Indiana,Lake David,Desktop,2022-11-29,2022-10-27 13:58:30.911389
+user_04750,16.0,17.91,3,0,kleinbrent@example.net,Jennifer,Rogers,Female,USA,North Carolina,South Cynthiafurt,Smart TV,2024-07-15,2024-12-26 04:33:18.541170
+user_04768,29.0,7.55,3,1,michaelstevenson@example.org,Julie,Lynn,Male,USA,Texas,West John,Gaming Console,2023-08-09,2024-11-09 16:04:56.263556
+user_04770,39.0,84.77,2,0,rrollins@example.net,Jose,Bates,Male,USA,Wisconsin,Ronnieborough,Laptop,2025-02-13,2025-07-09 23:22:17.983604
+user_04776,31.0,8.66,2,1,dodom@example.net,Edward,Carpenter,Male,Canada,Newfoundland and Labrador,South Kim,Smart TV,2022-10-16,2024-08-09 09:33:09.219729
+user_04800,58.0,13.67,1,0,maldonadomatthew@example.org,Richard,Gonzales,Male,USA,Arizona,North Erica,Smart TV,2022-10-04,2025-04-04 04:52:30.138525
+user_04803,31.0,9.72,2,0,beardleon@example.org,Daniel,Fischer,Male,USA,Massachusetts,West Isaac,Desktop,2025-01-31,2023-01-12 16:00:33.621119
+user_04805,24.0,21.78,4,0,ybrown@example.org,Mary,Smith,Other,USA,Arizona,Connortown,Tablet,2024-10-28,2025-07-25 16:22:33.609285
+user_04806,30.0,7.23,3,1,briangonzalez@example.com,Jessica,Park,Male,USA,Illinois,New David,Laptop,2025-06-13,2022-10-05 05:49:01.647242
+user_04813,31.0,9.71,4,0,nicholas76@example.net,Deanna,Nelson,Male,USA,Texas,West Ricky,Mobile,2023-01-28,2024-11-20 16:30:48.834810
+user_04824,34.0,10.69,3,1,imorrison@example.com,Laura,Hines,,Canada,New Brunswick,Vazquezview,Smart TV,2024-11-07,2024-12-14 06:47:36.672864
+user_04839,41.0,13.82,3,1,karinaferguson@example.com,Ryan,Garcia,Male,Canada,Ontario,Lake Jamesborough,Gaming Console,2024-04-09,2025-06-04 17:32:33.652213
+user_04863,41.0,8.66,3,1,jamie23@example.org,David,Madden,Female,Canada,Prince Edward Island,Lindseyhaven,Gaming Console,2024-03-17,2022-09-18 06:19:00.533720
+user_04863,41.0,8.66,3,1,jamie23@example.org,David,Madden,Female,Canada,Prince Edward Island,Lindseyhaven,Gaming Console,2024-03-17,2022-09-18 06:19:00.533720
+user_04865,39.0,6.69,3,0,daniellejones@example.org,Alexis,Hammond,Male,USA,Tennessee,Lucasville,Mobile,2022-10-26,2023-08-31 10:46:07.054382
+user_04871,22.0,10.44,2,0,fflores@example.com,Johnny,Schmidt,Male,USA,Texas,Sarahmouth,Tablet,2023-01-20,2024-10-25 14:06:10.279482
+user_04874,48.0,4.22,2,0,millerjoshua@example.net,Curtis,Green,Female,USA,New York,Tinaview,Laptop,2024-02-22,2022-08-22 20:49:44.643568
+user_04876,38.0,8.01,3,1,douglas74@example.net,Alex,Wolf,Male,USA,Maryland,Davismouth,Laptop,2025-03-06,2025-06-08 17:14:10.185957
+user_04879,9.0,15.63,1,0,mosskendra@example.net,Patrick,Morgan,Male,Canada,Prince Edward Island,Port Jessica,Mobile,2023-05-29,2024-05-03 17:29:57.906684
+user_04880,31.0,19.17,2,0,gloria42@example.org,Joseph,Webb,Female,USA,Texas,Davismouth,Gaming Console,2025-01-08,2024-06-05 10:07:29.240506
+user_04885,33.0,4.62,4,0,ericlewis@example.org,Joshua,Cooper,Male,USA,Tennessee,Kaylaburgh,Tablet,2024-01-11,2024-11-13 05:08:40.189785
+user_04893,45.0,26.15,1,0,vanessa52@example.com,Ryan,Horton,Male,USA,Missouri,Stephenland,Mobile,2025-02-02,2025-01-23 03:18:23.941586
+user_04897,33.0,23.13,3,0,taylormartinez@example.net,Kristen,Cortez,Male,USA,Florida,Port Jonathanport,Smart TV,2024-02-24,2025-06-26 10:34:58.705258
+user_04913,46.0,27.91,4,1,qhuynh@example.org,Jose,Webb,Female,Canada,Quebec,South William,Mobile,2023-07-14,2025-01-20 19:45:17.416169
+user_04923,50.0,12.79,3,1,edward30@example.com,Emma,Dominguez,Male,Canada,Saskatchewan,Richardchester,Desktop,2024-01-09,2024-04-29 06:43:27.380522
+user_04938,15.0,11.73,2,1,melissaharris@example.org,Arthur,Romero,Male,Canada,British Columbia,Port James,Laptop,2023-10-17,2023-10-19 11:10:19.780613
+user_04939,22.0,7.61,3,1,emma62@example.org,Heather,Robinson,Male,USA,Florida,Apriltown,Laptop,2024-07-05,2024-03-28 06:58:55.638478
+user_04942,29.0,31.44,2,0,breannayoung@example.com,Robert,Wolfe,Female,Canada,New Brunswick,Loriville,Smart TV,2023-07-22,2024-03-05 01:30:31.383282
+user_04944,28.0,13.48,2,0,grobinson@example.org,William,Tran,Female,Canada,British Columbia,West Jesse,Gaming Console,2022-12-14,2023-04-17 22:24:16.931128
+user_04949,50.0,14.66,1,0,khartman@example.net,Wesley,Horton,Male,Canada,New Brunswick,Evansbury,Tablet,2022-11-01,2024-03-30 22:25:43.756770
+user_04960,23.0,24.04,2,0,tiffanysanchez@example.net,Daniel,Harris,Male,Canada,Saskatchewan,East Rebeccabury,Desktop,2025-07-17,2025-03-23 20:39:10.473379
+user_04964,7.0,23.07,2,0,vflores@example.org,Matthew,Rodriguez,Female,Canada,Nova Scotia,Port Mark,Mobile,2022-08-29,2025-03-08 18:23:21.311490
+user_04970,54.0,5.93,3,0,palmersteven@example.com,David,Gonzalez,Male,USA,Florida,Jasonchester,Laptop,2024-08-27,2024-11-07 06:23:55.390135
+user_04971,36.0,24.52,4,1,tylervillanueva@example.org,Samuel,Gillespie,Male,USA,Ohio,East Timothy,Smart TV,2023-05-31,2023-09-12 12:25:55.510412
+user_04991,14.0,11.99,3,0,rodriguezdeanna@example.com,Kristi,Schmidt,Female,USA,Ohio,North Tarachester,Tablet,2023-04-22,2022-09-07 18:43:20.235870
+user_04991,14.0,11.99,3,0,rodriguezdeanna@example.com,Kristi,Schmidt,Female,USA,Ohio,North Tarachester,Tablet,2023-04-22,2022-09-07 18:43:20.235870
+user_04992,16.0,12.25,2,0,donald75@example.org,Kristina,Thompson,Prefer not to say,USA,New York,West Amy,Desktop,2022-11-27,2024-07-16 15:15:39.029544
+user_04998,35.0,17.7,2,0,pettylinda@example.org,Edward,White,Other,USA,North Carolina,New Megan,Smart TV,2023-03-22,2022-09-20 11:35:01.103070
+user_05010,48.0,20.21,1,0,reeveslogan@example.net,Jeffery,Guzman,Male,Canada,Manitoba,Samuelside,Tablet,2025-01-30,2025-01-25 02:36:02.545866
+user_05020,44.0,13.48,3,0,kaitlyn34@example.com,Christopher,Leonard,Male,Canada,Manitoba,West Michaeltown,Smart TV,2023-10-26,2024-07-05 19:22:19.415291
+user_05025,44.0,26.08,3,1,joshua23@example.net,Alec,Jones,Male,USA,Georgia,Lake Bradleystad,Gaming Console,2025-07-20,2025-06-02 17:17:13.729730
+user_05042,24.0,13.81,1,0,ngarcia@example.net,Jennifer,Williams,Male,USA,Washington,Rangelborough,Gaming Console,2024-04-27,2025-05-27 19:25:46.547564
+user_05043,38.0,8.12,3,0,mwells@example.com,Jennifer,Garcia,Female,Canada,Alberta,Wardview,Laptop,2023-07-08,2022-08-11 02:13:08.224944
+user_05065,47.0,23.05,3,0,reynoldsshane@example.org,Jennifer,Norris,Female,Canada,Nova Scotia,Lake Andrewchester,Tablet,2025-03-25,2024-12-26 12:08:00.103289
+user_05068,46.0,35.68,3,1,paulpeterson@example.org,Jill,Bender,Male,USA,Massachusetts,North Jennifer,Gaming Console,2024-11-11,2025-02-06 02:57:23.894103
+user_05087,32.0,50.29,2,1,foxbrent@example.org,David,Clark,Female,USA,Missouri,New Joycetown,Desktop,2022-12-24,2024-06-04 18:48:13.577723
+user_05105,63.0,13.48,3,1,nmorgan@example.net,Seth,Hart,Prefer not to say,USA,Virginia,Lake Jim,Desktop,2025-02-01,2023-11-12 01:42:58.032536
+user_05108,14.0,12.41,4,0,matthewaguilar@example.org,Kevin,Sanchez,,Canada,Newfoundland and Labrador,West Lesliefort,Mobile,2024-02-05,2024-04-16 17:42:27.668521
+user_05114,65.0,7.8,2,1,bishopjohn@example.net,Cassandra,Gibson,Female,USA,Pennsylvania,South Georgechester,Laptop,2023-12-04,2023-03-22 00:38:58.876092
+user_05122,32.0,14.63,3,1,perryvictoria@example.net,Melissa,Davis,Female,USA,Ohio,Reillystad,Tablet,2024-10-20,2024-10-01 12:05:46.393461
+user_05147,45.0,15.15,3,0,thomas05@example.com,Rose,Cardenas,Female,Canada,Prince Edward Island,New Amy,Mobile,2024-09-03,2022-09-16 02:01:15.109314
+user_05152,31.0,38.46,2,1,pattersonhaley@example.com,Gabriel,George,Male,USA,Tennessee,Cowanmouth,Desktop,2024-02-19,2022-10-12 03:04:27.864139
+user_05158,62.0,43.17,2,1,dweeks@example.org,Jeffrey,Adams,Male,Canada,Nova Scotia,South Lauraton,Mobile,2025-01-10,2024-04-13 14:52:17.513241
+user_05166,43.0,6.2,2,0,thomasrollins@example.net,Mary,Henderson,Female,USA,Ohio,Ramirezhaven,Tablet,2024-12-05,2023-11-21 14:35:01.291310
+user_05166,43.0,6.2,2,0,thomasrollins@example.net,Mary,Henderson,Female,USA,Ohio,Ramirezhaven,Tablet,2024-12-05,2023-11-21 14:35:01.291310
+user_05173,21.0,7.56,2,0,alandorsey@example.net,Colin,Malone,,USA,Georgia,Lake Maria,Mobile,2024-03-18,2025-05-04 10:01:57.242393
+user_05179,18.0,13.36,3,0,dustinlowery@example.net,Alex,Bell,Prefer not to say,USA,Washington,West Lucas,Tablet,2024-05-17,2025-03-13 03:10:40.915924
+user_05196,49.0,7.21,3,0,joshuamartinez@example.com,Jennifer,Dillon,Male,Canada,British Columbia,Port Katherineside,Tablet,2023-09-05,2022-09-04 17:58:26.175401
+user_05200,28.0,8.3,2,0,hgardner@example.com,Shelly,Henderson,Female,USA,Texas,West Michaelville,Laptop,2023-07-31,2024-07-29 08:01:33.317840
+user_05208,0.0,10.49,3,0,johnsonjerry@example.com,Cheyenne,Brown,Female,Canada,Alberta,Lake Amyfurt,Tablet,2024-12-08,2023-04-02 05:38:24.951475
+user_05227,47.0,37.48,2,0,scottwhitney@example.net,Charles,West,Male,USA,Maryland,Frazierside,Laptop,2023-05-09,2023-08-22 01:51:14.313785
+user_05235,37.0,24.32,3,1,patricia87@example.org,Robert,Odom,Female,USA,Maryland,Austinton,Smart TV,2024-10-15,2022-12-09 17:31:36.401128
+user_05236,45.0,16.1,3,0,kbarnett@example.com,Tracy,Patterson,Male,Canada,Newfoundland and Labrador,South Katietown,Mobile,2024-08-14,2024-09-21 01:12:22.959576
+user_05239,38.0,42.64,3,1,kirbyjennifer@example.net,Heather,Cook,Female,Canada,British Columbia,Patrickbury,Desktop,2024-10-11,2024-11-28 04:35:55.786676
+user_05244,21.0,11.21,1,1,catherine73@example.org,Sandra,Jennings,Male,USA,New York,Brittanyview,Smart TV,2024-04-20,2024-03-23 09:39:46.191568
+user_05265,32.0,22.01,2,0,hallcory@example.net,Abigail,Stanley,Male,Canada,Prince Edward Island,Garrettview,Gaming Console,2024-12-12,2022-11-06 11:57:02.699990
+user_05273,24.0,5.53,1,0,carlsonmark@example.org,Thomas,Allen,Prefer not to say,Canada,Manitoba,New Jean,Gaming Console,2025-02-27,2025-07-05 00:20:48.842345
+user_05273,24.0,5.53,1,0,carlsonmark@example.org,Thomas,Allen,Prefer not to say,Canada,Manitoba,New Jean,Gaming Console,2025-02-27,2025-07-05 00:20:48.842345
+user_05278,23.0,6.79,2,0,donnahartman@example.org,Derek,Burton,Male,USA,Texas,New Lori,Smart TV,2024-02-07,2023-12-05 19:56:55.449077
+user_05287,45.0,28.27,3,0,shawn28@example.net,Christina,Patton,Male,USA,Massachusetts,Port Josephmouth,Smart TV,2023-09-19,2025-03-22 07:47:46.782584
+user_05305,19.0,12.91,3,0,thomassmith@example.net,Regina,Middleton,Other,USA,Wisconsin,Lake Jenniferchester,Smart TV,2024-02-02,2022-09-21 14:04:09.237182
+user_05306,29.0,13.48,2,0,oconnorthomas@example.net,Laurie,Mitchell,Female,Canada,Nova Scotia,Manningside,Smart TV,2024-07-16,2023-02-04 03:22:05.152383
+user_05317,29.0,11.28,2,0,ericpalmer@example.net,Denise,Martinez,Male,USA,Ohio,Harperfurt,Desktop,2024-05-21,2023-04-29 16:07:39.194240
+user_05341,44.0,23.59,1,1,danielrodriguez@example.org,Jeremy,Norris,Male,Canada,Alberta,South Jennifertown,Mobile,2024-06-15,2025-05-31 10:23:23.872908
+user_05345,51.0,12.31,1,0,jamie89@example.net,Ashley,Berry,Female,USA,Washington,Hernandezberg,Mobile,2022-08-10,2025-05-15 04:37:36.160867
+user_05355,30.0,13.27,4,0,joshuawood@example.net,Peggy,Davis,Male,USA,Georgia,North Michele,Laptop,2023-10-20,2022-11-27 22:57:17.174455
+user_05360,33.0,8.73,2,0,thomas20@example.net,Amanda,Smith,Female,USA,Ohio,Lake Stephanie,Smart TV,2023-04-18,2022-09-27 01:19:02.254423
+user_05395,18.0,12.54,2,1,julia14@example.net,Joyce,Duffy,Male,Canada,Quebec,West Bobby,Desktop,2023-10-06,2024-01-28 17:38:04.755082
+user_05399,34.0,7.06,2,1,bondamanda@example.net,Juan,Dominguez,Female,USA,Maryland,Deannaborough,Gaming Console,2024-10-11,2024-10-10 16:59:09.359550
+user_05403,46.0,10.63,2,1,kdavenport@example.net,Stacey,Good,,USA,Pennsylvania,East Kenneth,Gaming Console,2023-08-02,2024-02-07 00:04:44.658424
+user_05420,47.0,0.94,2,1,devin58@example.net,Jenny,Baldwin,Male,USA,Michigan,East Joanneborough,Desktop,2024-12-11,2023-12-04 20:30:43.771219
+user_05430,36.0,33.45,2,1,russell56@example.com,Amber,Estes,Male,USA,Georgia,Richardston,Tablet,2025-07-15,2022-11-28 00:50:12.760815
+user_05431,45.0,14.62,2,1,meadowsthomas@example.com,Lindsey,Chen,Female,Canada,Manitoba,Simmonsville,Mobile,2022-10-09,2024-12-05 13:37:08.331346
+user_05441,41.0,21.36,2,1,jennaholland@example.com,Bailey,Scott,Female,Canada,Ontario,Michaelfurt,Mobile,2023-03-08,2023-03-06 15:38:49.267338
+user_05442,44.0,11.55,2,1,pramos@example.com,Lori,Bennett,Male,USA,New York,South Dianaland,Desktop,2023-06-25,2025-07-05 12:15:52.876418
+user_05445,37.0,4.87,1,0,dcarter@example.net,Cody,Roth,Male,USA,Wisconsin,Anthonyborough,Desktop,2023-08-02,2023-11-14 06:37:14.210975
+user_05460,18.0,24.08,1,0,nicholasyoung@example.org,Richard,Conway,Female,Canada,Ontario,South Samanthabury,Laptop,2024-11-04,2025-04-23 17:43:23.118505
+user_05465,28.0,19.54,2,0,sanchezerin@example.net,Robert,Winters,Female,USA,Maryland,Fosterbury,Mobile,2022-09-20,2023-01-29 14:33:17.226771
+user_05476,19.0,7.11,2,0,lauren65@example.org,Melissa,Ramirez,Female,USA,Indiana,Ericburgh,Desktop,2024-06-19,2025-05-28 15:51:33.009535
+user_05479,46.0,14.04,2,0,markbright@example.org,Ralph,Becker,Female,USA,California,North Samuel,Gaming Console,2024-09-03,2023-04-15 00:37:20.664380
+user_05486,31.0,10.78,1,0,daniel40@example.com,Kevin,Walsh,Female,USA,Pennsylvania,Brownton,Gaming Console,2024-01-03,2023-03-24 20:07:55.632871
+user_05487,30.0,19.14,4,1,wdiaz@example.com,Christopher,Davis,Female,USA,New Jersey,South Kevinbury,Tablet,2025-03-30,2024-04-10 05:01:34.708744
+user_05503,47.0,336.87,3,1,georgedillon@example.net,Kristy,Wheeler,Male,Canada,British Columbia,South Steve,Gaming Console,2025-03-04,2023-08-18 16:27:20.219271
+user_05513,29.0,11.54,1,0,freyes@example.com,Allison,Bishop,,USA,New York,Jerryville,Smart TV,2023-04-28,2023-06-29 21:37:39.043807
+user_05515,10.0,22.3,1,0,kwood@example.org,Anne,Diaz,Female,USA,North Carolina,Lake Coryview,Desktop,2025-03-01,2023-12-23 04:54:35.090101
+user_05515,10.0,22.3,1,0,kwood@example.org,Anne,Diaz,Female,USA,North Carolina,Lake Coryview,Desktop,2025-03-01,2023-12-23 04:54:35.090101
+user_05528,39.0,18.92,3,0,kimberly81@example.com,Maria,Lane,Male,Canada,British Columbia,North Teresa,Tablet,2023-10-11,2024-08-30 06:40:26.784080
+user_05539,33.0,40.3,2,0,scottrowe@example.com,Kevin,Dean,Male,USA,Missouri,North Jennifer,Laptop,2023-04-07,2025-08-02 09:28:12.941860
+user_05547,44.0,21.22,2,0,davidcombs@example.net,Brenda,Silva,Female,Canada,New Brunswick,South Heatherside,Smart TV,2024-03-24,2022-08-21 11:01:50.534942
+user_05551,25.0,13.48,2,0,pwilliams@example.org,Kevin,Flores,Male,USA,New Jersey,Watkinsfurt,Laptop,2023-01-30,2023-01-26 14:52:26.450098
+user_05553,30.0,14.55,1,1,brandonpeters@example.org,Andrew,Green,Female,Canada,British Columbia,Ericmouth,Laptop,2023-03-23,2024-03-15 12:35:02.077695
+user_05555,26.0,18.1,3,0,gilbertamy@example.com,Samantha,Ward,Female,USA,Virginia,Richardland,Tablet,2025-04-01,2023-02-21 12:55:20.630539
+user_05555,26.0,18.1,3,0,gilbertamy@example.com,Samantha,Ward,Female,USA,Virginia,Richardland,Tablet,2025-04-01,2023-02-21 12:55:20.630539
+user_05567,42.0,60.5,3,1,tstone@example.org,Mary,Olson,Male,Canada,Quebec,Andrewburgh,Gaming Console,2025-02-03,2022-12-02 08:23:22.907620
+user_05574,33.0,22.57,2,0,jeff24@example.com,Samuel,Clark,Male,USA,Tennessee,Sandersfort,Tablet,2023-02-23,2023-10-07 07:25:35.354302
+user_05577,50.0,16.91,1,1,marco77@example.com,Scott,Garcia,Male,USA,Illinois,South Charleneland,Tablet,2024-06-01,2024-10-04 03:04:19.048687
+user_05578,20.0,13.48,3,0,keithcrosby@example.org,Kyle,Patel,Male,Canada,Quebec,South Haley,Tablet,2024-12-31,2023-01-28 08:59:53.527799
+user_05584,52.0,13.48,2,0,normacarson@example.org,Carrie,Sullivan,Male,Canada,Alberta,Patrickshire,Smart TV,2024-06-16,2023-01-20 14:17:54.058067
+user_05588,11.0,13.48,3,1,anthony34@example.org,William,Hart,Female,USA,New Jersey,Moralesmouth,Desktop,2024-07-29,2023-11-29 06:43:43.210047
+user_05593,42.0,14.56,3,1,vpena@example.org,Thomas,Ferguson,Male,Canada,New Brunswick,Spencerbury,Mobile,2023-05-26,2022-12-24 19:49:43.891371
+user_05600,38.0,10.56,3,1,joycewalker@example.com,Bethany,Jackson,Male,USA,North Carolina,Butlerland,Smart TV,2023-09-27,2022-12-01 01:07:13.232471
+user_05611,26.0,12.33,1,0,jamesthomas@example.com,Laura,Morrow,Other,USA,Washington,New Thomas,Gaming Console,2024-08-10,2024-06-21 04:38:32.967077
+user_05622,33.0,17.83,4,0,ellisrichard@example.net,Matthew,Soto,Female,USA,Pennsylvania,Russellhaven,Desktop,2024-11-01,2024-06-08 09:09:29.630341
+user_05624,32.0,13.48,2,0,devonmckenzie@example.net,Robert,Jones,Female,Canada,Alberta,Edwinview,Tablet,2023-09-22,2023-10-07 16:03:29.897921
+user_05633,16.0,5.64,2,0,mendozajanet@example.com,Zachary,Munoz,Male,Canada,New Brunswick,Wardfurt,Tablet,2023-03-31,2023-10-09 16:56:55.188084
+user_05638,38.0,13.48,2,0,kevingonzalez@example.com,Brenda,Collins,Male,USA,Illinois,North Wesley,Gaming Console,2022-12-03,2022-11-06 07:41:48.396880
+user_05638,38.0,13.48,2,0,kevingonzalez@example.com,Brenda,Collins,Male,USA,Illinois,North Wesley,Gaming Console,2022-12-03,2022-11-06 07:41:48.396880
+user_05639,43.0,10.82,3,0,katie00@example.org,Tara,Powers,Male,Canada,Saskatchewan,Mooretown,Tablet,2023-12-09,2024-12-02 00:51:06.788977
+user_05649,27.0,36.06,3,1,norrisryan@example.net,Jill,Bradley,Female,USA,Pennsylvania,Port Samantha,Desktop,2025-06-25,2024-09-15 15:58:45.149410
+user_05666,22.0,23.69,4,0,kimberly25@example.org,David,Blackwell,Male,Canada,Manitoba,South Catherinestad,Mobile,2025-05-05,2023-05-09 10:20:17.167040
+user_05667,43.0,13.48,3,0,swilliams@example.org,Michael,Diaz,Female,USA,Florida,East Brian,Desktop,2025-06-18,2025-06-05 20:26:26.432034
+user_05667,43.0,13.48,3,0,swilliams@example.org,Michael,Diaz,Female,USA,Florida,East Brian,Desktop,2025-06-18,2025-06-05 20:26:26.432034
+user_05672,43.0,18.54,2,0,estradatyler@example.org,Crystal,Hampton,Female,USA,North Carolina,Lake Whitneymouth,Gaming Console,2024-05-02,2025-08-01 02:24:11.976815
+user_05687,35.0,10.05,3,0,brettmartinez@example.net,Renee,Figueroa,,USA,North Carolina,Carrollfurt,Laptop,2022-11-14,2025-06-09 10:52:35.031301
+user_05687,35.0,10.05,3,0,brettmartinez@example.net,Renee,Figueroa,,USA,North Carolina,Carrollfurt,Laptop,2022-11-14,2025-06-09 10:52:35.031301
+user_05699,14.0,7.69,3,0,hernandezbrianna@example.org,Steven,Wilkerson,Other,USA,Indiana,North Johnville,Laptop,2022-10-21,2023-09-05 11:09:22.323695
+user_05702,32.0,17.3,3,1,brooke78@example.net,Kevin,Olson,Male,USA,New York,North Beverlyberg,Tablet,2024-12-01,2023-06-12 07:30:26.824834
+user_05720,29.0,13.48,2,0,xwright@example.com,Patricia,Pace,Female,USA,Maryland,Trevorbury,Desktop,2024-09-22,2024-08-31 06:21:59.200527
+user_05721,22.0,39.18,2,1,uturner@example.com,Stephanie,Huff,Female,USA,Arizona,Jacobchester,Desktop,2024-10-21,2025-07-16 06:36:48.428757
+user_05723,41.0,2.33,2,1,dixondavid@example.net,Laura,Brown,,Canada,Nova Scotia,East Rebeccastad,Desktop,2023-03-28,2024-03-10 05:50:56.362408
+user_05731,34.0,3.45,3,0,ericperez@example.org,Anthony,Morrison,Male,Canada,Quebec,New Micheleside,Smart TV,2022-09-11,2023-07-28 20:04:45.711992
+user_05731,34.0,3.45,3,0,ericperez@example.org,Anthony,Morrison,Male,Canada,Quebec,New Micheleside,Smart TV,2022-09-11,2023-07-28 20:04:45.711992
+user_05753,29.0,9.7,4,0,evillarreal@example.org,Lorraine,Turner,,USA,Virginia,Nicholasstad,Laptop,2025-01-27,2023-08-23 02:47:47.333508
+user_05757,44.0,65.85,2,1,williamsonpaul@example.net,Howard,Johnson,Female,USA,Massachusetts,Leonardberg,Laptop,2025-06-26,2023-01-05 20:06:55.478134
+user_05759,37.0,5.62,4,0,rodrigueznicole@example.org,Jennifer,Cannon,Male,USA,Michigan,Hamptonberg,Mobile,2024-06-29,2024-08-17 01:13:28.183465
+user_05776,40.0,21.51,3,1,frances12@example.org,Connor,Long,Male,USA,Georgia,East Tamara,Laptop,2024-08-10,2024-11-22 12:42:24.016876
+user_05781,54.0,6.92,2,0,graceolson@example.org,Steven,Andrews,Male,USA,Washington,Williamsmouth,Smart TV,2024-06-02,2024-05-26 07:39:03.132141
+user_05795,41.0,37.03,2,0,heidi75@example.org,Jennifer,Thompson,Male,Canada,Nova Scotia,Payneshire,Mobile,2023-06-02,2023-01-16 17:50:11.443845
+user_05801,18.0,20.65,4,0,tracywilliams@example.org,Gary,Morgan,Female,USA,Washington,West Catherineland,Desktop,2022-08-25,2023-06-15 15:43:05.222459
+user_05801,18.0,20.65,4,0,tracywilliams@example.org,Gary,Morgan,Female,USA,Washington,West Catherineland,Desktop,2022-08-25,2023-06-15 15:43:05.222459
+user_05806,31.0,8.32,3,0,nancy13@example.net,Travis,Pham,Female,Canada,Alberta,North Jennifer,Tablet,2024-11-26,2025-03-01 22:19:38.604012
+user_05814,16.0,56.48,3,0,trevorortiz@example.com,Maria,Chen,Female,Canada,Newfoundland and Labrador,Jamesberg,Mobile,2024-03-16,2024-02-18 09:08:32.270442
+user_05818,46.0,5.15,3,1,amberpierce@example.org,Tiffany,Hicks,,USA,Tennessee,New Ethan,Mobile,2025-05-29,2025-06-26 09:32:16.079000
+user_05820,35.0,13.48,3,1,glenn40@example.org,Gabrielle,Griffin,Female,Canada,Prince Edward Island,South Michaelmouth,Tablet,2024-09-28,2025-04-21 15:36:16.137249
+user_05824,27.0,43.8,3,0,brandon84@example.com,Michael,Hawkins,Male,USA,Washington,Andreastad,Tablet,2023-01-21,2023-10-31 07:37:29.213480
+user_05835,16.0,17.45,1,0,fmoore@example.net,Joshua,Wheeler,Male,USA,Washington,South Patriciaton,Gaming Console,2025-01-22,2023-11-04 03:45:32.066572
+user_05840,25.0,6.35,2,0,uhill@example.net,Tara,Davis,,Canada,Ontario,East Melissaside,Tablet,2025-06-21,2025-01-10 07:33:15.755643
+user_05840,25.0,6.35,2,0,uhill@example.net,Tara,Davis,,Canada,Ontario,East Melissaside,Tablet,2025-06-21,2025-01-10 07:33:15.755643
+user_05851,45.0,6.26,3,1,brendataylor@example.net,John,Aguirre,Female,Canada,Prince Edward Island,Bartonview,Mobile,2023-01-21,2024-06-11 12:02:25.051428
+user_05852,27.0,30.4,3,1,sherri07@example.net,Doris,Taylor,Female,USA,Washington,Catherinefort,Gaming Console,2022-10-29,2025-07-27 02:25:47.431604
+user_05871,32.0,2.74,2,1,denise01@example.org,Ryan,Villarreal,Female,USA,New Jersey,Petersonside,Desktop,2025-05-09,2024-04-21 22:25:02.395897
+user_05879,45.0,21.69,4,1,andersonalicia@example.net,Steven,Burch,Male,Canada,British Columbia,Coxton,Desktop,2023-11-13,2023-07-21 23:30:43.934610
+user_05880,63.0,9.09,2,0,pamela74@example.com,James,Mckinney,Prefer not to say,USA,Arizona,West James,Mobile,2023-07-18,2022-11-15 06:20:46.923604
+user_05889,35.0,15.3,3,0,williamscott@example.com,Patrick,Morgan,Female,USA,Ohio,Jameston,Gaming Console,2023-06-16,2024-01-08 07:43:59.276555
+user_05890,40.0,13.48,2,0,watkinsjeanne@example.com,Seth,Zimmerman,Female,USA,Pennsylvania,Tinaville,Smart TV,2025-04-24,2024-12-15 02:29:29.525716
+user_05892,28.0,24.38,2,0,collinsgina@example.org,Latoya,Hoffman,Male,USA,Florida,Barbarahaven,Tablet,2025-06-16,2024-06-18 15:08:55.642276
+user_05906,24.0,2.3,1,0,david68@example.net,Daniel,West,Female,USA,California,South Christinafurt,Laptop,2023-11-13,2023-08-17 09:59:59.442735
+user_05921,32.0,11.04,3,0,jonathan17@example.com,Diane,Jones,Male,USA,Arizona,North Antoniotown,Smart TV,2024-11-16,2023-03-10 23:18:15.488539
+user_05925,32.0,18.35,3,0,janet74@example.net,Danny,Miller,Female,USA,Maryland,South Pamela,Laptop,2022-10-26,2024-06-10 03:49:40.623887
+user_05927,44.0,7.96,1,1,johndyer@example.org,Paul,Mcmillan,Female,USA,Virginia,Jonesbury,Tablet,2023-02-17,2022-10-31 10:01:37.952158
+user_05949,43.0,12.26,4,0,callahankenneth@example.com,Patrick,Fuller,Prefer not to say,USA,Pennsylvania,East Kyle,Gaming Console,2025-04-17,2025-02-24 00:12:24.549106
+user_05950,18.0,1.13,2,0,clarkmatthew@example.com,Jennifer,Lopez,,USA,Virginia,Rodriguezbury,Gaming Console,2024-02-29,2025-05-04 22:32:02.235933
+user_05952,40.0,9.8,2,1,wpearson@example.net,Gabrielle,Zimmerman,Male,USA,Illinois,Robertsfurt,Gaming Console,2022-09-13,2023-07-04 16:57:11.420947
+user_05959,28.0,13.48,1,0,kelsey73@example.org,Kristen,Malone,Other,USA,Maryland,Hendersonville,Gaming Console,2023-02-12,2023-10-20 15:11:26.636867
+user_05965,36.0,7.49,2,1,danielsalec@example.org,Jessica,Fuentes,Female,USA,Maryland,Mariaview,Gaming Console,2024-11-17,2025-01-23 18:47:50.020648
+user_05971,34.0,13.89,1,0,reedbradley@example.org,Benjamin,Townsend,,USA,Massachusetts,Popebury,Mobile,2025-05-06,2025-01-20 06:21:03.300036
+user_05974,54.0,8.66,1,1,vernon89@example.org,David,Martin,Female,Canada,Newfoundland and Labrador,New Jeffreyborough,Smart TV,2023-02-21,2024-04-18 18:05:13.407877
+user_05978,23.0,11.43,2,0,brianamckinney@example.com,Rodney,Robbins,Female,USA,New York,West Jasmineview,Laptop,2025-02-21,2025-04-26 17:21:56.456518
+user_05994,20.0,12.67,3,1,marybrown@example.com,Joshua,Anderson,Female,Canada,Newfoundland and Labrador,Elizabethfort,Desktop,2024-10-05,2024-11-01 01:11:56.298918
+user_05996,48.0,21.94,2,1,brownteresa@example.org,Thomas,Allen,Male,USA,Indiana,Cookville,Tablet,2023-06-07,2024-01-28 03:38:22.840802
+user_05997,33.0,3.5,1,0,kgarrison@example.net,Renee,Archer,Female,USA,Florida,New Ronaldborough,Tablet,2023-10-30,2024-01-20 21:35:50.733399
+user_05997,33.0,3.5,1,0,kgarrison@example.net,Renee,Archer,Female,USA,Florida,New Ronaldborough,Tablet,2023-10-30,2024-01-20 21:35:50.733399
+user_06000,27.0,13.48,2,0,hollanddarrell@example.com,Laurie,Austin,Male,USA,California,Smithbury,Gaming Console,2023-01-14,2023-06-30 04:57:59.279215
+user_06000,27.0,13.48,2,0,hollanddarrell@example.com,Laurie,Austin,Male,USA,California,Smithbury,Gaming Console,2023-01-14,2023-06-30 04:57:59.279215
+user_06002,57.0,41.16,1,0,hoodmelissa@example.net,Kelly,Quinn,Male,USA,Georgia,West Juliehaven,Smart TV,2022-12-15,2022-10-06 05:58:54.210814
+user_06016,49.0,8.52,2,0,whitenicole@example.com,Tanner,Brown,Female,USA,New York,Colehaven,Smart TV,2023-03-07,2024-03-23 09:58:54.211222
+user_06036,23.0,13.48,2,0,walkerryan@example.org,Kayla,Whitney,,USA,Virginia,Wadetown,Desktop,2023-05-19,2022-10-14 10:06:33.552500
+user_06040,20.0,13.48,3,0,matthewthompson@example.org,Scott,Carroll,Female,Canada,New Brunswick,East Taraville,Desktop,2022-12-28,2023-10-09 22:55:31.025160
+user_06064,37.0,12.98,4,1,ygutierrez@example.com,Kyle,Brady,Female,USA,Texas,West Stevehaven,Desktop,2025-01-21,2024-10-15 14:04:37.077889
+user_06072,42.0,8.85,2,1,kevin44@example.net,Amanda,Tran,Male,Canada,Saskatchewan,South Holly,Laptop,2022-12-12,2025-01-25 22:36:07.510833
+user_06072,42.0,8.85,2,1,kevin44@example.net,Amanda,Tran,Male,Canada,Saskatchewan,South Holly,Laptop,2022-12-12,2025-01-25 22:36:07.510833
+user_06087,47.0,13.48,1,0,ashley88@example.com,Jessica,Deleon,Male,Canada,Quebec,South Holly,Tablet,2024-07-04,2023-02-15 10:32:04.752721
+user_06104,44.0,13.48,3,1,millerthomas@example.net,Ryan,Fitzgerald,Male,USA,Indiana,West Rogerview,Tablet,2024-03-15,2023-07-12 15:19:38.916234
+user_06111,27.0,15.58,3,0,ericmay@example.org,Emily,Blair,Male,USA,Michigan,North Stevenport,Laptop,2023-06-15,2023-03-22 09:22:57.048638
+user_06111,27.0,15.58,3,0,ericmay@example.org,Emily,Blair,Male,USA,Michigan,North Stevenport,Laptop,2023-06-15,2023-03-22 09:22:57.048638
+user_06115,41.0,17.45,1,0,solisbonnie@example.com,Gabriella,Harris,Prefer not to say,USA,Pennsylvania,South Ericaport,Laptop,2022-10-21,2023-01-18 23:16:03.869362
+user_06127,34.0,10.66,3,0,chapmantyler@example.net,Cynthia,Wright,Male,Canada,Newfoundland and Labrador,Robinsonbury,Desktop,2023-02-16,2024-03-17 07:04:18.397983
+user_06131,70.0,17.93,2,1,stephanie15@example.org,Michelle,Hudson,Male,Canada,New Brunswick,Riveraville,Desktop,2025-04-08,2023-03-25 09:49:29.177515
+user_06133,65.0,13.47,1,0,vernonjohnson@example.com,Michael,Smith,Male,Canada,Prince Edward Island,South Linda,Smart TV,2023-10-14,2023-11-11 18:33:28.233995
+user_06135,37.0,9.71,3,0,kyle16@example.org,Alex,Brooks,Male,USA,Arizona,Port Melissa,Tablet,2023-05-04,2024-10-02 06:38:11.447964
+user_06137,31.0,11.43,2,0,briannaclark@example.net,Jacob,Hammond,Prefer not to say,USA,Missouri,Lake Emmabury,Mobile,2025-03-04,2024-09-24 15:03:27.269483
+user_06153,31.0,11.6,2,0,mariopham@example.org,David,Evans,Male,USA,Michigan,Hamiltonbury,Gaming Console,2023-01-15,2023-08-11 19:41:02.217007
+user_06155,40.0,11.66,3,1,catherinewilliams@example.com,Cindy,Callahan,Male,Canada,Quebec,Gonzalezport,Smart TV,2023-07-16,2024-11-27 11:20:33.685457
+user_06155,40.0,11.66,3,1,catherinewilliams@example.com,Cindy,Callahan,Male,Canada,Quebec,Gonzalezport,Smart TV,2023-07-16,2024-11-27 11:20:33.685457
+user_06164,39.0,13.48,3,0,deborah25@example.com,Eric,Diaz,Male,USA,Wisconsin,South Jamie,Desktop,2025-02-06,2024-03-24 20:02:17.158332
+user_06179,24.0,27.92,1,0,samanthagutierrez@example.org,Eric,Shannon,Female,USA,Massachusetts,South Tammymouth,Tablet,2024-01-25,2024-05-17 18:49:00.252445
+user_06194,29.0,13.48,4,0,claire63@example.net,Leah,Fox,Female,USA,Michigan,West Shawntown,Desktop,2025-04-10,2024-02-19 12:47:28.182652
+user_06201,31.0,7.23,2,1,gcooper@example.net,Christopher,Gibbs,Female,USA,New York,Lake Antonio,Tablet,2023-09-28,2024-05-11 02:30:19.424001
+user_06219,31.0,23.04,3,1,brooke51@example.org,George,Sloan,Female,USA,Arizona,North Lesliehaven,Desktop,2024-11-20,2022-09-17 00:57:28.019789
+user_06223,41.0,5.01,3,1,katherine54@example.org,David,Moore,Male,Canada,New Brunswick,East Thomasfurt,Tablet,2024-04-28,2024-07-26 05:10:59.279193
+user_06224,46.0,3.23,3,1,parsonsrandall@example.org,Michael,Ball,Male,USA,Michigan,Tommyville,Tablet,2023-07-31,2025-02-08 06:26:31.302629
+user_06246,44.0,35.36,1,0,kperez@example.com,Angela,Clark,Female,USA,Wisconsin,Lindseyburgh,Tablet,2023-12-05,2024-08-02 23:10:09.349792
+user_06258,19.0,15.39,1,1,tombrown@example.org,Ashley,Nguyen,Female,USA,Maryland,Jonesstad,Desktop,2025-06-15,2022-08-22 19:12:24.438442
+user_06259,18.0,20.96,3,0,nmcneil@example.com,Steve,White,Female,Canada,Nova Scotia,New Courtneyburgh,Desktop,2023-04-20,2022-12-14 22:06:04.130173
+user_06260,44.0,4.08,2,1,kendratate@example.org,Matthew,Hester,,Canada,Newfoundland and Labrador,Kellyborough,Desktop,2023-05-11,2023-03-22 02:29:07.913228
+user_06267,36.0,13.48,3,0,barberdonna@example.net,Dorothy,Stevenson,Female,USA,Tennessee,South Cynthia,Laptop,2024-05-28,2024-09-15 00:20:15.658215
+user_06304,29.0,8.71,2,1,alexandra74@example.net,Candice,Cook,Male,USA,Pennsylvania,Tonyview,Mobile,2025-03-18,2022-10-15 23:24:38.474096
+user_06310,50.0,16.77,2,1,cwhite@example.com,Rebekah,Frazier,Other,Canada,New Brunswick,Cannonland,Mobile,2022-12-19,2023-05-23 15:26:37.827631
+user_06319,33.0,13.22,2,0,kevinmccoy@example.org,Beverly,Joseph,Female,USA,Georgia,New Elizabeth,Gaming Console,2025-03-09,2022-09-25 22:12:23.383768
+user_06339,50.0,13.48,1,0,frose@example.org,Tyler,Johnson,Female,USA,Pennsylvania,North Larryhaven,Desktop,2022-12-22,2024-10-19 23:18:54.955874
+user_06351,40.0,13.48,3,0,jeremysalazar@example.com,Cynthia,Bowman,Female,USA,North Carolina,North Joseburgh,Mobile,2024-03-12,2024-10-12 23:18:40.588835
+user_06381,22.0,23.91,2,0,smithkatherine@example.com,Lisa,Sanford,Male,Canada,Alberta,North Timothy,Smart TV,2024-10-26,2024-06-12 19:44:05.354612
+user_06384,31.0,13.53,2,0,moorekristin@example.org,Katie,Lewis,Male,Canada,Quebec,Michaelberg,Smart TV,2025-03-11,2022-12-30 15:07:37.111458
+user_06386,34.0,20.75,1,0,qnewman@example.org,Lindsey,Bennett,Male,Canada,Ontario,Phamberg,Desktop,2023-08-14,2025-03-01 21:03:13.504897
+user_06420,50.0,13.48,3,1,danielhooper@example.org,Alisha,Lewis,Male,Canada,Manitoba,Port Kimberly,Tablet,2023-05-18,2024-10-06 15:52:50.468733
+user_06443,44.0,21.71,2,1,wendy79@example.com,Brian,Smith,,USA,Tennessee,North Patrickfurt,Desktop,2023-12-06,2023-07-30 14:18:56.221037
+user_06479,45.0,11.97,2,0,kellycarr@example.net,Jessica,Riggs,Male,USA,Florida,Coffeyview,Desktop,2025-07-17,2024-11-17 18:30:15.159252
+user_06479,45.0,11.97,2,0,kellycarr@example.net,Jessica,Riggs,Male,USA,Florida,Coffeyview,Desktop,2025-07-17,2024-11-17 18:30:15.159252
+user_06484,44.0,16.42,1,0,mpearson@example.org,Kimberly,Smith,Male,Canada,Prince Edward Island,North Elizabeth,Laptop,2023-12-17,2023-09-27 12:58:53.063703
+user_06488,31.0,12.67,2,1,pporter@example.com,Miguel,Craig,Male,USA,California,Delacruzville,Desktop,2023-07-10,2024-02-22 06:54:07.872080
+user_06501,24.0,13.48,2,0,trevorsmith@example.org,Autumn,Rodriguez,Male,USA,California,North Johnchester,Laptop,2025-01-30,2022-12-14 09:07:13.376533
+user_06512,17.0,22.92,3,0,guerreroronald@example.com,Jessica,Vaughn,Male,USA,North Carolina,Port Katrina,Mobile,2023-01-25,2023-03-10 03:17:35.926691
+user_06516,32.0,13.48,2,0,thomasbaker@example.com,Kelly,Hood,Prefer not to say,Canada,Quebec,Thomasstad,Laptop,2022-11-15,2025-04-06 17:34:51.526697
+user_06545,30.0,17.98,2,1,levysheryl@example.org,Cheyenne,Lopez,Male,Canada,Manitoba,Ayersfort,Laptop,2025-01-16,2025-05-19 01:10:31.240386
+user_06565,27.0,13.06,1,0,qlopez@example.net,Douglas,Maldonado,Female,USA,Pennsylvania,Port Kennethchester,Laptop,2022-08-19,2025-03-05 23:24:06.642319
+user_06568,38.0,4.2,1,0,kevin51@example.net,Daniel,Burke,Female,USA,California,Garzaberg,Mobile,2022-10-26,2023-04-21 18:31:51.969574
+user_06589,20.0,21.65,3,1,hgreen@example.com,Raymond,Kim,Male,USA,Wisconsin,West Lauren,Smart TV,2022-08-21,2025-05-05 15:40:01.494641
+user_06591,34.0,26.38,2,1,garysmith@example.com,Eric,Peterson,Female,Canada,Nova Scotia,Lake Abigail,Smart TV,2024-09-14,2022-08-26 19:08:42.689538
+user_06600,45.0,8.41,2,1,bennettmarie@example.net,Ryan,Campbell,Female,USA,New York,New Chaseberg,Smart TV,2024-10-31,2022-11-12 09:10:39.908658
+user_06607,28.0,31.62,1,0,phammichelle@example.com,Michelle,Rangel,Female,USA,Maryland,Blackburnport,Laptop,2024-04-13,2024-07-16 09:55:56.656777
+user_06648,34.0,31.86,2,1,psullivan@example.org,Christopher,Dominguez,Male,Canada,New Brunswick,New Jessicatown,Desktop,2024-06-24,2022-08-18 04:54:50.313227
+user_06651,30.0,5.67,3,0,pdavis@example.net,Michael,Washington,,Canada,Nova Scotia,Ericaville,Desktop,2022-12-23,2025-04-01 08:55:22.382121
+user_06660,29.0,13.48,2,1,aliciaharris@example.com,Shannon,Carter,Female,Canada,Prince Edward Island,Lake Megan,Gaming Console,2022-09-05,2025-03-09 19:50:12.363866
+user_06672,33.0,10.46,2,1,hvelez@example.org,Natalie,Cox,,USA,California,West Michael,Tablet,2025-01-05,2024-01-29 15:16:02.038567
+user_06673,12.0,13.21,1,0,lauraprice@example.org,William,Sparks,Female,USA,Washington,Phamton,Mobile,2022-12-17,2023-03-04 19:59:17.545706
+user_06683,34.0,7.65,4,0,phillipsamy@example.com,Melissa,Young,Male,USA,Ohio,South Mark,Desktop,2024-07-19,2023-10-14 06:43:57.136425
+user_06693,41.0,13.48,2,0,christophermerritt@example.net,Amanda,Greer,Female,USA,Texas,East Linda,Smart TV,2022-09-04,2024-12-29 17:05:41.488535
+user_06696,35.0,3.39,3,0,ohart@example.com,Dennis,Murphy,Male,USA,North Carolina,Johnton,Mobile,2023-03-26,2024-12-06 07:18:38.035873
+user_06696,35.0,3.39,3,0,ohart@example.com,Dennis,Murphy,Male,USA,North Carolina,Johnton,Mobile,2023-03-26,2024-12-06 07:18:38.035873
+user_06697,16.0,13.48,1,0,ywood@example.net,Matthew,Reynolds,Female,Canada,Manitoba,East Dakotaside,Tablet,2025-06-19,2023-05-21 21:53:06.606615
+user_06701,37.0,8.84,1,1,shannon32@example.com,Megan,Miles,Female,USA,California,Joanneside,Laptop,2023-02-20,2024-01-18 20:22:16.208050
+user_06730,52.0,22.28,3,0,johnvilla@example.org,Michael,Thompson,Female,USA,North Carolina,Veronicachester,Mobile,2023-12-06,2024-04-04 00:11:45.864946
+user_06735,39.0,18.09,1,0,mrobinson@example.com,Dustin,Winters,Male,Canada,Alberta,Oliverchester,Tablet,2023-04-25,2025-01-02 19:48:16.149981
+user_06741,26.0,16.52,2,0,sheilajames@example.net,Kathy,Perez,Male,Canada,British Columbia,North Neil,Tablet,2025-04-21,2025-07-16 01:56:00.623347
+user_06748,51.0,13.78,4,1,johnsonmary@example.net,Samantha,West,Female,Canada,Saskatchewan,Brandonville,Laptop,2023-05-23,2025-01-24 01:50:08.295168
+user_06748,51.0,13.78,4,1,johnsonmary@example.net,Samantha,West,Female,Canada,Saskatchewan,Brandonville,Laptop,2023-05-23,2025-01-24 01:50:08.295168
+user_06751,22.0,11.41,1,0,travissingleton@example.com,Justin,Vasquez,Male,USA,California,Cynthiaport,Laptop,2025-03-17,2024-05-15 02:19:22.349100
+user_06761,31.0,15.84,3,0,stephanierowland@example.org,Tina,Maddox,Prefer not to say,USA,Wisconsin,Suzanneville,Desktop,2025-06-19,2023-04-25 05:01:11.858341
+user_06791,26.0,7.69,3,0,kmcmillan@example.com,Crystal,Thompson,Female,USA,Maryland,East Kimberlyview,Tablet,2023-03-18,2025-01-07 05:33:01.921358
+user_06807,38.0,13.48,3,0,fischercharles@example.com,Sherry,Brooks,Prefer not to say,USA,Indiana,Lake Stevenport,Gaming Console,2023-10-31,2024-02-27 04:20:11.067137
+user_06814,34.0,2.85,1,1,lisawalsh@example.net,Amber,Moore,Female,USA,Tennessee,North Mary,Laptop,2023-08-20,2024-04-22 02:40:25.283182
+user_06859,55.0,35.94,3,1,qnelson@example.net,Jessica,Kennedy,Male,Canada,British Columbia,Gregorymouth,Tablet,2025-01-19,2023-02-10 22:19:10.276072
+user_06877,30.0,24.16,2,0,harristodd@example.org,Lindsey,Robinson,Female,USA,New York,West Williamshire,Smart TV,2024-03-23,2025-07-19 15:20:31.438077
+user_06882,20.0,32.26,4,0,martin57@example.com,Connor,Bates,Female,Canada,Prince Edward Island,Gregoryville,Tablet,2024-05-05,2022-08-31 19:20:05.117052
+user_06883,52.0,32.95,3,1,warren28@example.org,Lauren,Rodriguez,Female,USA,Tennessee,East Todd,Desktop,2025-01-17,2023-02-08 19:26:54.715593
+user_06890,21.0,2.59,3,0,olee@example.org,Stephanie,Lowe,Female,USA,Ohio,Port Danieltown,Laptop,2022-12-24,2024-04-04 12:14:45.236723
+user_06899,17.0,17.15,2,0,joshuagarner@example.com,Miguel,Lopez,Male,USA,Georgia,Abigailfurt,Mobile,2024-10-18,2023-11-13 07:58:48.380821
+user_06903,42.0,17.78,2,1,hudsonstephanie@example.com,Joanna,Berg,Female,USA,Florida,West Robert,Tablet,2024-09-29,2025-03-31 15:35:55.402254
+user_06904,21.0,10.19,3,0,dustin56@example.com,Victor,Horton,,USA,Tennessee,Johnfurt,Tablet,2023-03-01,2024-08-15 11:38:41.872826
+user_06916,32.0,15.95,3,0,debbiegonzalez@example.org,Danielle,Summers,Other,USA,Massachusetts,West Victoriaville,Mobile,2023-09-11,2024-02-23 23:34:11.165466
+user_06935,38.0,13.48,3,1,taylorgarcia@example.org,Jacqueline,Gonzalez,Female,USA,California,Danielsport,Mobile,2023-11-13,2025-03-18 02:05:57.517911
+user_06938,48.0,41.5,3,1,geraldgoodman@example.net,Allison,Hall,,Canada,Quebec,West John,Tablet,2023-03-07,2025-02-09 18:31:15.433090
+user_06939,20.0,13.48,3,0,carol16@example.org,Bobby,Brady,Male,USA,Missouri,Maryborough,Desktop,2024-07-08,2022-11-21 21:10:06.810842
+user_06948,33.0,6.41,2,1,irodriguez@example.net,Jasmine,Graham,Female,USA,Ohio,Lake Brianburgh,Desktop,2024-01-31,2023-12-25 22:22:33.989071
+user_06949,23.0,15.18,3,0,gabriellahumphrey@example.org,Patty,White,Female,Canada,Alberta,New Amy,Smart TV,2024-03-10,2023-11-25 19:44:34.835037
+user_06953,36.0,26.88,3,1,harriskim@example.com,Ariel,Mills,Male,USA,Florida,Mcdonaldton,Mobile,2023-06-02,2023-01-28 00:29:20.706061
+user_06986,39.0,8.22,3,0,sandrasmith@example.org,Amy,Hernandez,Female,USA,California,Rossberg,Tablet,2023-03-11,2025-01-09 06:18:39.289905
+user_06986,39.0,8.22,3,0,sandrasmith@example.org,Amy,Hernandez,Female,USA,California,Rossberg,Tablet,2023-03-11,2025-01-09 06:18:39.289905
+user_06990,34.0,23.88,4,1,benjamin71@example.org,Steven,Schmidt,Prefer not to say,USA,Missouri,Garciaburgh,Mobile,2023-03-28,2023-11-11 19:04:39.828812
+user_06990,34.0,23.88,4,1,benjamin71@example.org,Steven,Schmidt,Prefer not to say,USA,Missouri,Garciaburgh,Mobile,2023-03-28,2023-11-11 19:04:39.828812
+user_06993,30.0,30.13,3,0,xhopkins@example.net,Justin,Holland,,Canada,British Columbia,Emilyshire,Tablet,2023-01-07,2023-10-30 09:32:36.257971
+user_07006,23.0,12.32,2,0,kleinjames@example.org,Steven,Armstrong,Prefer not to say,USA,Indiana,East Ashleyfurt,Laptop,2024-08-21,2023-12-19 22:24:05.386350
+user_07037,43.0,8.85,2,1,samantha52@example.net,James,Mullen,Female,USA,Texas,Owensside,Laptop,2024-11-23,2024-06-08 21:10:48.613320
+user_07041,46.0,20.31,3,0,ijoyce@example.com,Robert,Huang,Prefer not to say,USA,Michigan,Nicholasville,Desktop,2022-11-09,2023-12-04 15:29:10.922833
+user_07052,33.0,8.26,1,0,apeterson@example.org,Jessica,Acosta,Female,USA,California,Lake Hannahfort,Tablet,2025-01-21,2024-11-04 15:31:33.559961
+user_07077,25.0,20.83,3,0,kelly15@example.org,Katherine,Green,Female,USA,Tennessee,North Randall,Mobile,2024-01-15,2022-10-13 16:20:08.128328
+user_07077,25.0,20.83,3,0,kelly15@example.org,Katherine,Green,Female,USA,Tennessee,North Randall,Mobile,2024-01-15,2022-10-13 16:20:08.128328
+user_07078,32.0,12.71,2,0,kennethcarter@example.com,Donald,Clark,Male,USA,Indiana,Hurstchester,Laptop,2022-09-11,2025-05-03 00:36:30.357609
+user_07086,31.0,9.13,2,0,nelsonkathleen@example.net,Ryan,Steele,Female,USA,California,Kellytown,Smart TV,2023-10-05,2023-05-06 07:10:06.710237
+user_07102,40.0,33.17,3,0,wilsonelizabeth@example.org,Trevor,Green,Male,USA,Indiana,New Lucasport,Gaming Console,2025-04-20,2022-11-11 22:02:12.002031
+user_07108,35.0,3.2,3,0,campbelldavid@example.net,Justin,Cole,Male,USA,North Carolina,New Teresamouth,Tablet,2023-09-14,2024-05-23 14:52:03.645575
+user_07110,32.0,9.86,2,0,wflowers@example.net,Susan,Moore,Female,USA,Ohio,New Mariashire,Tablet,2024-06-02,2025-05-05 11:01:50.552080
+user_07117,33.0,13.48,3,0,vvilla@example.net,Jason,Barber,Male,USA,Maryland,Perkinsville,Smart TV,2023-04-15,2025-02-21 05:50:00.078743
+user_07137,20.0,13.48,1,0,ecox@example.com,Cynthia,Taylor,,USA,Tennessee,Stevenmouth,Gaming Console,2025-05-29,2023-10-07 16:05:56.599343
+user_07160,49.0,15.06,3,1,cmoore@example.com,Arthur,Aguirre,Female,USA,California,Meganbury,Smart TV,2024-11-11,2023-10-15 08:46:17.741534
+user_07160,49.0,15.06,3,1,cmoore@example.com,Arthur,Aguirre,Female,USA,California,Meganbury,Smart TV,2024-11-11,2023-10-15 08:46:17.741534
+user_07163,25.0,29.04,2,0,tammy58@example.net,Kimberly,Garcia,Other,Canada,Prince Edward Island,Fosterborough,Laptop,2024-08-07,2022-09-27 21:55:26.961519
+user_07173,40.0,5.79,1,1,troysimmons@example.org,Jennifer,Mcknight,Female,Canada,British Columbia,Lake Johnnytown,Gaming Console,2022-10-19,2024-02-12 17:16:42.096669
+user_07189,26.0,7.06,2,0,johnjohnson@example.net,Kayla,Hayes,Female,Canada,Manitoba,Tinaton,Mobile,2025-02-09,2024-01-03 16:23:41.856589
+user_07210,28.0,17.81,3,0,kimberlymendoza@example.net,Jesse,Ellis,Male,USA,Missouri,New Johnside,Mobile,2024-01-24,2023-01-07 00:33:21.888930
+user_07218,44.0,17.18,3,0,ashleywalker@example.com,Matthew,Matthews,Male,USA,California,Michelleburgh,Desktop,2025-01-05,2022-09-12 00:22:48.979865
+user_07219,50.0,16.32,2,1,davidfrazier@example.com,Kirsten,Campbell,Female,Canada,Ontario,Kimberlyville,Smart TV,2023-03-12,2025-07-28 12:22:39.224349
+user_07233,19.0,29.8,2,0,jasonchavez@example.org,Joshua,Hernandez,Male,USA,Illinois,New April,Tablet,2024-08-12,2023-07-06 16:15:19.350632
+user_07233,19.0,29.8,2,0,jasonchavez@example.org,Joshua,Hernandez,Male,USA,Illinois,New April,Tablet,2024-08-12,2023-07-06 16:15:19.350632
+user_07235,59.0,8.64,1,0,coreyweeks@example.org,Shawn,Day,Male,Canada,Saskatchewan,Lake Clayton,Tablet,2022-12-15,2022-08-29 05:17:06.223496
+user_07255,41.0,20.99,4,0,hayesdonna@example.com,Robert,Reilly,Male,USA,Texas,Pamelatown,Tablet,2024-06-12,2024-01-07 13:12:05.237634
+user_07273,33.0,10.02,3,0,hammondmallory@example.com,Joseph,Knight,Other,USA,Texas,Montgomeryton,Laptop,2023-04-04,2024-10-27 06:17:10.366526
+user_07274,39.0,2.83,2,0,harryramos@example.org,Angela,Brown,Male,USA,Pennsylvania,Jonesview,Desktop,2023-11-07,2024-06-28 09:53:19.936977
+user_07274,39.0,2.83,2,0,harryramos@example.org,Angela,Brown,Male,USA,Pennsylvania,Jonesview,Desktop,2023-11-07,2024-06-28 09:53:19.936977
+user_07290,12.0,14.12,4,0,billyvalentine@example.org,William,Taylor,Male,USA,Tennessee,Lake Robert,Laptop,2024-05-03,2025-04-01 16:38:04.041032
+user_07305,15.0,22.85,2,0,james22@example.net,Sandra,Peterson,Male,USA,Arizona,Lake Jean,Desktop,2023-09-08,2024-12-11 15:24:42.504093
+user_07324,30.0,24.63,2,0,griffithjamie@example.org,Victor,Walker,Male,USA,Georgia,Lake Angelica,Smart TV,2024-06-19,2024-06-12 20:47:51.613374
+user_07327,26.0,13.48,1,0,portermary@example.com,Carl,Smith,Male,USA,North Carolina,East Jonathanhaven,Gaming Console,2023-08-19,2024-11-04 00:35:03.748084
+user_07327,26.0,13.48,1,0,portermary@example.com,Carl,Smith,Male,USA,North Carolina,East Jonathanhaven,Gaming Console,2023-08-19,2024-11-04 00:35:03.748084
+user_07350,22.0,16.12,3,0,qpowell@example.net,Christopher,Kennedy,Male,Canada,British Columbia,Grimesmouth,Mobile,2023-03-15,2022-10-16 21:37:22.790419
+user_07352,37.0,7.51,2,0,millerjohn@example.org,Michael,Williams,Female,USA,Virginia,Robertland,Smart TV,2024-01-01,2024-11-07 04:45:29.959190
+user_07361,44.0,5.13,3,1,johngonzalez@example.com,Justin,Swanson,Male,Canada,Nova Scotia,South Kathryn,Desktop,2023-06-14,2024-02-28 09:22:39.824520
+user_07369,42.0,13.48,2,0,jamesrobin@example.net,Patrick,Rose,Male,Canada,Newfoundland and Labrador,North Michael,Laptop,2025-07-30,2023-08-04 20:39:51.108425
+user_07377,19.0,3.31,3,0,awest@example.org,Michele,Vega,Male,USA,Indiana,Wayneview,Smart TV,2023-05-21,2025-04-10 00:17:36.507579
+user_07419,40.0,18.64,2,0,rebecca87@example.net,Lori,Webb,Male,Canada,Quebec,Lake Stephaniefurt,Desktop,2024-07-23,2024-06-08 21:52:46.244018
+user_07442,17.0,15.51,3,1,tpratt@example.org,Lynn,Harrison,Male,USA,Virginia,East Samantha,Tablet,2022-10-26,2024-03-07 23:28:43.729437
+user_07445,12.0,9.35,2,0,robertsashley@example.net,Jamie,Price,Male,USA,Pennsylvania,Timothyshire,Laptop,2025-04-18,2022-08-07 04:23:21.503798
+user_07445,12.0,9.35,2,0,robertsashley@example.net,Jamie,Price,Male,USA,Pennsylvania,Timothyshire,Laptop,2025-04-18,2022-08-07 04:23:21.503798
+user_07458,34.0,39.64,4,0,rschultz@example.net,Michael,Hughes,Male,Canada,Newfoundland and Labrador,East Meganhaven,Desktop,2024-06-04,2025-04-22 03:41:29.377060
+user_07468,29.0,39.56,3,0,valeriebailey@example.com,Tonya,Miller,Female,USA,Florida,New Victoriahaven,Tablet,2024-09-20,2025-02-26 04:59:27.689788
+user_07494,24.0,13.48,3,0,mooregregory@example.org,Jacob,Pugh,,Canada,Nova Scotia,Grayborough,Laptop,2025-07-12,2024-05-25 19:16:45.094584
+user_07506,49.0,11.9,2,1,gwhite@example.com,Tyler,Daugherty,Male,USA,North Carolina,Perkinsland,Tablet,2024-06-11,2024-02-21 12:43:57.288739
+user_07532,54.0,9.78,1,1,christine83@example.net,Joshua,Key,Male,USA,Indiana,Port David,Tablet,2023-05-13,2023-06-11 12:06:29.616249
+user_07541,42.0,8.33,3,0,annegarcia@example.org,Jason,Griffin,Female,USA,Tennessee,Lake Lukemouth,Desktop,2025-04-22,2025-01-29 16:12:34.646508
+user_07541,42.0,8.33,3,0,annegarcia@example.org,Jason,Griffin,Female,USA,Tennessee,Lake Lukemouth,Desktop,2025-04-22,2025-01-29 16:12:34.646508
+user_07549,14.0,17.21,3,1,csteele@example.org,Donald,Nicholson,Female,USA,Maryland,Gabriellemouth,Mobile,2024-10-18,2025-04-26 23:32:33.314523
+user_07553,36.0,9.09,2,0,sarah06@example.com,John,Jones,Female,USA,Texas,Lake Joe,Gaming Console,2024-12-01,2023-07-27 02:03:40.030253
+user_07565,33.0,419.23,2,1,ashley09@example.net,John,Anderson,Female,USA,Pennsylvania,Lake Michealfurt,Mobile,2023-05-09,2023-10-26 13:12:19.133471
+user_07567,38.0,13.48,2,1,markwarren@example.com,Patrick,Hines,Male,Canada,Manitoba,East David,Gaming Console,2025-07-18,2023-05-18 10:04:25.162822
+user_07569,31.0,10.89,3,1,dbaker@example.net,Michelle,Mcbride,Male,USA,Michigan,Carrieview,Desktop,2024-05-13,2023-09-04 12:05:16.002764
+user_07596,30.0,7.19,4,1,donna35@example.org,Manuel,Green,Prefer not to say,USA,Michigan,New Kristen,Smart TV,2024-05-22,2023-09-01 18:21:10.865740
+user_07598,36.0,21.47,2,1,grichardson@example.org,George,Murray,Male,USA,Florida,Diazmouth,Smart TV,2023-05-29,2023-08-18 20:03:12.158079
+user_07609,16.0,10.9,2,0,ruth60@example.net,Randy,Everett,Male,Canada,Manitoba,West Benjamin,Desktop,2025-04-25,2024-06-29 00:17:26.336436
+user_07615,33.0,6.32,3,1,bakeralyssa@example.org,Thomas,Calhoun,Male,Canada,Prince Edward Island,Brentchester,Smart TV,2022-11-11,2025-01-12 19:29:20.634049
+user_07622,28.0,13.48,2,0,malvarado@example.com,Christopher,Patton,Male,USA,Missouri,Terryton,Smart TV,2025-07-24,2023-05-15 16:55:26.427350
+user_07653,27.0,17.87,3,0,ruizrobert@example.org,Alan,Lewis,Male,USA,Pennsylvania,Robertmouth,Gaming Console,2023-07-08,2025-01-26 10:59:05.391616
+user_07701,31.0,4.15,3,1,hweber@example.com,Belinda,Terry,Male,USA,Missouri,East Wendychester,Mobile,2024-11-27,2025-06-07 18:47:07.300948
+user_07708,37.0,13.48,2,0,michael53@example.com,Bridget,Rice,Female,USA,North Carolina,Johnsburgh,Mobile,2024-05-03,2023-12-01 04:41:36.191602
+user_07723,47.0,13.48,1,0,alexissantiago@example.org,Kevin,Rogers,Male,USA,New Jersey,New Danielport,Gaming Console,2024-04-01,2023-05-06 11:28:46.960066
+user_07750,48.0,21.47,1,0,jessica38@example.org,Calvin,Henry,Female,USA,Indiana,Kevinmouth,Gaming Console,2025-01-19,2025-05-22 22:40:03.176055
+user_07754,43.0,11.38,2,0,patrick43@example.org,Cory,Williams,Female,USA,Indiana,Lake Bridget,Tablet,2023-12-28,2023-02-20 22:31:10.861673
+user_07759,22.0,12.82,1,1,stephanie99@example.org,Madison,Cruz,Female,USA,Georgia,East John,Gaming Console,2022-08-04,2024-01-27 22:33:47.322504
+user_07765,31.0,19.91,2,1,laura89@example.com,Valerie,Oconnor,Female,USA,Georgia,Robertfort,Gaming Console,2023-05-17,2024-01-20 10:21:31.107486
+user_07780,36.0,21.85,2,0,jonathan69@example.com,Lori,Perry,Other,Canada,Alberta,Port Catherineview,Smart TV,2023-11-26,2025-07-29 13:59:08.268157
+user_07795,33.0,2.4,3,0,yolanda79@example.net,Gregory,Farmer,Male,USA,Wisconsin,East Anthonyfurt,Gaming Console,2024-03-20,2024-02-06 15:57:49.359597
+user_07804,36.0,5.37,1,1,ohuffman@example.org,Alyssa,Meyer,Female,USA,Pennsylvania,Smithburgh,Tablet,2025-07-04,2025-05-14 11:48:28.789710
+user_07823,31.0,5.49,3,1,daisy54@example.com,Angela,Patterson,Female,USA,North Carolina,Andersonside,Smart TV,2024-02-09,2023-09-17 12:43:57.130095
+user_07838,40.0,7.88,2,1,mgrimes@example.com,Timothy,Bishop,Female,Canada,Manitoba,Richardsonstad,Smart TV,2022-12-24,2023-08-20 10:15:46.400733
+user_07840,41.0,11.5,2,0,lisa41@example.com,Nathan,Tran,Female,USA,Florida,Terrifurt,Mobile,2023-03-08,2023-05-05 12:39:46.965038
+user_07862,40.0,15.38,3,0,watersjessica@example.com,Nathan,Eaton,Female,Canada,British Columbia,East Bianca,Smart TV,2024-12-11,2023-02-03 03:01:52.999901
+user_07874,33.0,40.38,3,0,jennifer24@example.net,David,Sanchez,Male,Canada,Saskatchewan,West Deborahmouth,Mobile,2025-01-05,2023-05-31 19:28:38.447920
+user_07889,42.0,8.94,3,1,cmay@example.com,Carol,Rivera,Female,Canada,Alberta,East Timothy,Gaming Console,2024-07-01,2024-01-11 23:51:53.961766
+user_07911,19.0,5.89,1,0,imurphy@example.net,Sharon,Hunter,Female,USA,Maryland,Jacobstad,Mobile,2024-09-24,2023-12-25 18:22:16.220257
+user_07923,20.0,15.67,3,0,danderson@example.com,Shannon,Chang,Male,USA,Wisconsin,Hernandezville,Gaming Console,2023-07-24,2023-04-30 07:48:14.989302
+user_07923,20.0,15.67,3,0,danderson@example.com,Shannon,Chang,Male,USA,Wisconsin,Hernandezville,Gaming Console,2023-07-24,2023-04-30 07:48:14.989302
+user_07932,23.0,13.48,3,1,davisbrittany@example.net,Kara,Williams,Female,USA,Georgia,Ambermouth,Tablet,2024-06-26,2022-10-12 16:37:00.508548
+user_07940,27.0,12.21,1,1,powerschristy@example.com,Vanessa,Brewer,Female,USA,Florida,South Mariah,Desktop,2024-01-02,2022-08-23 04:11:07.088448
+user_07947,25.0,11.78,3,0,zsmith@example.com,Brandon,Barnes,Male,Canada,British Columbia,Kennethville,Smart TV,2024-03-04,2023-05-25 13:52:50.331178
+user_07947,25.0,11.78,3,0,zsmith@example.com,Brandon,Barnes,Male,Canada,British Columbia,Kennethville,Smart TV,2024-03-04,2023-05-25 13:52:50.331178
+user_07960,17.0,13.61,2,0,jonesmark@example.com,Taylor,Rice,Female,USA,New York,Brittanyburgh,Smart TV,2023-09-21,2025-05-18 08:46:07.274090
+user_07982,42.0,11.36,2,0,gailwright@example.com,Howard,Lane,Male,USA,New York,Amberhaven,Smart TV,2024-12-04,2024-01-21 00:53:49.522701
+user_07986,36.0,11.33,4,0,hancockrobert@example.com,Jonathan,Reynolds,Female,USA,Texas,East John,Mobile,2023-04-23,2024-07-28 00:02:28.276627
+user_07988,51.0,7.7,3,0,williambrown@example.org,Brian,Hughes,Other,USA,Illinois,Kirkton,Laptop,2024-08-30,2023-04-25 17:45:12.520838
+user_07989,30.0,7.77,3,0,leonsamantha@example.net,Kelsey,Jensen,Female,USA,Wisconsin,Hallshire,Mobile,2025-07-30,2022-10-02 07:42:51.788423
+user_07993,60.0,5.26,2,0,rmays@example.net,Hannah,Sanchez,Female,USA,Arizona,New Lorraine,Desktop,2024-04-28,2024-08-03 17:20:02.331515
+user_07995,19.0,380.34,3,0,tyrone73@example.org,Adriana,Allen,Female,USA,California,Williamsonfort,Smart TV,2023-03-16,2023-03-26 07:27:40.899668
+user_07999,40.0,11.32,3,0,shawnharrington@example.org,Troy,Mendoza,Female,USA,Tennessee,Collinston,Gaming Console,2024-01-13,2024-06-27 08:16:31.607365
+user_08034,35.0,18.54,2,0,boonebrenda@example.net,David,Burns,Other,Canada,Nova Scotia,West Philipburgh,Mobile,2024-07-05,2025-07-08 03:39:11.154963
+user_08039,48.0,7.67,3,1,brownadriana@example.net,Lisa,Bryant,Female,Canada,British Columbia,Jessicastad,Gaming Console,2022-10-19,2024-10-28 01:01:36.390798
+user_08101,54.0,16.07,3,1,angela86@example.org,Jamie,Lopez,Prefer not to say,USA,North Carolina,Barbaraland,Mobile,2024-04-17,2024-09-24 12:00:20.014165
+user_08103,38.0,14.66,2,1,jibarra@example.net,Amanda,Contreras,Female,USA,California,New Danielland,Smart TV,2022-12-06,2022-08-15 05:25:10.849768
+user_08107,38.0,13.96,3,0,zkennedy@example.com,Nina,Beard,Female,Canada,Nova Scotia,Brandonchester,Laptop,2024-02-16,2025-07-02 18:00:01.434812
+user_08114,17.0,25.87,3,0,jonathonbarrett@example.org,John,Noble,Male,USA,New York,Dianashire,Mobile,2022-11-05,2024-10-19 09:39:44.970878
+user_08116,27.0,30.65,2,1,jasonallen@example.com,Roy,Ward,Prefer not to say,USA,Indiana,Lake Jeremy,Mobile,2023-02-07,2024-06-09 08:13:56.936195
+user_08122,27.0,17.38,3,0,megan73@example.org,John,Jenkins,Male,Canada,Prince Edward Island,South Alyssa,Gaming Console,2023-05-26,2023-11-24 09:42:29.311350
+user_08150,40.0,20.35,3,0,jennifer49@example.com,Nicholas,Hess,Female,Canada,Nova Scotia,New Jenniferview,Laptop,2024-01-24,2024-01-22 11:18:19.501265
+user_08158,40.0,29.65,3,1,xbush@example.org,Michael,Thomas,Male,USA,Pennsylvania,South Michele,Tablet,2023-08-24,2025-05-17 11:32:51.102036
+user_08158,40.0,29.65,3,1,xbush@example.org,Michael,Thomas,Male,USA,Pennsylvania,South Michele,Tablet,2023-08-24,2025-05-17 11:32:51.102036
+user_08164,29.0,6.46,3,0,wilkinsstephen@example.org,Adam,Wells,Male,USA,Virginia,Amandamouth,Tablet,2023-12-17,2023-10-28 08:40:16.185423
+user_08164,29.0,6.46,3,0,wilkinsstephen@example.org,Adam,Wells,Male,USA,Virginia,Amandamouth,Tablet,2023-12-17,2023-10-28 08:40:16.185423
+user_08171,42.0,0.72,4,1,olivia31@example.com,Lisa,Leon,Male,Canada,Manitoba,Richardsborough,Smart TV,2023-05-05,2024-12-04 17:48:18.575148
+user_08188,39.0,4.86,1,0,donnalopez@example.net,Frank,Levine,Male,USA,Pennsylvania,Cooperbury,Tablet,2025-06-10,2025-02-20 08:34:06.667835
+user_08203,28.0,27.19,2,0,ncervantes@example.org,Derek,Stokes,Female,USA,Georgia,Port Kari,Laptop,2024-09-20,2024-05-16 19:13:33.910473
+user_08213,13.0,12.16,1,0,castrorobert@example.net,John,Ellis,Male,Canada,Quebec,Debbiestad,Smart TV,2025-05-02,2022-10-29 06:14:07.921623
+user_08230,24.0,33.53,1,0,hornejulie@example.org,Darrell,Stanley,Male,USA,Virginia,South Aaron,Smart TV,2023-03-13,2024-05-15 18:37:12.290875
+user_08280,14.0,25.91,3,0,dylan39@example.org,George,Mcdonald,Male,Canada,Alberta,North Richard,Gaming Console,2022-11-04,2024-08-08 09:07:27.735453
+user_08287,43.0,12.76,2,0,andrewclayton@example.org,Kevin,Sampson,Female,USA,Washington,Port Valerie,Laptop,2024-10-25,2024-07-23 07:10:23.682090
+user_08292,34.0,22.94,2,0,allengabriel@example.com,Peter,Jenkins,Female,USA,Pennsylvania,Port Charlene,Gaming Console,2025-05-30,2023-05-16 17:23:46.589132
+user_08306,33.0,11.58,2,1,kristahamilton@example.org,Lauren,Wells,Male,USA,Pennsylvania,East Cynthia,Tablet,2023-10-06,2023-09-28 04:48:23.640173
+user_08318,50.0,25.51,2,0,mitchellguzman@example.org,Wanda,Gonzales,Female,USA,Texas,West Kyleview,Desktop,2022-10-09,2024-04-25 13:55:55.573913
+user_08319,15.0,22.11,4,0,connie21@example.com,David,Bailey,Male,USA,Massachusetts,Kanefurt,Laptop,2023-05-21,2023-01-19 05:15:36.895684
+user_08352,22.0,15.28,2,0,carmen15@example.org,Dana,Martin,Male,USA,Michigan,West Kristen,Smart TV,2023-07-22,2023-01-08 07:46:31.586524
+user_08385,30.0,20.45,2,1,andrea06@example.net,Sydney,Escobar,Female,Canada,New Brunswick,Jessicachester,Smart TV,2025-01-05,2025-04-18 11:56:29.941988
+user_08419,30.0,3.05,2,0,ggonzalez@example.com,Tamara,Martinez,Male,USA,Ohio,Zacharyville,Gaming Console,2023-11-25,2024-12-12 02:12:19.737505
+user_08419,30.0,3.05,2,0,ggonzalez@example.com,Tamara,Martinez,Male,USA,Ohio,Zacharyville,Gaming Console,2023-11-25,2024-12-12 02:12:19.737505
+user_08420,13.0,27.67,2,0,paula37@example.net,Justin,Lambert,Male,Canada,Nova Scotia,Lake Natalieborough,Tablet,2025-02-18,2024-08-09 17:13:04.977455
+user_08431,44.0,3.31,3,0,thomasmegan@example.org,Hannah,Smith,Male,Canada,Manitoba,Port Dylanland,Laptop,2023-08-04,2024-08-03 22:23:48.718480
+user_08441,41.0,13.94,3,0,fwhitney@example.org,Tyler,Owens,Other,USA,Washington,Owenborough,Laptop,2022-09-12,2024-05-07 07:37:40.192312
+user_08442,16.0,9.32,1,0,debbie40@example.com,Debra,Rivera,Male,Canada,Alberta,Danielshire,Mobile,2025-06-14,2025-04-27 01:24:24.350157
+user_08443,33.0,30.15,3,0,christinamarshall@example.org,Christine,Wiley,Male,USA,Texas,Cameronborough,Smart TV,2024-09-05,2022-08-19 06:31:34.369671
+user_08449,20.0,33.98,2,1,jeremylee@example.net,Ellen,Jackson,Female,USA,Washington,Port Jamesshire,Desktop,2022-11-13,2024-01-31 06:16:20.033633
+user_08454,18.0,11.88,2,0,jason11@example.com,James,Smith,,USA,Washington,New Greg,Desktop,2025-02-08,2022-10-11 18:18:35.211255
+user_08462,38.0,3.08,2,1,catherinejones@example.net,Michael,Harris,Prefer not to say,USA,Massachusetts,New Elijahbury,Desktop,2023-03-17,2023-09-19 07:02:03.882721
+user_08462,38.0,3.08,2,1,catherinejones@example.net,Michael,Harris,Prefer not to say,USA,Massachusetts,New Elijahbury,Desktop,2023-03-17,2023-09-19 07:02:03.882721
+user_08463,41.0,8.56,3,1,rodriguezamanda@example.net,Kenneth,Galvan,Prefer not to say,USA,Tennessee,South Nicholas,Mobile,2024-05-24,2022-09-05 06:49:07.322295
+user_08471,34.0,10.8,2,0,dillon08@example.net,David,Chang,Female,USA,Ohio,Jasonfort,Mobile,2023-08-17,2024-12-14 02:57:25.501243
+user_08475,56.0,20.85,2,0,monica48@example.net,Kyle,Atkins,Female,Canada,Alberta,Jameshaven,Laptop,2024-10-30,2025-07-26 16:38:41.436904
+user_08501,56.0,13.48,3,1,ronald68@example.org,Danielle,Parker,Male,USA,Michigan,Zacharytown,Smart TV,2023-05-10,2023-01-24 01:31:11.082367
+user_08507,40.0,23.5,4,0,ueverett@example.com,Gregory,Morgan,Male,Canada,Quebec,Lisaville,Smart TV,2022-09-13,2024-04-17 10:10:21.397029
+user_08509,26.0,10.29,4,0,sanchezjessica@example.net,William,Sanchez,Female,Canada,Prince Edward Island,Rossshire,Gaming Console,2023-07-11,2024-08-07 11:34:30.092465
+user_08510,23.0,13.88,3,0,ewallace@example.net,Scott,Gibbs,Female,Canada,New Brunswick,Kingview,Desktop,2024-04-19,2022-09-19 00:11:35.525163
+user_08553,24.0,30.88,2,0,tiffany53@example.com,Kelly,Parsons,Female,USA,New York,Port Guy,Mobile,2023-12-09,2023-04-04 12:40:06.715255
+user_08555,41.0,18.28,2,0,dustinmitchell@example.com,Wendy,Farrell,Male,USA,Washington,Johnsonton,Mobile,2025-03-02,2023-02-10 17:01:30.644678
+user_08568,21.0,15.4,2,1,luke15@example.org,Patrick,Burton,Female,USA,Ohio,East Samantha,Smart TV,2024-03-22,2025-07-16 12:05:03.437446
+user_08570,41.0,13.48,3,1,webstererika@example.net,John,Richardson,Male,USA,Ohio,Brownstad,Desktop,2023-11-20,2024-08-18 19:13:52.519622
+user_08602,45.0,5.34,3,1,ascott@example.net,Rodney,Smith,,Canada,Manitoba,Stevensport,Desktop,2023-06-25,2024-11-09 16:50:50.162796
+user_08606,55.0,10.03,4,1,terri64@example.com,Katherine,Roth,Female,USA,Michigan,Pennyville,Laptop,2024-02-12,2022-08-05 02:53:37.684838
+user_08610,46.0,10.47,2,1,smithmarcia@example.net,Natalie,Olson,Female,Canada,New Brunswick,Andreaberg,Laptop,2022-09-16,2024-09-29 09:21:45.655740
+user_08613,35.0,3.28,2,1,patriciavaughn@example.net,Emily,Torres,Female,Canada,Quebec,North Alexanderstad,Laptop,2024-01-14,2023-03-15 17:40:01.755209
+user_08615,11.0,3.1,2,0,huertamelissa@example.net,Martha,Watson,Female,USA,Michigan,Nielsenburgh,Tablet,2024-05-19,2024-12-24 16:59:16.691296
+user_08615,11.0,3.1,2,0,huertamelissa@example.net,Martha,Watson,Female,USA,Michigan,Nielsenburgh,Tablet,2024-05-19,2024-12-24 16:59:16.691296
+user_08639,16.0,20.36,2,0,christian11@example.com,Kenneth,Allen,Male,USA,Texas,East Emilyport,Mobile,2024-01-22,2025-01-13 17:05:41.949372
+user_08643,51.0,10.7,1,0,vasquezbrian@example.net,Benjamin,Morgan,Female,USA,Virginia,Lake Danny,Smart TV,2023-06-15,2023-11-20 20:08:10.906390
+user_08665,21.0,27.63,3,0,dunlapmelanie@example.com,Amanda,Garcia,Male,Canada,Alberta,New Lauratown,Desktop,2022-12-25,2022-09-19 23:30:56.685780
+user_08681,44.0,11.62,3,1,smatthews@example.com,Margaret,Hernandez,Female,USA,Pennsylvania,Greenville,Desktop,2024-05-11,2025-01-20 06:59:28.636117
+user_08686,32.0,8.29,3,0,brenda52@example.com,Jessica,Beasley,Female,USA,Wisconsin,South Emily,Mobile,2025-03-05,2023-09-30 15:42:53.622137
+user_08695,28.0,28.22,4,1,campbelltiffany@example.com,Andrea,Powell,Female,USA,California,Brownstad,Desktop,2024-07-28,2024-05-16 21:57:43.245655
+user_08695,28.0,28.22,4,1,campbelltiffany@example.com,Andrea,Powell,Female,USA,California,Brownstad,Desktop,2024-07-28,2024-05-16 21:57:43.245655
+user_08698,35.0,27.04,1,0,kyle72@example.org,Rebecca,Johnston,Female,USA,New York,Tammieberg,Laptop,2025-06-12,2023-02-22 23:52:04.160520
+user_08710,42.0,17.72,2,1,thompsonadam@example.org,Janice,Johnston,Female,USA,Tennessee,Lake Amanda,Desktop,2023-10-29,2024-09-15 11:14:28.253983
+user_08719,44.0,17.34,1,0,hchapman@example.org,Leah,Hendricks,,USA,Illinois,New Taylorhaven,Tablet,2025-04-16,2023-05-14 11:57:58.536413
+user_08726,21.0,12.14,1,1,fellison@example.org,Emma,Hartman,Male,USA,Washington,West Brittanyfort,Laptop,2024-12-09,2025-03-17 05:04:40.397228
+user_08728,33.0,6.24,1,0,kaitlyncantu@example.com,Sarah,Tyler,Female,Canada,Saskatchewan,West Daniel,Gaming Console,2024-06-24,2025-05-23 00:43:10.347345
+user_08731,92.0,13.48,4,1,bakerrachel@example.org,Michael,Cummings,Female,USA,Tennessee,Patriciafurt,Desktop,2024-07-15,2023-12-11 20:53:35.255335
+user_08732,40.0,13.48,3,1,rodriguezjanet@example.com,Anthony,Stevenson,Female,Canada,Quebec,West Kellyborough,Desktop,2023-08-03,2024-02-24 06:46:42.368399
+user_08733,39.0,8.89,2,0,smartinez@example.org,Richard,Cobb,Male,USA,Missouri,Anthonymouth,Tablet,2024-07-28,2023-03-09 19:12:26.192561
+user_08761,32.0,8.04,2,0,aaronjones@example.net,Deanna,Hall,Female,USA,Texas,East Jacksonmouth,Desktop,2022-08-07,2024-06-02 16:54:06.276688
+user_08768,44.0,4.97,3,1,ryanlyons@example.com,Amanda,Matthews,Female,USA,Texas,South Chris,Laptop,2025-06-12,2022-08-20 14:24:12.016833
+user_08790,12.0,25.3,1,0,bridgesjason@example.org,Sara,Watson,Male,USA,Florida,Port Claytonberg,Laptop,2022-10-22,2023-09-20 15:54:02.718200
+user_08796,43.0,2.39,3,0,gjensen@example.net,Sarah,Brown,Female,USA,California,Davidhaven,Mobile,2023-03-21,2025-04-10 00:25:57.673701
+user_08800,40.0,5.39,3,0,jstrong@example.net,Anthony,Forbes,Male,Canada,Nova Scotia,Schmidtchester,Laptop,2025-02-22,2023-12-23 09:44:41.234929
+user_08804,16.0,7.42,3,1,alexandrakramer@example.com,Joseph,Garcia,,USA,Illinois,South Ashleyburgh,Desktop,2024-03-24,2023-05-02 05:11:40.926617
+user_08825,42.0,8.06,1,0,mcisneros@example.com,Regina,Mendoza,Male,USA,Georgia,Angelamouth,Smart TV,2022-10-17,2023-11-12 14:50:08.249553
+user_08829,15.0,14.65,4,1,melissasmith@example.net,Dalton,Lynch,Prefer not to say,USA,California,West Calebside,Mobile,2024-08-16,2023-12-09 18:57:49.012309
+user_08833,59.0,5.43,2,1,aaronmarquez@example.com,Carla,Sanders,Male,USA,Pennsylvania,Jasonland,Laptop,2023-10-28,2023-10-08 13:29:24.377204
+user_08855,48.0,27.28,1,0,rmcknight@example.org,Rhonda,Smith,Male,USA,Virginia,Timothyburgh,Tablet,2022-11-12,2024-02-15 06:33:10.365324
+user_08864,24.0,22.88,3,0,andrew78@example.com,Jeff,Mccullough,Male,USA,Ohio,Nancyland,Tablet,2024-11-18,2025-06-24 07:13:36.970510
+user_08867,44.0,8.31,1,0,christopher40@example.org,John,Bennett,Male,USA,Massachusetts,Christinashire,Tablet,2023-10-25,2025-05-15 09:29:39.896621
+user_08879,55.0,18.34,2,0,jthomas@example.net,Martin,Payne,Male,USA,New York,Kristiland,Laptop,2025-02-25,2025-03-19 21:30:48.053375
+user_08891,38.0,8.25,2,1,brittanythompson@example.com,Joshua,Frye,Female,USA,Virginia,Bondtown,Desktop,2023-10-23,2022-09-14 15:22:11.713796
+user_08908,35.0,13.07,3,0,anthony68@example.org,Sean,Hernandez,Female,USA,Tennessee,North Christinahaven,Mobile,2023-11-20,2024-10-12 21:45:56.112882
+user_08945,28.0,17.53,2,0,kbean@example.com,Bonnie,Fisher,Other,USA,Virginia,Youngberg,Laptop,2023-06-12,2023-03-25 16:06:29.826414
+user_08972,41.0,24.81,2,1,rojastracy@example.org,Julie,Mills,Female,USA,North Carolina,Odommouth,Desktop,2023-01-01,2022-08-27 14:47:59.492188
+user_09019,32.0,3.83,2,1,micheal08@example.net,Kathy,Johns,Female,USA,Georgia,Vangchester,Gaming Console,2025-06-18,2023-08-16 15:53:49.680967
+user_09023,35.0,22.55,1,0,trancorey@example.org,Cheryl,Duran,,Canada,Manitoba,West James,Desktop,2024-06-03,2025-05-30 09:34:16.748254
+user_09024,24.0,5.25,1,0,mbarker@example.com,Nathan,Logan,Male,Canada,Nova Scotia,New Shawn,Mobile,2022-11-21,2024-01-23 16:29:03.104666
+user_09025,40.0,15.28,3,0,shannon81@example.org,John,Kelly,Male,USA,Arizona,Sharonmouth,Laptop,2024-02-06,2024-12-09 17:49:20.997711
+user_09030,37.0,32.55,1,0,cfernandez@example.net,Brendan,Ferguson,Other,Canada,Manitoba,Colemanfurt,Tablet,2025-04-12,2024-01-15 08:23:35.128184
+user_09049,42.0,769.44,3,1,fitzpatrickdeborah@example.org,Rodney,Campbell,Female,Canada,Saskatchewan,Rickton,Mobile,2023-04-29,2025-06-02 15:06:27.063794
+user_09053,54.0,1.93,3,0,oscarboyd@example.net,Samantha,Pope,Male,USA,New York,Pricemouth,Smart TV,2023-07-30,2023-08-20 03:22:52.370202
+user_09062,38.0,7.54,3,0,eallen@example.net,Mary,Burns,Other,USA,Georgia,Pachecomouth,Mobile,2023-03-25,2023-04-25 19:36:52.852208
+user_09077,35.0,12.08,2,1,patrick17@example.com,Lori,Weber,Female,USA,Arizona,South Eddieport,Desktop,2022-08-12,2023-04-21 18:22:23.726027
+user_09090,43.0,13.48,3,1,kelsey25@example.com,David,Archer,Female,USA,Arizona,South Monica,Mobile,2023-07-10,2024-07-24 04:08:11.614923
+user_09091,16.0,4.06,3,0,carolinekelley@example.org,James,Lee,Male,USA,Florida,Osbornberg,Mobile,2025-05-15,2023-01-20 03:16:48.418976
+user_09094,41.0,16.47,3,0,johnstewart@example.net,Rebecca,Ross,Male,Canada,British Columbia,Staceymouth,Laptop,2024-12-05,2024-08-14 19:22:50.820140
+user_09094,41.0,16.47,3,0,johnstewart@example.net,Rebecca,Ross,Male,Canada,British Columbia,Staceymouth,Laptop,2024-12-05,2024-08-14 19:22:50.820140
+user_09116,21.0,15.44,1,0,pstewart@example.com,Jenny,Fritz,Female,USA,Indiana,Patriciaton,Mobile,2024-11-03,2025-07-07 09:00:27.970180
+user_09131,30.0,22.89,1,0,ghoffman@example.org,Douglas,Mccormick,Male,Canada,Saskatchewan,Jesseburgh,Gaming Console,2024-04-05,2022-12-18 04:42:54.012529
+user_09133,27.0,18.22,3,1,wanda31@example.net,Amanda,Porter,Female,USA,Massachusetts,New Janice,Desktop,2023-04-09,2023-11-05 15:20:35.627802
+user_09162,30.0,6.8,3,0,pacelindsey@example.net,Christine,Barnett,Male,Canada,Newfoundland and Labrador,Perryland,Smart TV,2023-02-27,2022-10-20 22:31:57.142291
+user_09171,39.0,13.35,4,1,slopez@example.com,George,Jordan,Female,USA,Maryland,Port Sylviaberg,Tablet,2022-09-04,2023-08-26 18:54:16.446056
+user_09172,24.0,9.91,2,1,ecaldwell@example.org,Haley,Morris,Female,USA,Pennsylvania,South Jeffreyton,Desktop,2025-05-17,2024-03-14 17:15:32.541567
+user_09175,38.0,13.48,2,1,anne61@example.com,Jared,Nixon,Male,USA,California,Dannyport,Laptop,2023-04-20,2023-09-26 22:45:45.031105
+user_09197,44.0,13.73,2,0,cliffordkelley@example.com,Heather,Thompson,,USA,Illinois,South Victoriafort,Mobile,2024-01-19,2023-04-29 11:39:48.197328
+user_09201,35.0,11.14,3,1,lsmith@example.org,Justin,Ross,,USA,Maryland,Donnaport,Smart TV,2024-03-12,2023-08-02 09:36:18.726217
+user_09209,52.0,6.48,1,1,michael95@example.com,Andrea,Park,Male,Canada,Alberta,Smithport,Laptop,2024-02-02,2023-09-16 13:35:31.455195
+user_09216,45.0,18.72,1,1,terryterry@example.net,Lindsey,Simpson,Female,USA,Wisconsin,Bradleyfort,Laptop,2023-11-02,2023-09-14 07:17:04.180218
+user_09220,40.0,1.05,2,1,bwhitehead@example.net,Joshua,Barr,Female,USA,Illinois,Clarketown,Tablet,2024-06-22,2023-02-18 02:48:34.747336
+user_09221,51.0,14.11,2,0,nicolasrobinson@example.com,Nathan,Lawrence,Female,USA,Missouri,Mackhaven,Smart TV,2024-09-27,2023-08-15 23:08:49.048362
+user_09239,18.0,18.49,1,0,thomasrichard@example.net,Douglas,Dickerson,Male,Canada,Quebec,New Glen,Laptop,2023-12-19,2023-01-17 20:26:10.070410
+user_09244,8.0,13.48,3,0,phillip58@example.org,Joshua,Johnson,,USA,California,Shannonstad,Tablet,2022-11-29,2025-06-06 08:26:07.557820
+user_09256,36.0,13.95,2,0,robertmosley@example.org,Reginald,Jackson,Other,USA,Indiana,Port Josephfort,Laptop,2025-02-11,2024-07-09 05:42:22.168708
+user_09277,48.0,10.65,3,0,bakerthomas@example.com,Robin,Pittman,Male,Canada,Saskatchewan,Thompsonview,Gaming Console,2025-06-04,2023-03-17 01:38:05.261056
+user_09283,21.0,31.98,2,0,myoung@example.net,Monica,David,Female,USA,New York,Nancymouth,Smart TV,2025-03-09,2024-04-19 06:35:14.605014
+user_09286,42.0,13.48,4,1,vincentwilliams@example.org,William,Torres,Male,Canada,Ontario,East Loriborough,Mobile,2025-06-06,2023-08-27 01:49:18.346220
+user_09300,29.0,22.41,3,1,kelsey86@example.net,Michelle,Simpson,Male,Canada,Newfoundland and Labrador,North Amy,Laptop,2024-10-25,2024-08-27 06:36:59.491894
+user_09322,43.0,26.25,3,0,kimberly84@example.com,Michelle,Robinson,Female,USA,Arizona,Destinyhaven,Gaming Console,2025-05-05,2023-06-05 19:34:14.324908
+user_09330,31.0,20.89,2,0,wcortez@example.com,David,Walton,Male,Canada,Saskatchewan,Charlesland,Desktop,2023-01-25,2024-02-28 02:17:47.153595
+user_09336,39.0,14.36,2,1,casehannah@example.net,Samantha,Morales,Female,USA,New Jersey,East Cynthia,Smart TV,2024-01-29,2023-09-26 21:58:14.953110
+user_09344,38.0,11.64,2,0,kklein@example.org,Justin,Burns,Female,Canada,New Brunswick,Johnborough,Laptop,2024-09-01,2022-09-24 20:18:49.500968
+user_09347,58.0,12.02,2,0,ssosa@example.org,Andrew,White,Male,Canada,Prince Edward Island,Adrianstad,Smart TV,2025-01-18,2025-07-08 18:42:56.198571
+user_09348,17.0,10.42,3,0,ypetty@example.org,Charles,Schmidt,Male,Canada,Alberta,Davidside,Laptop,2024-03-25,2024-08-01 13:16:44.392446
+user_09355,53.0,10.12,3,0,owoodward@example.com,Derrick,Parrish,,Canada,New Brunswick,South Stevenshire,Mobile,2025-04-28,2023-10-03 05:43:33.631063
+user_09364,37.0,1.88,1,0,jcastillo@example.net,Yolanda,Jones,,USA,Ohio,Donaldland,Tablet,2024-04-18,2024-03-29 07:10:09.314210
+user_09389,15.0,15.52,1,0,omoore@example.com,Corey,Robinson,Other,Canada,Ontario,Ricemouth,Laptop,2025-03-15,2025-08-01 02:23:54.467072
+user_09389,15.0,15.52,1,0,omoore@example.com,Corey,Robinson,Other,Canada,Ontario,Ricemouth,Laptop,2025-03-15,2025-08-01 02:23:54.467072
+user_09398,37.0,21.11,3,0,cantumichele@example.org,Mitchell,Watkins,Female,USA,Arizona,Lake Darrell,Gaming Console,2024-02-16,2023-07-09 01:12:08.359760
+user_09403,38.0,11.07,2,0,jasonbaker@example.net,Alfred,Horn,Female,USA,Michigan,Port Brandonshire,Smart TV,2024-01-11,2024-09-20 23:33:41.973764
+user_09404,65.0,10.87,2,1,ronaldhuff@example.org,Kelly,Pineda,Male,Canada,Prince Edward Island,New Ashley,Tablet,2024-02-10,2025-07-22 12:19:38.094509
+user_09431,20.0,26.68,3,0,veronica42@example.net,Daniel,Steele,Male,USA,Georgia,Lake Jacqueline,Desktop,2024-12-28,2024-01-19 02:38:04.895289
+user_09439,-0.0,11.47,2,0,jensencody@example.org,Christian,Tran,,USA,Arizona,Norrisborough,Desktop,2023-05-22,2024-01-30 01:20:23.781136
+user_09450,47.0,9.77,3,0,kennethsmith@example.org,Cory,Andrews,Female,Canada,New Brunswick,South Edward,Desktop,2024-11-02,2023-09-25 01:46:01.203563
+user_09480,16.0,39.04,1,0,lauren40@example.com,Amber,Gomez,Male,USA,Indiana,Escobarfort,Smart TV,2023-06-01,2023-10-15 00:48:47.153463
+user_09484,46.0,5.34,4,1,sarajones@example.org,Daniel,French,Female,USA,Maryland,Thomaston,Laptop,2024-11-27,2024-06-25 11:09:05.452595
+user_09485,20.0,16.04,1,0,kiddstephanie@example.org,Christine,Morales,Prefer not to say,Canada,British Columbia,Loristad,Gaming Console,2022-12-29,2025-05-24 07:11:24.746742
+user_09490,45.0,17.09,3,0,brandongarza@example.org,Sarah,George,Female,Canada,Saskatchewan,Kaitlinberg,Laptop,2022-10-03,2024-05-21 12:38:30.462859
+user_09495,41.0,20.46,3,1,jvaughan@example.net,Francisco,Morton,Female,USA,New Jersey,Mccannchester,Smart TV,2023-05-26,2023-11-19 16:57:44.908182
+user_09498,27.0,2.99,3,0,breanna66@example.com,Ryan,Wilson,Female,USA,Missouri,Troyside,Desktop,2025-03-08,2023-08-19 18:49:11.266010
+user_09511,54.0,7.62,1,0,dthompson@example.net,Christopher,Anderson,Female,USA,Michigan,Lake Brandonburgh,Smart TV,2024-12-01,2023-05-07 22:18:09.336423
+user_09512,45.0,23.93,4,1,dianewatson@example.com,James,Murphy,Female,USA,Georgia,Woodsstad,Mobile,2024-03-01,2024-07-13 23:14:39.921889
+user_09525,33.0,9.06,3,1,cassie87@example.net,Stephen,Russell,Female,Canada,Manitoba,Austinside,Laptop,2023-04-26,2023-07-25 18:31:22.255148
+user_09529,45.0,13.48,3,0,kevinnewman@example.net,John,Knapp,,Canada,New Brunswick,Christopherland,Tablet,2025-04-03,2024-09-08 06:14:51.054739
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_09543,46.0,12.36,3,1,ymoore@example.net,Daniel,Montgomery,Male,USA,Maryland,Port Ritashire,Tablet,2024-12-28,2022-08-10 15:20:37.159813
+user_09543,46.0,12.36,3,1,ymoore@example.net,Daniel,Montgomery,Male,USA,Maryland,Port Ritashire,Tablet,2024-12-28,2022-08-10 15:20:37.159813
+user_09566,16.0,7.0,3,0,jacquelinebanks@example.net,Robert,Johnson,Female,USA,New Jersey,West Ericachester,Tablet,2024-08-26,2025-07-29 10:03:08.279491
+user_09616,47.0,24.67,3,1,ghammond@example.com,Veronica,Manning,Female,USA,California,West Victor,Tablet,2024-04-03,2025-03-20 01:47:26.040093
+user_09628,13.0,31.02,1,0,calderondavid@example.org,Robert,Clark,Female,Canada,Manitoba,Carolynfort,Desktop,2023-01-01,2025-07-16 21:53:23.874286
+user_09634,34.0,10.57,2,0,lisanorris@example.net,Gary,Castro,Female,USA,Pennsylvania,Baldwinfurt,Desktop,2024-11-15,2023-06-04 06:56:25.146748
+user_09637,39.0,25.35,2,0,christophermitchell@example.net,John,Wilcox,Male,USA,Massachusetts,West Codyberg,Smart TV,2025-07-08,2025-06-19 03:57:54.832333
+user_09640,12.0,5.99,2,0,rhopkins@example.org,Linda,Robbins,Female,USA,Illinois,New Elizabeth,Gaming Console,2023-04-19,2022-12-15 06:36:55.724574
+user_09656,36.0,11.36,2,1,garrettmelissa@example.net,Leslie,Ramirez,Male,USA,Georgia,Vanessaside,Gaming Console,2024-01-24,2023-01-21 01:28:50.541713
+user_09661,30.0,3.36,2,0,brianford@example.org,Stephanie,Chase,Male,USA,Tennessee,North Christophershire,Smart TV,2025-04-10,2024-11-17 11:10:00.130609
+user_09661,30.0,3.36,2,0,brianford@example.org,Stephanie,Chase,Male,USA,Tennessee,North Christophershire,Smart TV,2025-04-10,2024-11-17 11:10:00.130609
+user_09668,30.0,6.76,3,0,jessica92@example.com,Olivia,Palmer,Male,Canada,Prince Edward Island,Michaelbury,Desktop,2022-09-19,2023-08-16 19:26:56.371247
+user_09683,55.0,21.53,2,0,elizabeth38@example.net,Mark,Gibson,Prefer not to say,Canada,British Columbia,Friedmantown,Desktop,2024-08-21,2025-01-03 15:01:41.177911
+user_09701,48.0,13.6,1,1,rebeccapeterson@example.org,Rachel,Moore,Male,USA,Tennessee,South Evanhaven,Laptop,2024-05-21,2023-08-15 18:12:02.014522
+user_09719,55.0,25.72,2,0,yhernandez@example.com,William,Gonzalez,Male,USA,Georgia,Lake Derrick,Laptop,2025-05-26,2025-05-09 05:03:03.982988
+user_09733,23.0,20.49,3,0,teresa76@example.org,Todd,Smith,Female,USA,Washington,Butlerfort,Gaming Console,2024-10-28,2023-06-22 18:28:35.027488
+user_09744,36.0,13.48,4,1,morganpatel@example.net,Michael,Chambers,Female,Canada,Ontario,Jennaview,Mobile,2024-04-12,2022-09-01 08:29:04.042236
+user_09749,29.0,12.58,4,0,mcdonaldwilliam@example.com,James,Brooks,Female,Canada,Saskatchewan,Leport,Tablet,2022-09-01,2023-07-20 00:52:03.542424
+user_09749,29.0,12.58,4,0,mcdonaldwilliam@example.com,James,Brooks,Female,Canada,Saskatchewan,Leport,Tablet,2022-09-01,2023-07-20 00:52:03.542424
+user_09756,27.0,4.41,3,0,bwatts@example.com,Paula,May,Male,Canada,Prince Edward Island,Lake Scott,Mobile,2024-08-07,2023-04-04 11:19:03.036260
+user_09761,53.0,4.2,2,1,arobertson@example.com,Andrea,Strickland,Female,USA,Texas,Bradshawberg,Smart TV,2023-06-27,2025-02-23 21:41:45.269936
+user_09789,41.0,23.75,1,0,dsmith@example.org,Kristen,Conley,Male,USA,North Carolina,Hornebury,Smart TV,2023-02-03,2024-07-30 21:43:56.623996
+user_09798,26.0,15.16,2,0,rnichols@example.org,Samantha,Williams,,Canada,Nova Scotia,Lake Barbara,Desktop,2024-12-01,2024-04-07 02:22:48.129800
+user_09804,26.0,11.7,3,1,thomas29@example.com,Richard,Dunn,Female,Canada,British Columbia,Cynthiaview,Desktop,2023-11-19,2023-06-09 19:29:20.972329
+user_09819,26.0,24.68,1,0,fhansen@example.com,Steven,Hudson,Male,USA,Arizona,West Matthewborough,Laptop,2022-12-09,2023-09-14 07:30:48.638117
+user_09835,17.0,12.06,4,0,georgenash@example.org,Patricia,Walsh,Female,USA,Ohio,Sarahport,Mobile,2024-12-19,2024-02-24 15:21:26.144015
+user_09838,14.0,13.48,2,0,chamberswilliam@example.net,Jennifer,Huang,Female,USA,New Jersey,Keithport,Desktop,2023-07-21,2023-03-30 03:56:28.332054
+user_09841,42.0,6.16,2,0,leblancscott@example.org,Colin,Velazquez,Male,USA,Washington,Waltonhaven,Gaming Console,2024-03-16,2023-11-24 08:29:14.381566
+user_09844,55.0,38.58,3,1,mwoods@example.com,Jose,Peters,Male,USA,Ohio,Hayesland,Laptop,2023-07-29,2025-03-22 04:46:48.032165
+user_09845,40.0,31.19,2,1,bradleymorgan@example.com,Patricia,Schmidt,Female,USA,Virginia,Lake Elizabethbury,Laptop,2024-02-17,2024-05-03 02:13:23.971637
+user_09850,16.0,4.55,1,0,anicholson@example.com,Christine,Bernard,Male,USA,Virginia,Port Michael,Gaming Console,2025-06-03,2025-02-20 13:36:45.980687
+user_09851,44.0,30.73,2,0,william99@example.org,Stephanie,Hall,Female,USA,Indiana,Port Toddland,Mobile,2024-07-21,2025-07-08 07:33:22.284868
+user_09855,69.0,13.4,2,1,lisamiller@example.com,Stephen,Rogers,Female,USA,Washington,West Stephanieview,Gaming Console,2023-02-02,2023-02-09 20:04:04.099085
+user_09859,15.0,13.21,3,1,richard24@example.net,Pamela,Ball,Male,USA,Indiana,Knoxburgh,Tablet,2023-01-14,2022-09-07 15:45:29.959286
+user_09859,15.0,13.21,3,1,richard24@example.net,Pamela,Ball,Male,USA,Indiana,Knoxburgh,Tablet,2023-01-14,2022-09-07 15:45:29.959286
+user_09880,30.0,15.73,1,0,crystalbray@example.com,Christina,Roy,,USA,New Jersey,Wendyfort,Smart TV,2023-07-29,2024-08-19 07:15:46.021501
+user_09884,40.0,2.16,1,0,vickigonzales@example.com,Jasmine,Hancock,Female,USA,New Jersey,New Matthew,Tablet,2025-02-18,2024-02-16 09:09:26.371702
+user_09886,27.0,23.88,3,0,amanda03@example.org,Diana,Elliott,Female,Canada,Quebec,Angelaland,Desktop,2023-09-19,2024-04-07 10:51:59.195364
+user_09890,36.0,2.35,2,1,justin84@example.org,Michael,Fox,Female,USA,Massachusetts,New Rickyfort,Laptop,2022-12-17,2023-05-02 23:43:46.814667
+user_09894,41.0,18.95,2,1,gabriellaandrews@example.net,Lori,Perry,Male,Canada,Manitoba,West Nathanhaven,Tablet,2024-05-10,2025-03-27 01:16:22.263257
+user_09897,18.0,41.04,3,0,christopher96@example.org,Alex,Green,Other,USA,Michigan,South Rachelburgh,Desktop,2024-01-15,2024-12-07 22:01:15.658222
+user_09906,51.0,20.41,1,1,hweber@example.net,Kurt,Smith,Male,Canada,Manitoba,New Todd,Mobile,2025-07-19,2024-01-03 00:11:22.968562
+user_09921,23.0,12.0,3,1,hperez@example.org,Joshua,Callahan,Male,USA,Indiana,Williamfort,Tablet,2024-05-11,2024-08-24 05:27:56.181735
+user_09921,23.0,12.0,3,1,hperez@example.org,Joshua,Callahan,Male,USA,Indiana,Williamfort,Tablet,2024-05-11,2024-08-24 05:27:56.181735
+user_09923,26.0,4.73,3,0,wjohnson@example.org,Diana,Dunlap,Male,USA,Pennsylvania,Lake Ariana,Smart TV,2025-04-23,2023-05-15 04:20:06.336959
+user_09933,47.0,11.16,1,1,mckinneynathan@example.org,Patricia,Goodwin,Female,Canada,Nova Scotia,Port Susanfurt,Tablet,2022-08-17,2022-10-08 18:41:29.689268
+user_09941,51.0,5.98,3,1,melissa83@example.com,Michael,Griffin,Female,Canada,Newfoundland and Labrador,South Brittany,Desktop,2025-01-24,2024-08-28 15:08:02.076468
+user_09943,55.0,25.21,3,1,brandon85@example.net,Kevin,Jordan,Male,USA,Maryland,Thomasport,Laptop,2024-08-25,2025-05-16 13:17:52.072342
+user_09959,35.0,10.97,2,0,rebecca81@example.com,Victor,Norton,Male,USA,Washington,Evansshire,Gaming Console,2023-11-16,2023-10-27 17:38:16.614877
+user_09968,33.0,5.79,3,0,elizabeth88@example.com,Kathleen,Murphy,Female,USA,Georgia,Alyssastad,Smart TV,2022-11-05,2023-03-02 02:54:43.131835
+user_09971,55.0,10.34,3,0,chungnicholas@example.com,William,Neal,Female,USA,Tennessee,Burchland,Smart TV,2025-03-03,2024-03-27 14:53:27.844742
+user_09984,30.0,13.19,3,0,kim19@example.org,Christopher,Riggs,Other,USA,Arizona,Port Angela,Mobile,2023-06-26,2025-04-22 06:38:56.420958
+user_09993,57.0,3.64,1,0,matthewholmes@example.org,Mark,Greene,Male,USA,Ohio,Lake Hectorburgh,Smart TV,2023-06-25,2024-01-03 18:23:41.949547
+user_10000,40.0,17.95,3,1,kevin71@example.org,Marcus,Morales,Male,Canada,Ontario,Reyestown,Desktop,2022-09-26,2024-06-03 22:53:10.930630
+user_04031,35.0,4.02,2,0,clarkpamela@example.org,Patricia,Glover,Female,USA,Florida,Glennburgh,Smart TV,2023-03-22,2024-10-17 23:37:26.536097
+user_04031,35.0,4.02,2,0,clarkpamela@example.org,Patricia,Glover,Female,USA,Florida,Glennburgh,Smart TV,2023-03-22,2024-10-17 23:37:26.536097
+user_06990,34.0,23.88,4,1,benjamin71@example.org,Steven,Schmidt,Prefer not to say,USA,Missouri,Garciaburgh,Mobile,2023-03-28,2023-11-11 19:04:39.828812
+user_06990,34.0,23.88,4,1,benjamin71@example.org,Steven,Schmidt,Prefer not to say,USA,Missouri,Garciaburgh,Mobile,2023-03-28,2023-11-11 19:04:39.828812
+user_07233,19.0,29.8,2,0,jasonchavez@example.org,Joshua,Hernandez,Male,USA,Illinois,New April,Tablet,2024-08-12,2023-07-06 16:15:19.350632
+user_07233,19.0,29.8,2,0,jasonchavez@example.org,Joshua,Hernandez,Male,USA,Illinois,New April,Tablet,2024-08-12,2023-07-06 16:15:19.350632
+user_00384,31.0,29.21,2,0,daniellewis@example.com,Ricky,Henry,Male,Canada,Quebec,West Amyfort,Gaming Console,2025-06-22,2023-09-04 19:33:09.325065
+user_00384,31.0,29.21,2,0,daniellewis@example.com,Ricky,Henry,Male,Canada,Quebec,West Amyfort,Gaming Console,2025-06-22,2023-09-04 19:33:09.325065
+user_09859,15.0,13.21,3,1,richard24@example.net,Pamela,Ball,Male,USA,Indiana,Knoxburgh,Tablet,2023-01-14,2022-09-07 15:45:29.959286
+user_09859,15.0,13.21,3,1,richard24@example.net,Pamela,Ball,Male,USA,Indiana,Knoxburgh,Tablet,2023-01-14,2022-09-07 15:45:29.959286
+user_05555,26.0,18.1,3,0,gilbertamy@example.com,Samantha,Ward,Female,USA,Virginia,Richardland,Tablet,2025-04-01,2023-02-21 12:55:20.630539
+user_05555,26.0,18.1,3,0,gilbertamy@example.com,Samantha,Ward,Female,USA,Virginia,Richardland,Tablet,2025-04-01,2023-02-21 12:55:20.630539
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_09661,30.0,3.36,2,0,brianford@example.org,Stephanie,Chase,Male,USA,Tennessee,North Christophershire,Smart TV,2025-04-10,2024-11-17 11:10:00.130609
+user_09661,30.0,3.36,2,0,brianford@example.org,Stephanie,Chase,Male,USA,Tennessee,North Christophershire,Smart TV,2025-04-10,2024-11-17 11:10:00.130609
+user_06986,39.0,8.22,3,0,sandrasmith@example.org,Amy,Hernandez,Female,USA,California,Rossberg,Tablet,2023-03-11,2025-01-09 06:18:39.289905
+user_06986,39.0,8.22,3,0,sandrasmith@example.org,Amy,Hernandez,Female,USA,California,Rossberg,Tablet,2023-03-11,2025-01-09 06:18:39.289905
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01756,27.0,17.41,4,0,christopher42@example.net,Lawrence,Ayala,Female,USA,Washington,South Gary,Desktop,2024-09-21,2024-07-24 12:44:25.884428
+user_01299,40.0,9.02,3,1,boonekim@example.net,Regina,Harris,Female,USA,Missouri,West Dianeport,Laptop,2023-10-01,2023-09-28 06:53:03.817628
+user_01299,40.0,9.02,3,1,boonekim@example.net,Regina,Harris,Female,USA,Missouri,West Dianeport,Laptop,2023-10-01,2023-09-28 06:53:03.817628
+user_03933,27.0,23.15,2,1,hbarnett@example.net,Richard,Maldonado,Male,Canada,Manitoba,Ryanfort,Smart TV,2025-04-15,2024-05-02 23:11:55.816715
+user_03933,27.0,23.15,2,1,hbarnett@example.net,Richard,Maldonado,Male,Canada,Manitoba,Ryanfort,Smart TV,2025-04-15,2024-05-02 23:11:55.816715
+user_05840,25.0,6.35,2,0,uhill@example.net,Tara,Davis,,Canada,Ontario,East Melissaside,Tablet,2025-06-21,2025-01-10 07:33:15.755643
+user_05840,25.0,6.35,2,0,uhill@example.net,Tara,Davis,,Canada,Ontario,East Melissaside,Tablet,2025-06-21,2025-01-10 07:33:15.755643
+user_03475,38.0,11.8,3,1,jessica71@example.net,Elizabeth,Gonzalez,Male,USA,Tennessee,West Duaneland,Tablet,2023-06-03,2024-07-21 23:41:18.668419
+user_03475,38.0,11.8,3,1,jessica71@example.net,Elizabeth,Gonzalez,Male,USA,Tennessee,West Duaneland,Tablet,2023-06-03,2024-07-21 23:41:18.668419
+user_05687,35.0,10.05,3,1,brettmartinez@example.net,Renee,Figueroa,,USA,North Carolina,Carrollfurt,Laptop,2022-11-14,2025-06-09 10:52:35.031301
+user_05687,35.0,10.05,3,1,brettmartinez@example.net,Renee,Figueroa,,USA,North Carolina,Carrollfurt,Laptop,2022-11-14,2025-06-09 10:52:35.031301
+user_04461,20.0,32.16,3,1,kaylee70@example.net,Joshua,Rios,Male,Canada,Nova Scotia,South Nicole,Gaming Console,2023-11-22,2025-06-21 17:24:55.868777
+user_04461,20.0,32.16,3,1,kaylee70@example.net,Joshua,Rios,Male,Canada,Nova Scotia,South Nicole,Gaming Console,2023-11-22,2025-06-21 17:24:55.868777
+user_07923,20.0,15.67,3,0,danderson@example.com,Shannon,Chang,Male,USA,Wisconsin,Hernandezville,Gaming Console,2023-07-24,2023-04-30 07:48:14.989302
+user_07923,20.0,15.67,3,0,danderson@example.com,Shannon,Chang,Male,USA,Wisconsin,Hernandezville,Gaming Console,2023-07-24,2023-04-30 07:48:14.989302
+user_04415,43.0,15.71,2,0,kristin57@example.org,David,Brown,Other,USA,California,Lindseymouth,Desktop,2023-10-19,2022-08-29 19:32:40.438173
+user_04415,43.0,15.71,2,0,kristin57@example.org,David,Brown,Other,USA,California,Lindseymouth,Desktop,2023-10-19,2022-08-29 19:32:40.438173
+user_04863,41.0,8.66,3,0,jamie23@example.org,David,Madden,Female,Canada,Prince Edward Island,Lindseyhaven,Gaming Console,2024-03-17,2022-09-18 06:19:00.533720
+user_04863,41.0,8.66,3,0,jamie23@example.org,David,Madden,Female,Canada,Prince Edward Island,Lindseyhaven,Gaming Console,2024-03-17,2022-09-18 06:19:00.533720
+user_02656,10.0,20.19,3,0,stacy67@example.com,Kelly,Sweeney,Male,USA,Georgia,Williamsville,Desktop,2022-08-04,2024-03-08 22:26:11.126713
+user_02656,10.0,20.19,3,0,stacy67@example.com,Kelly,Sweeney,Male,USA,Georgia,Williamsville,Desktop,2022-08-04,2024-03-08 22:26:11.126713
+user_03693,35.0,9.6,2,1,dedwards@example.org,Nicole,Taylor,Female,USA,Illinois,South Melissamouth,Tablet,2023-11-09,2024-12-29 14:46:42.634325
+user_03693,35.0,9.6,2,1,dedwards@example.org,Nicole,Taylor,Female,USA,Illinois,South Melissamouth,Tablet,2023-11-09,2024-12-29 14:46:42.634325
+user_00802,20.0,18.4,3,0,johnsonchristopher@example.org,Sean,Grant,Female,Canada,Newfoundland and Labrador,Port Dianashire,Gaming Console,2022-12-06,2023-04-14 13:11:27.194746
+user_00802,20.0,18.4,3,0,johnsonchristopher@example.org,Sean,Grant,Female,Canada,Newfoundland and Labrador,Port Dianashire,Gaming Console,2022-12-06,2023-04-14 13:11:27.194746
+user_07274,39.0,2.83,2,0,harryramos@example.org,Angela,Brown,Male,USA,Pennsylvania,Jonesview,Desktop,2023-11-07,2024-06-28 09:53:19.936977
+user_07274,39.0,2.83,2,0,harryramos@example.org,Angela,Brown,Male,USA,Pennsylvania,Jonesview,Desktop,2023-11-07,2024-06-28 09:53:19.936977
+user_05515,10.0,22.3,1,0,kwood@example.org,Anne,Diaz,Female,USA,North Carolina,Lake Coryview,Desktop,2025-03-01,2023-12-23 04:54:35.090101
+user_05515,10.0,22.3,1,0,kwood@example.org,Anne,Diaz,Female,USA,North Carolina,Lake Coryview,Desktop,2025-03-01,2023-12-23 04:54:35.090101
+user_00681,50.0,14.8,1,1,oscott@example.org,Brandy,Silva,Female,Canada,Quebec,Jenniferhaven,Desktop,2024-01-06,2025-07-03 13:15:15.883035
+user_00681,50.0,14.8,1,1,oscott@example.org,Brandy,Silva,Female,Canada,Quebec,Jenniferhaven,Desktop,2024-01-06,2025-07-03 13:15:15.883035
+user_08695,28.0,28.22,4,0,campbelltiffany@example.com,Andrea,Powell,Female,USA,California,Brownstad,Desktop,2024-07-28,2024-05-16 21:57:43.245655
+user_08695,28.0,28.22,4,0,campbelltiffany@example.com,Andrea,Powell,Female,USA,California,Brownstad,Desktop,2024-07-28,2024-05-16 21:57:43.245655
+user_01989,31.0,11.43,3,0,usmith@example.com,Barbara,Morales,Male,Canada,Ontario,Scottfurt,Laptop,2025-05-07,2024-11-03 20:55:13.763370
+user_01989,31.0,11.43,3,0,usmith@example.com,Barbara,Morales,Male,Canada,Ontario,Scottfurt,Laptop,2025-05-07,2024-11-03 20:55:13.763370
+user_01684,25.0,13.49,3,1,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_01684,25.0,13.49,3,1,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_01684,25.0,13.49,3,1,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_07541,42.0,8.33,3,0,annegarcia@example.org,Jason,Griffin,Female,USA,Tennessee,Lake Lukemouth,Desktop,2025-04-22,2025-01-29 16:12:34.646508
+user_07541,42.0,8.33,3,0,annegarcia@example.org,Jason,Griffin,Female,USA,Tennessee,Lake Lukemouth,Desktop,2025-04-22,2025-01-29 16:12:34.646508
+user_05667,43.0,13.48,3,0,swilliams@example.org,Michael,Diaz,Female,USA,Florida,East Brian,Desktop,2025-06-18,2025-06-05 20:26:26.432034
+user_05667,43.0,13.48,3,0,swilliams@example.org,Michael,Diaz,Female,USA,Florida,East Brian,Desktop,2025-06-18,2025-06-05 20:26:26.432034
+user_04991,14.0,11.99,3,0,rodriguezdeanna@example.com,Kristi,Schmidt,Female,USA,Ohio,North Tarachester,Tablet,2023-04-22,2022-09-07 18:43:20.235870
+user_04991,14.0,11.99,3,0,rodriguezdeanna@example.com,Kristi,Schmidt,Female,USA,Ohio,North Tarachester,Tablet,2023-04-22,2022-09-07 18:43:20.235870
+user_09749,29.0,12.58,4,0,mcdonaldwilliam@example.com,James,Brooks,Female,Canada,Saskatchewan,Leport,Tablet,2022-09-01,2023-07-20 00:52:03.542424
+user_09749,29.0,12.58,4,0,mcdonaldwilliam@example.com,James,Brooks,Female,Canada,Saskatchewan,Leport,Tablet,2022-09-01,2023-07-20 00:52:03.542424
+user_09921,23.0,12.0,3,0,hperez@example.org,Joshua,Callahan,Male,USA,Indiana,Williamfort,Tablet,2024-05-11,2024-08-24 05:27:56.181735
+user_09921,23.0,12.0,3,0,hperez@example.org,Joshua,Callahan,Male,USA,Indiana,Williamfort,Tablet,2024-05-11,2024-08-24 05:27:56.181735
+user_08615,11.0,3.1,2,0,huertamelissa@example.net,Martha,Watson,Female,USA,Michigan,Nielsenburgh,Tablet,2024-05-19,2024-12-24 16:59:16.691296
+user_08615,11.0,3.1,2,0,huertamelissa@example.net,Martha,Watson,Female,USA,Michigan,Nielsenburgh,Tablet,2024-05-19,2024-12-24 16:59:16.691296
+user_01647,36.0,13.74,3,1,donnamadden@example.org,Nicole,Trujillo,,USA,Illinois,South Pamela,Tablet,2023-12-20,2024-05-26 23:53:56.636553
+user_01647,36.0,13.74,3,1,donnamadden@example.org,Nicole,Trujillo,,USA,Illinois,South Pamela,Tablet,2023-12-20,2024-05-26 23:53:56.636553
+user_05801,18.0,20.65,4,0,tracywilliams@example.org,Gary,Morgan,Female,USA,Washington,West Catherineland,Desktop,2022-08-25,2023-06-15 15:43:05.222459
+user_05801,18.0,20.65,4,0,tracywilliams@example.org,Gary,Morgan,Female,USA,Washington,West Catherineland,Desktop,2022-08-25,2023-06-15 15:43:05.222459
+user_03217,52.0,35.89,3,1,lindaanderson@example.com,Larry,Taylor,Male,USA,Florida,North Roger,Tablet,2024-06-03,2023-02-10 11:33:46.784177
+user_03217,52.0,35.89,3,1,lindaanderson@example.com,Larry,Taylor,Male,USA,Florida,North Roger,Tablet,2024-06-03,2023-02-10 11:33:46.784177
+user_01843,36.0,3.55,1,1,andrew52@example.com,Jacob,Johnson,Female,Canada,Manitoba,Cookfort,Tablet,2024-01-11,2025-05-30 14:59:43.098646
+user_01843,36.0,3.55,1,1,andrew52@example.com,Jacob,Johnson,Female,Canada,Manitoba,Cookfort,Tablet,2024-01-11,2025-05-30 14:59:43.098646
+user_02427,29.0,24.36,2,0,vowen@example.com,Megan,Conner,Male,USA,Tennessee,Lindsaymouth,Gaming Console,2023-01-22,2025-05-14 13:00:00.408777
+user_02427,29.0,24.36,2,0,vowen@example.com,Megan,Conner,Male,USA,Tennessee,Lindsaymouth,Gaming Console,2023-01-22,2025-05-14 13:00:00.408777
+user_07077,25.0,20.83,3,1,kelly15@example.org,Katherine,Green,Female,USA,Tennessee,North Randall,Mobile,2024-01-15,2022-10-13 16:20:08.128328
+user_07077,25.0,20.83,3,1,kelly15@example.org,Katherine,Green,Female,USA,Tennessee,North Randall,Mobile,2024-01-15,2022-10-13 16:20:08.128328
+user_09543,46.0,12.36,3,1,ymoore@example.net,Daniel,Montgomery,Male,USA,Maryland,Port Ritashire,Tablet,2024-12-28,2022-08-10 15:20:37.159813
+user_09543,46.0,12.36,3,1,ymoore@example.net,Daniel,Montgomery,Male,USA,Maryland,Port Ritashire,Tablet,2024-12-28,2022-08-10 15:20:37.159813
+user_03051,29.0,17.2,2,0,marcus18@example.net,Ronald,Brooks,Female,Canada,Alberta,South Sherry,Gaming Console,2023-07-07,2025-05-18 14:37:47.588344
+user_03051,29.0,17.2,2,0,marcus18@example.net,Ronald,Brooks,Female,Canada,Alberta,South Sherry,Gaming Console,2023-07-07,2025-05-18 14:37:47.588344
+user_02778,53.0,23.65,2,0,julian43@example.com,Cassandra,Perry,Female,Canada,Prince Edward Island,Thomaston,Tablet,2025-07-02,2025-07-24 14:49:25.239848
+user_02778,53.0,23.65,2,0,julian43@example.com,Cassandra,Perry,Female,Canada,Prince Edward Island,Thomaston,Tablet,2025-07-02,2025-07-24 14:49:25.239848
+user_06155,40.0,11.66,3,1,catherinewilliams@example.com,Cindy,Callahan,Male,Canada,Quebec,Gonzalezport,Smart TV,2023-07-16,2024-11-27 11:20:33.685457
+user_06155,40.0,11.66,3,1,catherinewilliams@example.com,Cindy,Callahan,Male,Canada,Quebec,Gonzalezport,Smart TV,2023-07-16,2024-11-27 11:20:33.685457
+user_06748,51.0,13.78,4,1,johnsonmary@example.net,Samantha,West,Female,Canada,Saskatchewan,Brandonville,Laptop,2023-05-23,2025-01-24 01:50:08.295168
+user_06748,51.0,13.78,4,1,johnsonmary@example.net,Samantha,West,Female,Canada,Saskatchewan,Brandonville,Laptop,2023-05-23,2025-01-24 01:50:08.295168
+user_08462,38.0,3.08,2,1,catherinejones@example.net,Michael,Harris,Prefer not to say,USA,Massachusetts,New Elijahbury,Desktop,2023-03-17,2023-09-19 07:02:03.882721
+user_08462,38.0,3.08,2,1,catherinejones@example.net,Michael,Harris,Prefer not to say,USA,Massachusetts,New Elijahbury,Desktop,2023-03-17,2023-09-19 07:02:03.882721
+user_01896,45.0,15.65,1,0,kdominguez@example.net,Veronica,Hernandez,Female,Canada,Nova Scotia,East Michealbury,Laptop,2024-12-22,2023-08-23 10:35:57.811420
+user_01896,45.0,15.65,1,0,kdominguez@example.net,Veronica,Hernandez,Female,Canada,Nova Scotia,East Michealbury,Laptop,2024-12-22,2023-08-23 10:35:57.811420
+user_06111,27.0,15.58,3,0,ericmay@example.org,Emily,Blair,Male,USA,Michigan,North Stevenport,Laptop,2023-06-15,2023-03-22 09:22:57.048638
+user_06111,27.0,15.58,3,0,ericmay@example.org,Emily,Blair,Male,USA,Michigan,North Stevenport,Laptop,2023-06-15,2023-03-22 09:22:57.048638
+user_00578,40.0,31.96,2,1,donnathomas@example.com,John,Howard,,USA,Illinois,South Danielle,Mobile,2025-03-20,2025-07-19 21:49:46.160753
+user_00578,40.0,31.96,2,1,donnathomas@example.com,John,Howard,,USA,Illinois,South Danielle,Mobile,2025-03-20,2025-07-19 21:49:46.160753
+user_02856,55.0,7.92,2,0,brhodes@example.org,Matthew,Farley,Female,USA,North Carolina,Bryanhaven,Tablet,2023-07-19,2024-06-19 00:53:17.305359
+user_02856,55.0,7.92,2,0,brhodes@example.org,Matthew,Farley,Female,USA,North Carolina,Bryanhaven,Tablet,2023-07-19,2024-06-19 00:53:17.305359
+user_08164,29.0,6.46,3,0,wilkinsstephen@example.org,Adam,Wells,Male,USA,Virginia,Amandamouth,Tablet,2023-12-17,2023-10-28 08:40:16.185423
+user_08164,29.0,6.46,3,0,wilkinsstephen@example.org,Adam,Wells,Male,USA,Virginia,Amandamouth,Tablet,2023-12-17,2023-10-28 08:40:16.185423
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_08158,40.0,29.65,3,1,xbush@example.org,Michael,Thomas,Male,USA,Pennsylvania,South Michele,Tablet,2023-08-24,2025-05-17 11:32:51.102036
+user_08158,40.0,29.65,3,1,xbush@example.org,Michael,Thomas,Male,USA,Pennsylvania,South Michele,Tablet,2023-08-24,2025-05-17 11:32:51.102036
+user_06696,35.0,3.39,3,0,ohart@example.com,Dennis,Murphy,Male,USA,North Carolina,Johnton,Mobile,2023-03-26,2024-12-06 07:18:38.035873
+user_06696,35.0,3.39,3,0,ohart@example.com,Dennis,Murphy,Male,USA,North Carolina,Johnton,Mobile,2023-03-26,2024-12-06 07:18:38.035873
+user_06479,45.0,11.97,2,0,kellycarr@example.net,Jessica,Riggs,Male,USA,Florida,Coffeyview,Desktop,2025-07-17,2024-11-17 18:30:15.159252
+user_06479,45.0,11.97,2,0,kellycarr@example.net,Jessica,Riggs,Male,USA,Florida,Coffeyview,Desktop,2025-07-17,2024-11-17 18:30:15.159252
+user_02365,49.0,0.67,3,1,dhardin@example.net,Paul,Garcia,Male,Canada,Ontario,South Jacquelinechester,Gaming Console,2022-10-02,2024-06-29 07:21:18.902102
+user_02365,49.0,0.67,3,1,dhardin@example.net,Paul,Garcia,Male,Canada,Ontario,South Jacquelinechester,Gaming Console,2022-10-02,2024-06-29 07:21:18.902102
+user_07445,12.0,9.35,2,0,robertsashley@example.net,Jamie,Price,Male,USA,Pennsylvania,Timothyshire,Laptop,2025-04-18,2022-08-07 04:23:21.503798
+user_07445,12.0,9.35,2,0,robertsashley@example.net,Jamie,Price,Male,USA,Pennsylvania,Timothyshire,Laptop,2025-04-18,2022-08-07 04:23:21.503798
+user_00232,13.0,21.77,3,0,michaelwalker@example.net,Dennis,Sanders,Male,USA,Tennessee,Port Tamara,Gaming Console,2024-11-08,2023-12-05 00:04:34.232091
+user_00232,13.0,21.77,3,0,michaelwalker@example.net,Dennis,Sanders,Male,USA,Tennessee,Port Tamara,Gaming Console,2024-11-08,2023-12-05 00:04:34.232091
+user_05731,34.0,3.45,3,1,ericperez@example.org,Anthony,Morrison,Male,Canada,Quebec,New Micheleside,Smart TV,2022-09-11,2023-07-28 20:04:45.711992
+user_05731,34.0,3.45,3,1,ericperez@example.org,Anthony,Morrison,Male,Canada,Quebec,New Micheleside,Smart TV,2022-09-11,2023-07-28 20:04:45.711992
+user_08419,30.0,3.05,2,0,ggonzalez@example.com,Tamara,Martinez,Male,USA,Ohio,Zacharyville,Gaming Console,2023-11-25,2024-12-12 02:12:19.737505
+user_08419,30.0,3.05,2,0,ggonzalez@example.com,Tamara,Martinez,Male,USA,Ohio,Zacharyville,Gaming Console,2023-11-25,2024-12-12 02:12:19.737505
+user_02633,55.0,12.93,1,1,john04@example.net,Connie,Norris,Other,USA,Indiana,New Nicole,Mobile,2024-10-28,2025-07-11 23:23:21.463621
+user_02633,55.0,12.93,1,1,john04@example.net,Connie,Norris,Other,USA,Indiana,New Nicole,Mobile,2024-10-28,2025-07-11 23:23:21.463621
+user_04326,24.0,13.48,3,0,rsanchez@example.org,Caleb,Martin,Female,USA,Missouri,Lake Tara,Gaming Console,2025-03-16,2022-10-18 21:04:18.694926
+user_04326,24.0,13.48,3,0,rsanchez@example.org,Caleb,Martin,Female,USA,Missouri,Lake Tara,Gaming Console,2025-03-16,2022-10-18 21:04:18.694926
+user_07327,26.0,13.48,1,0,portermary@example.com,Carl,Smith,Male,USA,North Carolina,East Jonathanhaven,Gaming Console,2023-08-19,2024-11-04 00:35:03.748084
+user_07327,26.0,13.48,1,0,portermary@example.com,Carl,Smith,Male,USA,North Carolina,East Jonathanhaven,Gaming Console,2023-08-19,2024-11-04 00:35:03.748084
+user_00491,28.0,2.2,3,0,scottolson@example.org,Jeffery,Moss,Male,Canada,Ontario,Jessicashire,Laptop,2024-08-14,2023-09-19 16:05:07.210731
+user_00491,28.0,2.2,3,0,scottolson@example.org,Jeffery,Moss,Male,Canada,Ontario,Jessicashire,Laptop,2024-08-14,2023-09-19 16:05:07.210731
+user_07160,49.0,15.06,3,1,cmoore@example.com,Arthur,Aguirre,Female,USA,California,Meganbury,Smart TV,2024-11-11,2023-10-15 08:46:17.741534
+user_07160,49.0,15.06,3,1,cmoore@example.com,Arthur,Aguirre,Female,USA,California,Meganbury,Smart TV,2024-11-11,2023-10-15 08:46:17.741534
+user_05166,43.0,6.2,2,0,thomasrollins@example.net,Mary,Henderson,Female,USA,Ohio,Ramirezhaven,Tablet,2024-12-05,2023-11-21 14:35:01.291310
+user_05166,43.0,6.2,2,0,thomasrollins@example.net,Mary,Henderson,Female,USA,Ohio,Ramirezhaven,Tablet,2024-12-05,2023-11-21 14:35:01.291310
+user_02221,21.0,23.91,1,1,paul05@example.net,Emily,Coleman,,USA,Washington,South Scottborough,Desktop,2023-01-29,2024-03-31 16:16:54.984031
+user_02221,21.0,23.91,1,1,paul05@example.net,Emily,Coleman,,USA,Washington,South Scottborough,Desktop,2023-01-29,2024-03-31 16:16:54.984031
+user_00115,30.0,19.82,1,0,jelliott@example.com,Jennifer,Scott,Male,Canada,British Columbia,New Charles,Desktop,2023-08-14,2024-03-18 00:49:13.493253
+user_00115,30.0,19.82,1,0,jelliott@example.com,Jennifer,Scott,Male,Canada,British Columbia,New Charles,Desktop,2023-08-14,2024-03-18 00:49:13.493253
+user_00126,6.0,10.26,3,1,combscharles@example.net,Kathy,Taylor,Other,Canada,Saskatchewan,Lake Edwardborough,Laptop,2023-09-15,2024-07-25 11:04:37.787323
+user_00126,6.0,10.26,3,1,combscharles@example.net,Kathy,Taylor,Other,Canada,Saskatchewan,Lake Edwardborough,Laptop,2023-09-15,2024-07-25 11:04:37.787323
+user_05273,24.0,5.53,1,0,carlsonmark@example.org,Thomas,Allen,Prefer not to say,Canada,Manitoba,New Jean,Gaming Console,2025-02-27,2025-07-05 00:20:48.842345
+user_05273,24.0,5.53,1,0,carlsonmark@example.org,Thomas,Allen,Prefer not to say,Canada,Manitoba,New Jean,Gaming Console,2025-02-27,2025-07-05 00:20:48.842345
+user_05997,33.0,3.5,1,0,kgarrison@example.net,Renee,Archer,Female,USA,Florida,New Ronaldborough,Tablet,2023-10-30,2024-01-20 21:35:50.733399
+user_05997,33.0,3.5,1,0,kgarrison@example.net,Renee,Archer,Female,USA,Florida,New Ronaldborough,Tablet,2023-10-30,2024-01-20 21:35:50.733399
+user_02752,29.0,13.48,3,0,tammy20@example.org,Thomas,Dean,Female,Canada,British Columbia,Alejandroton,Gaming Console,2024-07-19,2024-11-20 14:27:47.444705
+user_02752,29.0,13.48,3,0,tammy20@example.org,Thomas,Dean,Female,Canada,British Columbia,Alejandroton,Gaming Console,2024-07-19,2024-11-20 14:27:47.444705
+user_03486,19.0,5.4,1,0,hpatrick@example.net,Daniel,Wang,Female,USA,New York,New Bradley,Mobile,2023-01-14,2023-03-11 09:53:29.993503
+user_03486,19.0,5.4,1,0,hpatrick@example.net,Daniel,Wang,Female,USA,New York,New Bradley,Mobile,2023-01-14,2023-03-11 09:53:29.993503
+user_07947,25.0,11.78,3,0,zsmith@example.com,Brandon,Barnes,Male,Canada,British Columbia,Kennethville,Smart TV,2024-03-04,2023-05-25 13:52:50.331178
+user_07947,25.0,11.78,3,0,zsmith@example.com,Brandon,Barnes,Male,Canada,British Columbia,Kennethville,Smart TV,2024-03-04,2023-05-25 13:52:50.331178
+user_01853,30.0,5.4,3,0,ldyer@example.net,Joseph,Little,Male,USA,Georgia,New Maria,Mobile,2025-02-27,2024-01-17 14:41:02.632393
+user_01853,30.0,5.4,3,0,ldyer@example.net,Joseph,Little,Male,USA,Georgia,New Maria,Mobile,2025-02-27,2024-01-17 14:41:02.632393
+user_00369,46.0,35.06,2,1,calvinhester@example.com,Brooke,Martinez,Prefer not to say,USA,Indiana,Ramirezshire,Tablet,2024-11-07,2023-08-28 06:04:58.110198
+user_00369,46.0,35.06,2,1,calvinhester@example.com,Brooke,Martinez,Prefer not to say,USA,Indiana,Ramirezshire,Tablet,2024-11-07,2023-08-28 06:04:58.110198
+user_06000,27.0,13.48,2,0,hollanddarrell@example.com,Laurie,Austin,Male,USA,California,Smithbury,Gaming Console,2023-01-14,2023-06-30 04:57:59.279215
+user_06000,27.0,13.48,2,0,hollanddarrell@example.com,Laurie,Austin,Male,USA,California,Smithbury,Gaming Console,2023-01-14,2023-06-30 04:57:59.279215
+user_04680,48.0,8.1,3,0,andersonjames@example.org,Susan,Marquez,Female,Canada,Quebec,South Karla,Gaming Console,2025-04-13,2024-07-02 01:16:49.299067
+user_04680,48.0,8.1,3,0,andersonjames@example.org,Susan,Marquez,Female,Canada,Quebec,South Karla,Gaming Console,2025-04-13,2024-07-02 01:16:49.299067
+user_03769,48.0,13.54,3,0,fcarter@example.com,Robert,White,Female,USA,New Jersey,North Brendaton,Mobile,2024-03-08,2022-10-08 17:26:29.807139
+user_03769,48.0,13.54,3,0,fcarter@example.com,Robert,White,Female,USA,New Jersey,North Brendaton,Mobile,2024-03-08,2022-10-08 17:26:29.807139
+user_03657,8.0,12.13,1,0,whernandez@example.org,Dawn,Montgomery,Female,USA,New Jersey,Kevinborough,Mobile,2022-09-25,2023-06-12 00:33:49.007611
+user_03657,8.0,12.13,1,0,whernandez@example.org,Dawn,Montgomery,Female,USA,New Jersey,Kevinborough,Mobile,2022-09-25,2023-06-12 00:33:49.007611
+user_06072,42.0,8.85,2,1,kevin44@example.net,Amanda,Tran,Male,Canada,Saskatchewan,South Holly,Laptop,2022-12-12,2025-01-25 22:36:07.510833
+user_06072,42.0,8.85,2,1,kevin44@example.net,Amanda,Tran,Male,Canada,Saskatchewan,South Holly,Laptop,2022-12-12,2025-01-25 22:36:07.510833
+user_01684,25.0,13.49,3,0,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_01684,25.0,13.49,3,0,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_01684,25.0,13.49,3,0,xgarcia@example.net,Ryan,Johnson,,Canada,New Brunswick,Erikaburgh,Laptop,2022-10-02,2023-05-07 02:59:49.251600
+user_02666,41.0,34.3,1,1,davidsmith@example.net,Arthur,Watson,Male,USA,Illinois,Port Crystal,Smart TV,2023-08-30,2024-12-20 11:54:49.850810
+user_02666,41.0,34.3,1,1,davidsmith@example.net,Arthur,Watson,Male,USA,Illinois,Port Crystal,Smart TV,2023-08-30,2024-12-20 11:54:49.850810
+user_01450,58.0,24.09,3,0,trevinoduane@example.org,Daniel,Anderson,Female,USA,Tennessee,Scottmouth,Smart TV,2024-05-27,2022-12-01 19:37:46.050597
+user_01450,58.0,24.09,3,0,trevinoduane@example.org,Daniel,Anderson,Female,USA,Tennessee,Scottmouth,Smart TV,2024-05-27,2022-12-01 19:37:46.050597
+user_09094,41.0,16.47,3,0,johnstewart@example.net,Rebecca,Ross,Male,Canada,British Columbia,Staceymouth,Laptop,2024-12-05,2024-08-14 19:22:50.820140
+user_09094,41.0,16.47,3,0,johnstewart@example.net,Rebecca,Ross,Male,Canada,British Columbia,Staceymouth,Laptop,2024-12-05,2024-08-14 19:22:50.820140
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_09536,32.0,6.25,3,1,ojenkins@example.net,Larry,Miller,Male,USA,Texas,South Monicafort,Laptop,2023-03-31,2024-09-26 04:11:10.155357
+user_03589,63.0,13.48,2,0,ewallace@example.org,Lisa,Lara,Female,USA,Florida,East Andrewshire,Tablet,2022-12-23,2023-05-01 21:17:24.436683
+user_03589,63.0,13.48,2,0,ewallace@example.org,Lisa,Lara,Female,USA,Florida,East Andrewshire,Tablet,2022-12-23,2023-05-01 21:17:24.436683
+user_00587,33.0,1.91,1,0,mhanson@example.org,Aaron,Meyer,Prefer not to say,Canada,Alberta,North Thomas,Smart TV,2023-10-04,2023-06-27 16:52:16.576979
+user_00587,33.0,1.91,1,0,mhanson@example.org,Aaron,Meyer,Prefer not to say,Canada,Alberta,North Thomas,Smart TV,2023-10-04,2023-06-27 16:52:16.576979
+user_03096,31.0,3.08,1,0,pedrocruz@example.org,Jasmine,Reed,Male,USA,Maryland,Lake Staceyview,Mobile,2024-02-18,2023-09-18 12:34:39.700019
+user_03096,31.0,3.08,1,0,pedrocruz@example.org,Jasmine,Reed,Male,USA,Maryland,Lake Staceyview,Mobile,2024-02-18,2023-09-18 12:34:39.700019
+user_03893,27.0,9.59,3,0,bellrobert@example.com,Kevin,Ford,Male,USA,Washington,South Johnport,Mobile,2022-09-12,2022-10-07 16:48:11.173874
+user_03893,27.0,9.59,3,0,bellrobert@example.com,Kevin,Ford,Male,USA,Washington,South Johnport,Mobile,2022-09-12,2022-10-07 16:48:11.173874
+user_05638,38.0,13.48,2,0,kevingonzalez@example.com,Brenda,Collins,Male,USA,Illinois,North Wesley,Gaming Console,2022-12-03,2022-11-06 07:41:48.396880
+user_05638,38.0,13.48,2,0,kevingonzalez@example.com,Brenda,Collins,Male,USA,Illinois,North Wesley,Gaming Console,2022-12-03,2022-11-06 07:41:48.396880
+user_04651,53.0,12.84,3,1,tasha89@example.net,Amber,Sanchez,Male,Canada,Newfoundland and Labrador,North Vanessa,Gaming Console,2025-03-19,2022-12-31 20:22:14.706924
+user_04651,53.0,12.84,3,1,tasha89@example.net,Amber,Sanchez,Male,Canada,Newfoundland and Labrador,North Vanessa,Gaming Console,2025-03-19,2022-12-31 20:22:14.706924
+user_01138,56.0,8.21,3,1,fallen@example.net,Michael,Garcia,Male,USA,North Carolina,South Sue,Laptop,2024-07-25,2024-01-01 17:49:38.892987
+user_01138,56.0,8.21,3,1,fallen@example.net,Michael,Garcia,Male,USA,North Carolina,South Sue,Laptop,2024-07-25,2024-01-01 17:49:38.892987
+user_09389,15.0,15.52,1,1,omoore@example.com,Corey,Robinson,Other,Canada,Ontario,Ricemouth,Laptop,2025-03-15,2025-08-01 02:23:54.467072
+user_09389,15.0,15.52,1,1,omoore@example.com,Corey,Robinson,Other,Canada,Ontario,Ricemouth,Laptop,2025-03-15,2025-08-01 02:23:54.467072
