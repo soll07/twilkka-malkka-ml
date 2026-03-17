@@ -48,7 +48,7 @@ flowchart LR
     classDef orangeNode fill:#ffe5b4,stroke:#ff851b,stroke-width:2px;
     
 ```
-<div align="left"> <img width="1492" height="1000" alt="Image" src="09_assets/wbs.png" width="10%" height="10%"/> </div>
+<div align="left"> <img width="1507" height="1597" alt="Image" src="09_assets/wbs.png" width="10%" height="10%"/> </div>
 
 ---
 
