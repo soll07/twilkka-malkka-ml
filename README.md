@@ -48,7 +48,7 @@ flowchart LR
     classDef orangeNode fill:#ffe5b4,stroke:#ff851b,stroke-width:2px;
     
 ```
-<div align="left"> <img width="1507" height="1597" alt="Image" src="09_assets/wbs.png" width="10%" height="10%"/> </div>
+<div align="left"> <img width="1407" height="1497" alt="Image" src="09_assets/wbs.png" width="10%" height="10%"/> </div>
 
 ---
 
@@ -62,7 +62,7 @@ flowchart LR
 | 머신러닝 | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC5E0C?style=for-the-badge)                                                                                                                                                                            |
 | 앱 프레임워크 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)                                                                                                                                                                                       |
 | 파일 입출력 | ![JSON](https://img.shields.io/badge/json-%234479A1.svg?style=for-the-badge&logo=Json&logoColor=white) ![joblib](https://img.shields.io/badge/joblib-FFCA28?style=for-the-badge)|
-| 버전 관리 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                                                |
+| 버전 관리 | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                                                |
 
 ---
 ## 📁 폴더 구조
@@ -286,13 +286,204 @@ project/
 - **모델 범위**: 머신러닝 3종 비교에 그치며, 딥러닝·하이브리드 앙상블 등 추가 실험 미수행
 - **설명 가능성**: 피처 중요도 수준의 해석만 제공, 개인별 예측 근거 설명 미구현
 
-### 향후 개선 방향
+### 향후 발전 방향
 
 - [ ] **다양한 OTT 플랫폼 데이터 통합** 분석으로 일반화 가능성 확대
-- [ ] **SHAP 기반 개인별 예측 설명** 추가 (왜 이 고객이 이탈 위험군인가?)
-- [ ] **딥러닝 모델 실험** (TabNet, LSTM 기반 시계열 행동 패턴 학습)
-- [ ] **실시간 추론 API** 구축 (FastAPI + 배치 스케줄링)
-- [ ] **모델 모니터링 & 자동 재학습** 파이프라인 (MLflow 연동)
+- [ ] **딥러닝 모델 실험** (Deep Learning, Easy Ensemble, Stacking Ensemble 비교 연구)
 - [ ] **콘텐츠 장르 선호도, 추천 반응 데이터** 등 행동 변수 확장
 
 ---
+## 프로젝트 팀원 회고
+
+본 프로젝트 수행 과정에서 팀원 간 협업 경험과 기여도를 상호 평가하기 위해 회고를 기록한다.  
+평가 내용은 자유롭게 작성하며, 프로젝트 기여·협업·문제해결·리더십 등을 중심으로 기술한다.
+
+---
+
+### 김민하 회고
+
+<table>
+  <tr>
+    <th align="center" width="90">평가자</th>
+    <th align="center">회고 내용</th>
+  </tr>
+  <tr>
+    <td align="center"><nobr>배재현</nobr></td>
+    <td>Logistic Regression 모델링과 EDA를 수행하며 프로젝트 분석의 기초를 안정적으로 구축하였다. 회의록 작성과 README 정리를 통해 팀 내 정보 공유와 작업 흐름을 체계적으로 관리하는 데 기여하였으며, 꾸준하고 성실한 태도로 프로젝트 전반이 원활하게 진행될 수 있도록 든든한 기반을 다지는 역할을 수행하였다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>이창우</nobr></td>
+    <td>회의가 있을때마다 회의록을 잘 정리해주시고, EDA 결과 등 제가 잘 신경쓰지 못했던 notion 및 문서 관리 부분을 잘 맡아주셨습니다. 또한 윤하님의 모델 구축 과정에 맞추어 LogisticRegression 모델 구축을 해 주셔서 모델 파이프라인 구축에 도움이 되었습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>장한재</nobr></td>
+    <td>프로젝트에서 EDA와 Logistic Regression 모델링을 함께 맡아 데이터의 흐름을 이해하고 기본 성능을 확인하는 데 큰 기여를 해주셨습니다. 또한 회의록도 함께 담당해주셔서 팀의 진행 상황과 결과를 체계적으로 정리할 수 있었고, 덕분에 프로젝트 전반의 흐름을 보다 명확하게 파악할 수 있었습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>전윤하</nobr></td>
+    <td>모델링 업무를 성실하게 수행하며 프로젝트의 기술적 완성도를 높이는 데 기여했습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>정다솔</nobr></td>
+    <td>모델링을 맡아 베이스라인 모델의 기준을 잡아주셨고, EDA를 통해 데이터의 주요 패턴을 파악하고, 회의록과 README까지 꼼꼼하게 정리해주셔서 팀원들이 확인하기 편하게 해주셨습니다. 문서화 작업 덕분에 프로젝트의 흐름이 명확하게 유지될 수 있었습니다.</td>
+  </tr>
+</table>
+
+---
+
+### 배재현 회고
+
+<table>
+  <tr>
+    <th align="center" width="90">평가자</th>
+    <th align="center">회고 내용</th>
+  </tr>
+  <tr>
+    <td align="center"><nobr>김민하</nobr></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>이창우</nobr></td>
+    <td>1차로 사용한 데이터의 EDA 과정에서 기초 통계 분석에 더해 EFA 분석이라는 전혀 생각하지 못한 도구를 통해 feature를 추출하는 방식을 보여 주셔서 모델 입력 데이터 구축 시에 큰 도움을 받았습니다. 또한 프로젝트의 기획적인 부분을 잘 설정해 주셨고 발표자료 역시 아주 높은 퀄리티로 만들어 주셔서 발표까지 잘 마무리 할 수 있었던 것 같습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>장한재</nobr></td>
+    <td>데이터 수집 및 전처리뿐만 아니라 PPT 작성, 발표까지 폭넓게 맡아 프로젝트가 체계적으로 정리되고 전달될 수 있도록 해주셨습니다. 특히 발표 자료를 이해하기 쉽게 구성해주셔서 프로젝트 내용을 효과적으로 전달하는 데 큰 역할을 해주셨습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>전윤하</nobr></td>
+    <td>프로젝트 기획과 발표를 담당하며 회의를 적극적으로 이끌고 팀 내 의견을 효과적으로 조율했습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>정다솔</nobr></td>
+    <td>데이터 수집과 전처리를 담당하며 분석의 토대를 마련해주셨고, 프로젝트의 기획과 PPT, 발표까지 직접 맡아 프로젝트의 마무리가 잘 될 수 있도록 큰 역할을 해주셨습니다. 복잡한 분석 내용을 이해하기 쉽게 정리하고 전달해주신 덕분에 프로젝트 결과가 더욱 빛날 수 있었습니다.</td>
+  </tr>
+</table>
+
+---
+### 이창우 회고
+
+<table>
+  <tr>
+    <th align="center" width="90">평가자</th>
+    <th align="center">회고 내용</th>
+  </tr>
+  <tr>
+    <td align="center"><nobr>김민하</nobr></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>배재현</nobr></td>
+    <td>데이터 전처리와 피처 생성, train/predict 파이프라인 구축을 담당하며 프로젝트의 기술적 기반을 탄탄하게 마련하였다. 모델이 실제로 작동할 수 있도록 전체 흐름을 설계하고 안정적으로 구현하였으며, 꼼꼼한 성격을 바탕으로 코드 구조를 체계적으로 정리하여 결과물의 완성도를 높이는 데 핵심적인 역할을 수행하였다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>장한재</nobr></td>
+    <td>데이터 수집 및 전처리, feature 생성, train 및 predict 파이프라인 구축과 모듈화까지 맡아 프로젝트의 핵심 기술 구조를 탄탄하게 만들어주셨습니다. 특히 반복적으로 활용할 수 있는 형태로 코드를 구성해주셔서 작업 효율성과 재현성을 높여주셨고, 프로젝트가 안정적으로 구현되는 데 큰 기여를 해주셨습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>전윤하</nobr></td>
+    <td>맡은 역할을 묵묵히 수행하며 프로젝트가 안정적으로 진행될 수 있도록 기반을 뒷받침했습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>정다솔</nobr></td>
+    <td>데이터 전처리와 feature 생성, train/predict 파이프라인 구축 및 모듈화까지 기술적인 부분을 전반적으로 담당해주셨습니다. 코드가 체계적으로 정리된 덕분에 팀원 모두가 일관된 방식으로 실험을 진행할 수 있었고, 재현 가능한 분석 환경을 만드는 데 중요한 역할을 해주셨습니다.</td>
+  </tr>
+</table>
+
+---
+
+### 장한재 회고
+
+<table>
+  <tr>
+    <th align="center" width="90">평가자</th>
+    <th align="center">회고 내용</th>
+  </tr>
+  <tr>
+    <td align="center"><nobr>김민하</nobr></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>배재현</nobr></td>
+    <td>데이터 수집부터 EDA, Streamlit 대시보드 구현까지 폭넓게 담당하며 프로젝트 결과의 활용도를 크게 높였다. 문제를 적극적으로 해결해나가는 태도와 지속적인 의견 제시를 바탕으로 코드 구조 정리에도 기여하였으며, 실용적인 시각으로 프로젝트 전반의 완성도를 높이는 데 중요한 역할을 수행하였다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>이창우</nobr></td>
+    <td>프로젝트 폴더 구조를 상세하게 잡아주셔서 모듈화에 있어 어려움을 덜 수 있었습니다. 또한 front 부분을 맡아 view/state/service 등 streamlit이 아닌 일반 웹 프론트 개발을 하는 것처럼 코드 구조화를 잘 해주셔서 안정성 있는 front app이 만들어질 수 있었던 것 같습니다. 덕분에 data 및 model pipeline에 집중하여 더욱 완성도 높은 코드를 작성할 수 있었던 것 같습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>전윤하</nobr></td>
+    <td>다양한 의견을 적극적으로 제시하고 어려운 상황에서 팀원들을 지원하며 협업에 기여했습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>정다솔</nobr></td>
+    <td>다양한 의견을 적극적으로 제시하며 협업 규칙을 체계적으로 정리해주셔서 팀의 방향성을 잡는 데 큰 도움이 되었습니다. 또한 머신러닝 모델 결과를 Streamlit 대시보드로 구현해주셔서, 팀원들이 결과를 직관적으로 확인하고 보다 구체적인 논의를 이어갈 수 있었습니다.</td>
+  </tr>
+</table>
+
+---
+
+### 전윤하 회고
+
+<table>
+  <tr>
+    <th align="center" width="90">평가자</th>
+    <th align="center">회고 내용</th>
+  </tr>
+  <tr>
+    <td align="center"><nobr>김민하</nobr></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>배재현</nobr></td>
+    <td>Random Forest와 XGBoost 모델링을 중심으로 성능 개선을 주도하며 지속적인 검증과 반복적인 개선을 통해 프로젝트의 신뢰도를 높이는 데 기여하였다. 성실하고 꾸준한 태도를 바탕으로 분석의 안정성을 확보하였으며, 결과 해석의 완성도를 높이는 데 중요한 역할을 수행하였다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>이창우</nobr></td>
+    <td>완성된 모델 학습 데이터셋을 통해 RandomForest와 XGBoost 모델 구축을 맡으셨습니다. 학습 과정과 모델별 하이퍼파라미터 최적화, threshold tuning 및 성능 시각화까지의 과정을 일관되게 정리해 주셔서 모델 파이프라인 구축을 훨씬 편하게 할 수 있었습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>장한재</nobr></td>
+    <td>Random Forest, XGBoost 모델링을 담당해 다양한 모델을 비교하고 성능을 높이는 데 기여해주셨습니다. 또한 GitHub 총괄 관리까지 맡아 협업 과정에서 자료와 코드를 체계적으로 정리해주셔서 팀원들이 보다 원활하게 작업할 수 있었고, 프로젝트의 기술적 완성도를 높이는 데 중요한 역할을 해주셨습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>정다솔</nobr></td>
+    <td>GitHub 총괄 관리를 맡아 팀원들이 충돌 없이 협업할 수 있는 환경을 만들어주셨습니다. Random Forest와 XGBoost 모델링을 통해 핵심 예측 성능을 끌어올리는 데 크게 기여해주셨으며, 버전 관리가 체계적으로 이루어져 프로젝트 전반이 안정적으로 진행될 수 있었습니다.</td>
+  </tr>
+</table>
+
+---
+
+### 정다솔 회고
+
+<table>
+  <tr>
+    <th align="center" width="90">평가자</th>
+    <th align="center">회고 내용</th>
+  </tr>
+  <tr>
+    <td align="center"><nobr>김민하</nobr></td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>배재현</nobr></td>
+    <td>EDA와 README 작성, 노션 정리를 주도적으로 담당하며 프로젝트 전반의 결과물을 체계적으로 구조화하는 데 핵심적인 역할을 수행하였다. 높은 책임감과 뛰어난 집중력을 바탕으로 프로젝트 진행 과정에서 미흡한 부분을 적극적으로 보완하였으며, Streamlit 구현과 UI 설계를 통해 사용자 관점에서 결과를 명확하게 전달하는 데 실질적인 기여를 하였다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>이창우</nobr></td>
+    <td>figma를 통해 streamlit page의 디자인을 맡아주시고, page 기능 구현에 도움을 주셨습니다. 또한 README 내용을 깔끔하게 정리해 주셔서 기술적인 내용의 정리에 집중할 수 있었습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>장한재</nobr></td>
+    <td>Streamlit 구현과 UI 디자인을 함께 맡아 프로젝트 결과물이 보다 보기 좋고 사용자 친화적으로 완성될 수 있도록 해주셨습니다. 또한 노션 정리까지 담당해주셔서 분석 과정과 결과를 정리하는 데 많은 도움이 되었고, 팀의 산출물이 깔끔하게 정리될 수 있도록 기여해주셨습니다.</td>
+  </tr>
+  <tr>
+    <td align="center"><nobr>전윤하</nobr></td>
+    <td>CRM 디자인을 주도적으로 수행하고 프로젝트 Notion을 구축 및 체계적으로 관리하여 협업 환경을 정비하는 데 기여했습니다.</td>
+  </tr>
+</table>
